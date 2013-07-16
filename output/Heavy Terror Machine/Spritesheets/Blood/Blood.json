@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "bloodsplat30000": {
+  "frames": [
+    {
+      "name": "bloodsplat30000",
       "rectangle": {
         "x": 10,
         "y": 10,
@@ -14,7 +15,8 @@
         "h": 246
       }
     },
-    "bloodsplat30001": {
+    {
+      "name": "bloodsplat30001",
       "rectangle": {
         "x": 51,
         "y": 10,
@@ -28,7 +30,8 @@
         "h": 246
       }
     },
-    "bloodsplat30002": {
+    {
+      "name": "bloodsplat30002",
       "rectangle": {
         "x": 156,
         "y": 10,
@@ -42,7 +45,8 @@
         "h": 246
       }
     },
-    "bloodsplat30003": {
+    {
+      "name": "bloodsplat30003",
       "rectangle": {
         "x": 326,
         "y": 10,
@@ -56,7 +60,8 @@
         "h": 246
       }
     },
-    "bloodsplat30004": {
+    {
+      "name": "bloodsplat30004",
       "rectangle": {
         "x": 326,
         "y": 10,
@@ -70,7 +75,8 @@
         "h": 246
       }
     },
-    "bloodsplat30005": {
+    {
+      "name": "bloodsplat30005",
       "rectangle": {
         "x": 551,
         "y": 10,
@@ -84,7 +90,8 @@
         "h": 246
       }
     },
-    "bloodsplat30006": {
+    {
+      "name": "bloodsplat30006",
       "rectangle": {
         "x": 10,
         "y": 204,
@@ -98,7 +105,8 @@
         "h": 246
       }
     },
-    "bloodsplat30007": {
+    {
+      "name": "bloodsplat30007",
       "rectangle": {
         "x": 260,
         "y": 204,
@@ -112,7 +120,8 @@
         "h": 246
       }
     },
-    "bloodsplat30008": {
+    {
+      "name": "bloodsplat30008",
       "rectangle": {
         "x": 260,
         "y": 204,
@@ -126,7 +135,8 @@
         "h": 246
       }
     },
-    "bloodsplat30009": {
+    {
+      "name": "bloodsplat30009",
       "rectangle": {
         "x": 517,
         "y": 204,
@@ -140,7 +150,8 @@
         "h": 246
       }
     },
-    "bloodsplat30010": {
+    {
+      "name": "bloodsplat30010",
       "rectangle": {
         "x": 517,
         "y": 204,
@@ -154,7 +165,8 @@
         "h": 246
       }
     },
-    "bloodsplat30011": {
+    {
+      "name": "bloodsplat30011",
       "rectangle": {
         "x": 774,
         "y": 204,
@@ -168,7 +180,8 @@
         "h": 246
       }
     },
-    "bloodsplat30012": {
+    {
+      "name": "bloodsplat30012",
       "rectangle": {
         "x": 774,
         "y": 204,
@@ -182,7 +195,8 @@
         "h": 246
       }
     },
-    "bloodsplat30013": {
+    {
+      "name": "bloodsplat30013",
       "rectangle": {
         "x": 10,
         "y": 409,
@@ -196,7 +210,8 @@
         "h": 246
       }
     },
-    "bloodsplat30014": {
+    {
+      "name": "bloodsplat30014",
       "rectangle": {
         "x": 248,
         "y": 409,
@@ -210,7 +225,8 @@
         "h": 246
       }
     },
-    "bloodsplat30015": {
+    {
+      "name": "bloodsplat30015",
       "rectangle": {
         "x": 248,
         "y": 409,
@@ -224,7 +240,8 @@
         "h": 246
       }
     },
-    "bloodsplat30016": {
+    {
+      "name": "bloodsplat30016",
       "rectangle": {
         "x": 469,
         "y": 409,
@@ -238,7 +255,8 @@
         "h": 246
       }
     },
-    "bloodsplat30017": {
+    {
+      "name": "bloodsplat30017",
       "rectangle": {
         "x": 690,
         "y": 409,
@@ -252,7 +270,8 @@
         "h": 246
       }
     },
-    "bloodsplat30018": {
+    {
+      "name": "bloodsplat30018",
       "rectangle": {
         "x": 690,
         "y": 409,
@@ -266,7 +285,8 @@
         "h": 246
       }
     },
-    "bloodsplat30019": {
+    {
+      "name": "bloodsplat30019",
       "rectangle": {
         "x": 854,
         "y": 409,
@@ -280,7 +300,8 @@
         "h": 246
       }
     },
-    "bloodsplat30020": {
+    {
+      "name": "bloodsplat30020",
       "rectangle": {
         "x": 10,
         "y": 614,
@@ -294,7 +315,8 @@
         "h": 246
       }
     },
-    "bloodsplat30021": {
+    {
+      "name": "bloodsplat30021",
       "rectangle": {
         "x": 10,
         "y": 614,
@@ -308,7 +330,8 @@
         "h": 246
       }
     },
-    "bloodsplat30022": {
+    {
+      "name": "bloodsplat30022",
       "rectangle": {
         "x": 10,
         "y": 614,
@@ -322,6 +345,6 @@
         "h": 246
       }
     }
-  },
+  ],
   "image_name": "Blood.png"
 }

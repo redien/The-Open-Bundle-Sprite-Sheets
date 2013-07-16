@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "rank1": {
+  "frames": [
+    {
+      "name": "rank1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -14,7 +15,8 @@
         "h": 10
       }
     },
-    "rank2": {
+    {
+      "name": "rank2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -28,7 +30,8 @@
         "h": 10
       }
     },
-    "rank3": {
+    {
+      "name": "rank3",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -42,7 +45,8 @@
         "h": 10
       }
     },
-    "rank4": {
+    {
+      "name": "rank4",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -56,6 +60,6 @@
         "h": 10
       }
     }
-  },
+  ],
   "image_name": "rankings.gif"
 }

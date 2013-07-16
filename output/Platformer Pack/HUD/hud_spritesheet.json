@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "hud_0": {
+  "frames": [
+    {
+      "name": "hud_0",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -14,7 +15,8 @@
         "h": 38
       }
     },
-    "hud_1": {
+    {
+      "name": "hud_1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -28,7 +30,8 @@
         "h": 37
       }
     },
-    "hud_2": {
+    {
+      "name": "hud_2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -42,7 +45,8 @@
         "h": 38
       }
     },
-    "hud_3": {
+    {
+      "name": "hud_3",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -56,7 +60,8 @@
         "h": 38
       }
     },
-    "hud_4": {
+    {
+      "name": "hud_4",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -70,7 +75,8 @@
         "h": 38
       }
     },
-    "hud_5": {
+    {
+      "name": "hud_5",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -84,7 +90,8 @@
         "h": 38
       }
     },
-    "hud_6": {
+    {
+      "name": "hud_6",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -98,7 +105,8 @@
         "h": 38
       }
     },
-    "hud_7": {
+    {
+      "name": "hud_7",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -112,7 +120,8 @@
         "h": 39
       }
     },
-    "hud_8": {
+    {
+      "name": "hud_8",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -126,7 +135,8 @@
         "h": 40
       }
     },
-    "hud_9": {
+    {
+      "name": "hud_9",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -140,7 +150,8 @@
         "h": 39
       }
     },
-    "hud_coins": {
+    {
+      "name": "hud_coins",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -154,7 +165,8 @@
         "h": 47
       }
     },
-    "hud_heartEmpty": {
+    {
+      "name": "hud_heartEmpty",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -168,7 +180,8 @@
         "h": 45
       }
     },
-    "hud_heartFull": {
+    {
+      "name": "hud_heartFull",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -182,7 +195,8 @@
         "h": 45
       }
     },
-    "hud_heartHalf": {
+    {
+      "name": "hud_heartHalf",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -196,7 +210,8 @@
         "h": 45
       }
     },
-    "hud_keyBlue": {
+    {
+      "name": "hud_keyBlue",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -210,7 +225,8 @@
         "h": 40
       }
     },
-    "hud_keyBlue_disabled": {
+    {
+      "name": "hud_keyBlue_disabled",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -224,7 +240,8 @@
         "h": 40
       }
     },
-    "hud_keyGreem_disabled": {
+    {
+      "name": "hud_keyGreem_disabled",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -238,7 +255,8 @@
         "h": 40
       }
     },
-    "hud_keyGreen": {
+    {
+      "name": "hud_keyGreen",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -252,7 +270,8 @@
         "h": 40
       }
     },
-    "hud_keyRed": {
+    {
+      "name": "hud_keyRed",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -266,7 +285,8 @@
         "h": 40
       }
     },
-    "hud_keyRed_disabled": {
+    {
+      "name": "hud_keyRed_disabled",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -280,7 +300,8 @@
         "h": 40
       }
     },
-    "hud_keyYellow": {
+    {
+      "name": "hud_keyYellow",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -294,7 +315,8 @@
         "h": 40
       }
     },
-    "hud_keyYellow_disabled": {
+    {
+      "name": "hud_keyYellow_disabled",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -308,7 +330,8 @@
         "h": 40
       }
     },
-    "hud_p1": {
+    {
+      "name": "hud_p1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -322,7 +345,8 @@
         "h": 47
       }
     },
-    "hud_p1Alt": {
+    {
+      "name": "hud_p1Alt",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -336,7 +360,8 @@
         "h": 47
       }
     },
-    "hud_p2": {
+    {
+      "name": "hud_p2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -350,7 +375,8 @@
         "h": 47
       }
     },
-    "hud_p2Alt": {
+    {
+      "name": "hud_p2Alt",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -364,7 +390,8 @@
         "h": 47
       }
     },
-    "hud_p3": {
+    {
+      "name": "hud_p3",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -378,7 +405,8 @@
         "h": 47
       }
     },
-    "hud_p3Alt": {
+    {
+      "name": "hud_p3Alt",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -392,7 +420,8 @@
         "h": 47
       }
     },
-    "hud_x": {
+    {
+      "name": "hud_x",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -406,6 +435,6 @@
         "h": 28
       }
     }
-  },
+  ],
   "image_name": "hud_spritesheet.png"
 }

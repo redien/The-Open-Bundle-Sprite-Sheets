@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "1_1": {
+  "frames": [
+    {
+      "name": "1_1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -14,6 +15,6 @@
         "h": 5
       }
     }
-  },
+  ],
   "image_name": "shadow.png"
 }

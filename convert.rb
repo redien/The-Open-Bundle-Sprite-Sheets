@@ -696,7 +696,7 @@ for source in sources
     filepath = source[:path] + '/'  + source[:name]
     FileUtils.mkpath('output/' + source[:path])
     puts 'converting ' + filepath
-    frames = {}
+    frames = []
     object = {
         "frames" => frames
     }
@@ -708,11 +708,12 @@ for source in sources
             
             parsed_frames.keys.sort.each do |key|
                 frame = {
+                    "name" => key,
                     "rectangle" => parsed_frames[key]["frame"],
                     "source_rectangle" => parsed_frames[key]["spriteSourceSize"]
                 }
                 
-                frames[key] = frame
+                frames << frame
             end
         }
 
@@ -735,11 +736,12 @@ for source in sources
                 "h" => values[3].to_i
             }
             frame = {
+                "name" => key,
                 "rectangle" => rectangle,
                 "source_rectangle" => source_rectangle
             }
 
-            frames[key] = frame
+            frames << frame
         end
 
     elsif source[:type] == :image_sequence
@@ -780,7 +782,8 @@ for source in sources
                     max_y = y + frame_image.rows
                 end
 
-                frames[section.to_s + "_" + frame.to_s] = {
+                frames << {
+                    "name" => section.to_s + "_" + frame.to_s,
                     "rectangle" => rectangle,
                     "source_rectangle" => source_rectangle
                 }
@@ -811,7 +814,8 @@ for source in sources
                     "h" => tile_height
                 }
 
-                frames[(row + 1).to_s + "_" + (column + 1).to_s] = {
+                frames << {
+                    "name" => (row + 1).to_s + "_" + (column + 1).to_s,
                     "rectangle" => rectangle,
                     "source_rectangle" => source_rectangle
                 }
@@ -824,7 +828,8 @@ for source in sources
             
             for file in files
                 rectangle, source_rectangle = packer.add(Magick::Image.read(file).first)
-                frames[file.sub(image_type, '')] = {
+                frames << {
+                    "name" => file.sub(image_type, ''),
                     "rectangle" => rectangle,
                     "source_rectangle" => source_rectangle
                 }

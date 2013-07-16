@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "bloodA0000": {
+  "frames": [
+    {
+      "name": "bloodA0000",
       "rectangle": {
         "x": 10,
         "y": 10,
@@ -14,7 +15,8 @@
         "h": 498
       }
     },
-    "bloodA0001": {
+    {
+      "name": "bloodA0001",
       "rectangle": {
         "x": 172,
         "y": 10,
@@ -28,7 +30,8 @@
         "h": 498
       }
     },
-    "bloodA0002": {
+    {
+      "name": "bloodA0002",
       "rectangle": {
         "x": 329,
         "y": 10,
@@ -42,7 +45,8 @@
         "h": 498
       }
     },
-    "bloodA0003": {
+    {
+      "name": "bloodA0003",
       "rectangle": {
         "x": 557,
         "y": 10,
@@ -56,7 +60,8 @@
         "h": 498
       }
     },
-    "bloodA0004": {
+    {
+      "name": "bloodA0004",
       "rectangle": {
         "x": 850,
         "y": 10,
@@ -70,7 +75,8 @@
         "h": 498
       }
     },
-    "bloodA0005": {
+    {
+      "name": "bloodA0005",
       "rectangle": {
         "x": 1193,
         "y": 10,
@@ -84,7 +90,8 @@
         "h": 498
       }
     },
-    "bloodA0006": {
+    {
+      "name": "bloodA0006",
       "rectangle": {
         "x": 10,
         "y": 386,
@@ -98,7 +105,8 @@
         "h": 498
       }
     },
-    "bloodA0007": {
+    {
+      "name": "bloodA0007",
       "rectangle": {
         "x": 10,
         "y": 386,
@@ -112,7 +120,8 @@
         "h": 498
       }
     },
-    "bloodA0008": {
+    {
+      "name": "bloodA0008",
       "rectangle": {
         "x": 477,
         "y": 386,
@@ -126,7 +135,8 @@
         "h": 498
       }
     },
-    "bloodA0009": {
+    {
+      "name": "bloodA0009",
       "rectangle": {
         "x": 477,
         "y": 386,
@@ -140,7 +150,8 @@
         "h": 498
       }
     },
-    "bloodA0010": {
+    {
+      "name": "bloodA0010",
       "rectangle": {
         "x": 989,
         "y": 386,
@@ -154,7 +165,8 @@
         "h": 498
       }
     },
-    "bloodA0011": {
+    {
+      "name": "bloodA0011",
       "rectangle": {
         "x": 989,
         "y": 386,
@@ -168,7 +180,8 @@
         "h": 498
       }
     },
-    "bloodA0012": {
+    {
+      "name": "bloodA0012",
       "rectangle": {
         "x": 1549,
         "y": 386,
@@ -182,7 +195,8 @@
         "h": 498
       }
     },
-    "bloodA0013": {
+    {
+      "name": "bloodA0013",
       "rectangle": {
         "x": 1549,
         "y": 386,
@@ -196,7 +210,8 @@
         "h": 498
       }
     },
-    "bloodA0014": {
+    {
+      "name": "bloodA0014",
       "rectangle": {
         "x": 10,
         "y": 894,
@@ -210,7 +225,8 @@
         "h": 498
       }
     },
-    "bloodA0015": {
+    {
+      "name": "bloodA0015",
       "rectangle": {
         "x": 10,
         "y": 894,
@@ -224,7 +240,8 @@
         "h": 498
       }
     },
-    "bloodA0016": {
+    {
+      "name": "bloodA0016",
       "rectangle": {
         "x": 10,
         "y": 894,
@@ -238,7 +255,8 @@
         "h": 498
       }
     },
-    "bloodA0017": {
+    {
+      "name": "bloodA0017",
       "rectangle": {
         "x": 470,
         "y": 894,
@@ -252,7 +270,8 @@
         "h": 498
       }
     },
-    "bloodA0018": {
+    {
+      "name": "bloodA0018",
       "rectangle": {
         "x": 470,
         "y": 894,
@@ -266,7 +285,8 @@
         "h": 498
       }
     },
-    "bloodA0019": {
+    {
+      "name": "bloodA0019",
       "rectangle": {
         "x": 470,
         "y": 894,
@@ -280,6 +300,6 @@
         "h": 498
       }
     }
-  },
+  ],
   "image_name": "BloodSpurt.png"
 }

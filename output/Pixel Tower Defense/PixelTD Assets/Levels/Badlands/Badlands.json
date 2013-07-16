@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "BadlandsCrater1": {
+  "frames": [
+    {
+      "name": "BadlandsCrater1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -14,7 +15,8 @@
         "h": 50
       }
     },
-    "BadlandsCrater2": {
+    {
+      "name": "BadlandsCrater2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -28,7 +30,8 @@
         "h": 50
       }
     },
-    "BadlandsPond1": {
+    {
+      "name": "BadlandsPond1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -42,7 +45,8 @@
         "h": 16
       }
     },
-    "BadlandsPond2": {
+    {
+      "name": "BadlandsPond2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -56,7 +60,8 @@
         "h": 18
       }
     },
-    "BadlandsPond3": {
+    {
+      "name": "BadlandsPond3",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -70,7 +75,8 @@
         "h": 31
       }
     },
-    "BadlandsRocks1": {
+    {
+      "name": "BadlandsRocks1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -84,7 +90,8 @@
         "h": 53
       }
     },
-    "BadlandsRocks2": {
+    {
+      "name": "BadlandsRocks2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -98,7 +105,8 @@
         "h": 23
       }
     },
-    "BadlandsRocks3": {
+    {
+      "name": "BadlandsRocks3",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -112,7 +120,8 @@
         "h": 23
       }
     },
-    "Badlandstree1": {
+    {
+      "name": "Badlandstree1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -126,7 +135,8 @@
         "h": 74
       }
     },
-    "grid_badlands": {
+    {
+      "name": "grid_badlands",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -140,7 +150,8 @@
         "h": 100
       }
     },
-    "tileBadlands1": {
+    {
+      "name": "tileBadlands1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -154,7 +165,8 @@
         "h": 25
       }
     },
-    "tileBadlands2": {
+    {
+      "name": "tileBadlands2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -168,6 +180,6 @@
         "h": 25
       }
     }
-  },
+  ],
   "image_name": "Badlands.png"
 }

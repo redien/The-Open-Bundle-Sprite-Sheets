@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "desertHouse": {
+  "frames": [
+    {
+      "name": "desertHouse",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -14,7 +15,8 @@
         "h": 60
       }
     },
-    "desertHouse2": {
+    {
+      "name": "desertHouse2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -28,7 +30,8 @@
         "h": 60
       }
     },
-    "desertOasis": {
+    {
+      "name": "desertOasis",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -42,7 +45,8 @@
         "h": 28
       }
     },
-    "deserttree": {
+    {
+      "name": "deserttree",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -56,7 +60,8 @@
         "h": 35
       }
     },
-    "deserttree2": {
+    {
+      "name": "deserttree2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -70,7 +75,8 @@
         "h": 20
       }
     },
-    "dunes1": {
+    {
+      "name": "dunes1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -84,7 +90,8 @@
         "h": 21
       }
     },
-    "dunes2": {
+    {
+      "name": "dunes2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -98,7 +105,8 @@
         "h": 9
       }
     },
-    "grid_desert": {
+    {
+      "name": "grid_desert",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -112,7 +120,8 @@
         "h": 100
       }
     },
-    "tileDesert1": {
+    {
+      "name": "tileDesert1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -126,7 +135,8 @@
         "h": 25
       }
     },
-    "tileDesert2": {
+    {
+      "name": "tileDesert2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -140,6 +150,6 @@
         "h": 25
       }
     }
-  },
+  ],
   "image_name": "Desert.png"
 }

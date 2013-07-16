@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "soldier_run0000": {
+  "frames": [
+    {
+      "name": "soldier_run0000",
       "rectangle": {
         "x": 10,
         "y": 10,
@@ -14,7 +15,8 @@
         "h": 144
       }
     },
-    "soldier_run0001": {
+    {
+      "name": "soldier_run0001",
       "rectangle": {
         "x": 10,
         "y": 10,
@@ -28,7 +30,8 @@
         "h": 144
       }
     },
-    "soldier_run0002": {
+    {
+      "name": "soldier_run0002",
       "rectangle": {
         "x": 10,
         "y": 10,
@@ -42,7 +45,8 @@
         "h": 144
       }
     },
-    "soldier_run0003": {
+    {
+      "name": "soldier_run0003",
       "rectangle": {
         "x": 139,
         "y": 10,
@@ -56,7 +60,8 @@
         "h": 144
       }
     },
-    "soldier_run0004": {
+    {
+      "name": "soldier_run0004",
       "rectangle": {
         "x": 139,
         "y": 10,
@@ -70,7 +75,8 @@
         "h": 144
       }
     },
-    "soldier_run0005": {
+    {
+      "name": "soldier_run0005",
       "rectangle": {
         "x": 258,
         "y": 10,
@@ -84,7 +90,8 @@
         "h": 144
       }
     },
-    "soldier_run0006": {
+    {
+      "name": "soldier_run0006",
       "rectangle": {
         "x": 258,
         "y": 10,
@@ -98,7 +105,8 @@
         "h": 144
       }
     },
-    "soldier_run0007": {
+    {
+      "name": "soldier_run0007",
       "rectangle": {
         "x": 370,
         "y": 10,
@@ -112,7 +120,8 @@
         "h": 144
       }
     },
-    "soldier_run0008": {
+    {
+      "name": "soldier_run0008",
       "rectangle": {
         "x": 370,
         "y": 10,
@@ -126,7 +135,8 @@
         "h": 144
       }
     },
-    "soldier_run0009": {
+    {
+      "name": "soldier_run0009",
       "rectangle": {
         "x": 10,
         "y": 156,
@@ -140,7 +150,8 @@
         "h": 144
       }
     },
-    "soldier_run0010": {
+    {
+      "name": "soldier_run0010",
       "rectangle": {
         "x": 10,
         "y": 156,
@@ -154,7 +165,8 @@
         "h": 144
       }
     },
-    "soldier_run0011": {
+    {
+      "name": "soldier_run0011",
       "rectangle": {
         "x": 10,
         "y": 156,
@@ -168,7 +180,8 @@
         "h": 144
       }
     },
-    "soldier_run0012": {
+    {
+      "name": "soldier_run0012",
       "rectangle": {
         "x": 140,
         "y": 156,
@@ -182,7 +195,8 @@
         "h": 144
       }
     },
-    "soldier_run0013": {
+    {
+      "name": "soldier_run0013",
       "rectangle": {
         "x": 140,
         "y": 156,
@@ -196,7 +210,8 @@
         "h": 144
       }
     },
-    "soldier_run0014": {
+    {
+      "name": "soldier_run0014",
       "rectangle": {
         "x": 264,
         "y": 156,
@@ -210,7 +225,8 @@
         "h": 144
       }
     },
-    "soldier_run0015": {
+    {
+      "name": "soldier_run0015",
       "rectangle": {
         "x": 264,
         "y": 156,
@@ -224,7 +240,8 @@
         "h": 144
       }
     },
-    "soldier_run0016": {
+    {
+      "name": "soldier_run0016",
       "rectangle": {
         "x": 370,
         "y": 156,
@@ -238,7 +255,8 @@
         "h": 144
       }
     },
-    "soldier_run0017": {
+    {
+      "name": "soldier_run0017",
       "rectangle": {
         "x": 370,
         "y": 156,
@@ -252,6 +270,6 @@
         "h": 144
       }
     }
-  },
+  ],
   "image_name": "SoldierRun.png"
 }

@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "grid_snow": {
+  "frames": [
+    {
+      "name": "grid_snow",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -14,7 +15,8 @@
         "h": 100
       }
     },
-    "house": {
+    {
+      "name": "house",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -28,7 +30,8 @@
         "h": 52
       }
     },
-    "snowhill1": {
+    {
+      "name": "snowhill1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -42,7 +45,8 @@
         "h": 11
       }
     },
-    "snowhill2": {
+    {
+      "name": "snowhill2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -56,7 +60,8 @@
         "h": 7
       }
     },
-    "tileSnow1": {
+    {
+      "name": "tileSnow1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -70,7 +75,8 @@
         "h": 25
       }
     },
-    "tileSnow2": {
+    {
+      "name": "tileSnow2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -84,7 +90,8 @@
         "h": 25
       }
     },
-    "tileSnow3": {
+    {
+      "name": "tileSnow3",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -98,7 +105,8 @@
         "h": 25
       }
     },
-    "tileSnow4": {
+    {
+      "name": "tileSnow4",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -112,7 +120,8 @@
         "h": 25
       }
     },
-    "tileSnow5": {
+    {
+      "name": "tileSnow5",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -126,7 +135,8 @@
         "h": 25
       }
     },
-    "tileSnow6": {
+    {
+      "name": "tileSnow6",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -140,7 +150,8 @@
         "h": 25
       }
     },
-    "tree1": {
+    {
+      "name": "tree1",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -154,7 +165,8 @@
         "h": 29
       }
     },
-    "tree2": {
+    {
+      "name": "tree2",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -168,6 +180,6 @@
         "h": 25
       }
     }
-  },
+  ],
   "image_name": "Snow.png"
 }

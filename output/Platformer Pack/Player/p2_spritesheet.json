@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "p2_duck": {
+  "frames": [
+    {
+      "name": "p2_duck",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -14,7 +15,8 @@
         "h": 72
       }
     },
-    "p2_front": {
+    {
+      "name": "p2_front",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -28,7 +30,8 @@
         "h": 92
       }
     },
-    "p2_hurt": {
+    {
+      "name": "p2_hurt",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -42,7 +45,8 @@
         "h": 92
       }
     },
-    "p2_jump": {
+    {
+      "name": "p2_jump",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -56,7 +60,8 @@
         "h": 94
       }
     },
-    "p2_stand": {
+    {
+      "name": "p2_stand",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -70,7 +75,8 @@
         "h": 92
       }
     },
-    "p2_walk01": {
+    {
+      "name": "p2_walk01",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -84,7 +90,8 @@
         "h": 94
       }
     },
-    "p2_walk02": {
+    {
+      "name": "p2_walk02",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -98,7 +105,8 @@
         "h": 94
       }
     },
-    "p2_walk03": {
+    {
+      "name": "p2_walk03",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -112,7 +120,8 @@
         "h": 94
       }
     },
-    "p2_walk04": {
+    {
+      "name": "p2_walk04",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -126,7 +135,8 @@
         "h": 94
       }
     },
-    "p2_walk05": {
+    {
+      "name": "p2_walk05",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -140,7 +150,8 @@
         "h": 94
       }
     },
-    "p2_walk06": {
+    {
+      "name": "p2_walk06",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -154,7 +165,8 @@
         "h": 94
       }
     },
-    "p2_walk07": {
+    {
+      "name": "p2_walk07",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -168,7 +180,8 @@
         "h": 94
       }
     },
-    "p2_walk08": {
+    {
+      "name": "p2_walk08",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -182,7 +195,8 @@
         "h": 94
       }
     },
-    "p2_walk09": {
+    {
+      "name": "p2_walk09",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -196,7 +210,8 @@
         "h": 94
       }
     },
-    "p2_walk10": {
+    {
+      "name": "p2_walk10",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -210,7 +225,8 @@
         "h": 94
       }
     },
-    "p2_walk11": {
+    {
+      "name": "p2_walk11",
       "rectangle": {
         "x": 0,
         "y": 0,
@@ -224,6 +240,6 @@
         "h": 94
       }
     }
-  },
+  ],
   "image_name": "p2_spritesheet.png"
 }

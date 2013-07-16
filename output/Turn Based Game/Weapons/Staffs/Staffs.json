@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "staff0000": {
+  "frames": [
+    {
+      "name": "staff0000",
       "rectangle": {
         "x": 10,
         "y": 10,
@@ -14,7 +15,8 @@
         "h": 83
       }
     },
-    "staff0001": {
+    {
+      "name": "staff0001",
       "rectangle": {
         "x": 10,
         "y": 89,
@@ -28,7 +30,8 @@
         "h": 83
       }
     },
-    "staff0002": {
+    {
+      "name": "staff0002",
       "rectangle": {
         "x": 10,
         "y": 174,
@@ -42,7 +45,8 @@
         "h": 83
       }
     },
-    "staff0003": {
+    {
+      "name": "staff0003",
       "rectangle": {
         "x": 10,
         "y": 265,
@@ -56,6 +60,6 @@
         "h": 83
       }
     }
-  },
+  ],
   "image_name": "Staffs.png"
 }

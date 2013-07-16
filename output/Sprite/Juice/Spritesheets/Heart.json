@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "Heart0000": {
+  "frames": [
+    {
+      "name": "Heart0000",
       "rectangle": {
         "x": 10,
         "y": 10,
@@ -14,7 +15,8 @@
         "h": 129
       }
     },
-    "Heart0001": {
+    {
+      "name": "Heart0001",
       "rectangle": {
         "x": 10,
         "y": 10,
@@ -28,7 +30,8 @@
         "h": 129
       }
     },
-    "Heart0002": {
+    {
+      "name": "Heart0002",
       "rectangle": {
         "x": 111,
         "y": 10,
@@ -42,7 +45,8 @@
         "h": 129
       }
     },
-    "Heart0003": {
+    {
+      "name": "Heart0003",
       "rectangle": {
         "x": 111,
         "y": 10,
@@ -56,7 +60,8 @@
         "h": 129
       }
     },
-    "Heart0004": {
+    {
+      "name": "Heart0004",
       "rectangle": {
         "x": 10,
         "y": 142,
@@ -70,7 +75,8 @@
         "h": 129
       }
     },
-    "Heart0005": {
+    {
+      "name": "Heart0005",
       "rectangle": {
         "x": 10,
         "y": 142,
@@ -84,7 +90,8 @@
         "h": 129
       }
     },
-    "Heart0006": {
+    {
+      "name": "Heart0006",
       "rectangle": {
         "x": 10,
         "y": 279,
@@ -98,7 +105,8 @@
         "h": 129
       }
     },
-    "Heart0007": {
+    {
+      "name": "Heart0007",
       "rectangle": {
         "x": 10,
         "y": 279,
@@ -112,7 +120,8 @@
         "h": 129
       }
     },
-    "Heart0008": {
+    {
+      "name": "Heart0008",
       "rectangle": {
         "x": 138,
         "y": 279,
@@ -126,6 +135,6 @@
         "h": 129
       }
     }
-  },
+  ],
   "image_name": "Heart.png"
 }

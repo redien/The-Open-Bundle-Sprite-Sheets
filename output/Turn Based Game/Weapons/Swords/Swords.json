@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "sword10000": {
+  "frames": [
+    {
+      "name": "sword10000",
       "rectangle": {
         "x": 10,
         "y": 10,
@@ -14,7 +15,8 @@
         "h": 62
       }
     },
-    "sword10001": {
+    {
+      "name": "sword10001",
       "rectangle": {
         "x": 10,
         "y": 74,
@@ -28,7 +30,8 @@
         "h": 62
       }
     },
-    "sword10002": {
+    {
+      "name": "sword10002",
       "rectangle": {
         "x": 10,
         "y": 140,
@@ -42,7 +45,8 @@
         "h": 62
       }
     },
-    "sword10003": {
+    {
+      "name": "sword10003",
       "rectangle": {
         "x": 10,
         "y": 209,
@@ -56,7 +60,8 @@
         "h": 62
       }
     },
-    "sword10004": {
+    {
+      "name": "sword10004",
       "rectangle": {
         "x": 10,
         "y": 262,
@@ -70,6 +75,6 @@
         "h": 62
       }
     }
-  },
+  ],
   "image_name": "Swords.png"
 }

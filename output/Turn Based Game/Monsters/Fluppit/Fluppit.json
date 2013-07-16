@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "Fluppit0000": {
+  "frames": [
+    {
+      "name": "Fluppit0000",
       "rectangle": {
         "x": 10,
         "y": 10,
@@ -14,7 +15,8 @@
         "h": 240
       }
     },
-    "Fluppit0001": {
+    {
+      "name": "Fluppit0001",
       "rectangle": {
         "x": 210,
         "y": 10,
@@ -28,7 +30,8 @@
         "h": 240
       }
     },
-    "Fluppit0002": {
+    {
+      "name": "Fluppit0002",
       "rectangle": {
         "x": 410,
         "y": 10,
@@ -42,7 +45,8 @@
         "h": 240
       }
     },
-    "Fluppit0003": {
+    {
+      "name": "Fluppit0003",
       "rectangle": {
         "x": 610,
         "y": 10,
@@ -56,7 +60,8 @@
         "h": 240
       }
     },
-    "Fluppit0004": {
+    {
+      "name": "Fluppit0004",
       "rectangle": {
         "x": 810,
         "y": 10,
@@ -70,7 +75,8 @@
         "h": 240
       }
     },
-    "Fluppit0005": {
+    {
+      "name": "Fluppit0005",
       "rectangle": {
         "x": 1010,
         "y": 10,
@@ -84,7 +90,8 @@
         "h": 240
       }
     },
-    "Fluppit0006": {
+    {
+      "name": "Fluppit0006",
       "rectangle": {
         "x": 1210,
         "y": 10,
@@ -98,7 +105,8 @@
         "h": 240
       }
     },
-    "Fluppit0007": {
+    {
+      "name": "Fluppit0007",
       "rectangle": {
         "x": 1410,
         "y": 10,
@@ -112,7 +120,8 @@
         "h": 240
       }
     },
-    "Fluppit0008": {
+    {
+      "name": "Fluppit0008",
       "rectangle": {
         "x": 1610,
         "y": 10,
@@ -126,7 +135,8 @@
         "h": 240
       }
     },
-    "Fluppit0009": {
+    {
+      "name": "Fluppit0009",
       "rectangle": {
         "x": 1810,
         "y": 10,
@@ -140,7 +150,8 @@
         "h": 240
       }
     },
-    "Fluppit0010": {
+    {
+      "name": "Fluppit0010",
       "rectangle": {
         "x": 10,
         "y": 244,
@@ -154,7 +165,8 @@
         "h": 240
       }
     },
-    "Fluppit0011": {
+    {
+      "name": "Fluppit0011",
       "rectangle": {
         "x": 210,
         "y": 244,
@@ -168,7 +180,8 @@
         "h": 240
       }
     },
-    "Fluppit0012": {
+    {
+      "name": "Fluppit0012",
       "rectangle": {
         "x": 410,
         "y": 244,
@@ -182,7 +195,8 @@
         "h": 240
       }
     },
-    "Fluppit0013": {
+    {
+      "name": "Fluppit0013",
       "rectangle": {
         "x": 610,
         "y": 244,
@@ -196,7 +210,8 @@
         "h": 240
       }
     },
-    "Fluppit0014": {
+    {
+      "name": "Fluppit0014",
       "rectangle": {
         "x": 810,
         "y": 244,
@@ -210,7 +225,8 @@
         "h": 240
       }
     },
-    "Fluppit0015": {
+    {
+      "name": "Fluppit0015",
       "rectangle": {
         "x": 1010,
         "y": 244,
@@ -224,7 +240,8 @@
         "h": 240
       }
     },
-    "Fluppit0016": {
+    {
+      "name": "Fluppit0016",
       "rectangle": {
         "x": 1216,
         "y": 244,
@@ -238,7 +255,8 @@
         "h": 240
       }
     },
-    "Fluppit0017": {
+    {
+      "name": "Fluppit0017",
       "rectangle": {
         "x": 1428,
         "y": 244,
@@ -252,7 +270,8 @@
         "h": 240
       }
     },
-    "Fluppit0018": {
+    {
+      "name": "Fluppit0018",
       "rectangle": {
         "x": 1642,
         "y": 244,
@@ -266,7 +285,8 @@
         "h": 240
       }
     },
-    "Fluppit0019": {
+    {
+      "name": "Fluppit0019",
       "rectangle": {
         "x": 10,
         "y": 477,
@@ -280,7 +300,8 @@
         "h": 240
       }
     },
-    "Fluppit0020": {
+    {
+      "name": "Fluppit0020",
       "rectangle": {
         "x": 236,
         "y": 477,
@@ -294,7 +315,8 @@
         "h": 240
       }
     },
-    "Fluppit0021": {
+    {
+      "name": "Fluppit0021",
       "rectangle": {
         "x": 462,
         "y": 477,
@@ -308,7 +330,8 @@
         "h": 240
       }
     },
-    "Fluppit0022": {
+    {
+      "name": "Fluppit0022",
       "rectangle": {
         "x": 688,
         "y": 477,
@@ -322,7 +345,8 @@
         "h": 240
       }
     },
-    "Fluppit0023": {
+    {
+      "name": "Fluppit0023",
       "rectangle": {
         "x": 914,
         "y": 477,
@@ -336,7 +360,8 @@
         "h": 240
       }
     },
-    "Fluppit0024": {
+    {
+      "name": "Fluppit0024",
       "rectangle": {
         "x": 1140,
         "y": 477,
@@ -350,7 +375,8 @@
         "h": 240
       }
     },
-    "Fluppit0025": {
+    {
+      "name": "Fluppit0025",
       "rectangle": {
         "x": 1359,
         "y": 477,
@@ -364,7 +390,8 @@
         "h": 240
       }
     },
-    "Fluppit0026": {
+    {
+      "name": "Fluppit0026",
       "rectangle": {
         "x": 1572,
         "y": 477,
@@ -378,7 +405,8 @@
         "h": 240
       }
     },
-    "Fluppit0027": {
+    {
+      "name": "Fluppit0027",
       "rectangle": {
         "x": 1781,
         "y": 477,
@@ -392,7 +420,8 @@
         "h": 240
       }
     },
-    "Fluppit0028": {
+    {
+      "name": "Fluppit0028",
       "rectangle": {
         "x": 10,
         "y": 710,
@@ -406,7 +435,8 @@
         "h": 240
       }
     },
-    "Fluppit0029": {
+    {
+      "name": "Fluppit0029",
       "rectangle": {
         "x": 210,
         "y": 710,
@@ -420,7 +450,8 @@
         "h": 240
       }
     },
-    "Fluppit0030": {
+    {
+      "name": "Fluppit0030",
       "rectangle": {
         "x": 410,
         "y": 710,
@@ -434,7 +465,8 @@
         "h": 240
       }
     },
-    "Fluppit0031": {
+    {
+      "name": "Fluppit0031",
       "rectangle": {
         "x": 610,
         "y": 710,
@@ -448,7 +480,8 @@
         "h": 240
       }
     },
-    "Fluppit0032": {
+    {
+      "name": "Fluppit0032",
       "rectangle": {
         "x": 810,
         "y": 710,
@@ -462,7 +495,8 @@
         "h": 240
       }
     },
-    "Fluppit0033": {
+    {
+      "name": "Fluppit0033",
       "rectangle": {
         "x": 1010,
         "y": 710,
@@ -476,7 +510,8 @@
         "h": 240
       }
     },
-    "Fluppit0034": {
+    {
+      "name": "Fluppit0034",
       "rectangle": {
         "x": 1210,
         "y": 710,
@@ -490,7 +525,8 @@
         "h": 240
       }
     },
-    "Fluppit0035": {
+    {
+      "name": "Fluppit0035",
       "rectangle": {
         "x": 1410,
         "y": 710,
@@ -504,7 +540,8 @@
         "h": 240
       }
     },
-    "Fluppit0036": {
+    {
+      "name": "Fluppit0036",
       "rectangle": {
         "x": 1610,
         "y": 710,
@@ -518,7 +555,8 @@
         "h": 240
       }
     },
-    "Fluppit0037": {
+    {
+      "name": "Fluppit0037",
       "rectangle": {
         "x": 1210,
         "y": 10,
@@ -532,7 +570,8 @@
         "h": 240
       }
     },
-    "Fluppit0038": {
+    {
+      "name": "Fluppit0038",
       "rectangle": {
         "x": 1810,
         "y": 710,
@@ -546,7 +585,8 @@
         "h": 240
       }
     },
-    "Fluppit0039": {
+    {
+      "name": "Fluppit0039",
       "rectangle": {
         "x": 10,
         "y": 944,
@@ -560,7 +600,8 @@
         "h": 240
       }
     },
-    "Fluppit0040": {
+    {
+      "name": "Fluppit0040",
       "rectangle": {
         "x": 210,
         "y": 944,
@@ -574,7 +615,8 @@
         "h": 240
       }
     },
-    "Fluppit0041": {
+    {
+      "name": "Fluppit0041",
       "rectangle": {
         "x": 410,
         "y": 944,
@@ -588,7 +630,8 @@
         "h": 240
       }
     },
-    "Fluppit0042": {
+    {
+      "name": "Fluppit0042",
       "rectangle": {
         "x": 610,
         "y": 944,
@@ -602,7 +645,8 @@
         "h": 240
       }
     },
-    "Fluppit0043": {
+    {
+      "name": "Fluppit0043",
       "rectangle": {
         "x": 810,
         "y": 944,
@@ -616,7 +660,8 @@
         "h": 240
       }
     },
-    "Fluppit0044": {
+    {
+      "name": "Fluppit0044",
       "rectangle": {
         "x": 1010,
         "y": 944,
@@ -630,7 +675,8 @@
         "h": 240
       }
     },
-    "Fluppit0045": {
+    {
+      "name": "Fluppit0045",
       "rectangle": {
         "x": 1210,
         "y": 944,
@@ -644,7 +690,8 @@
         "h": 240
       }
     },
-    "Fluppit0046": {
+    {
+      "name": "Fluppit0046",
       "rectangle": {
         "x": 1410,
         "y": 944,
@@ -658,7 +705,8 @@
         "h": 240
       }
     },
-    "Fluppit0047": {
+    {
+      "name": "Fluppit0047",
       "rectangle": {
         "x": 1610,
         "y": 944,
@@ -672,7 +720,8 @@
         "h": 240
       }
     },
-    "Fluppit0048": {
+    {
+      "name": "Fluppit0048",
       "rectangle": {
         "x": 1810,
         "y": 944,
@@ -686,7 +735,8 @@
         "h": 240
       }
     },
-    "Fluppit0049": {
+    {
+      "name": "Fluppit0049",
       "rectangle": {
         "x": 10,
         "y": 1178,
@@ -700,7 +750,8 @@
         "h": 240
       }
     },
-    "Fluppit0050": {
+    {
+      "name": "Fluppit0050",
       "rectangle": {
         "x": 210,
         "y": 1178,
@@ -714,7 +765,8 @@
         "h": 240
       }
     },
-    "Fluppit0051": {
+    {
+      "name": "Fluppit0051",
       "rectangle": {
         "x": 410,
         "y": 1178,
@@ -728,7 +780,8 @@
         "h": 240
       }
     },
-    "Fluppit0052": {
+    {
+      "name": "Fluppit0052",
       "rectangle": {
         "x": 610,
         "y": 1178,
@@ -742,7 +795,8 @@
         "h": 240
       }
     },
-    "Fluppit0053": {
+    {
+      "name": "Fluppit0053",
       "rectangle": {
         "x": 810,
         "y": 1178,
@@ -756,7 +810,8 @@
         "h": 240
       }
     },
-    "Fluppit0054": {
+    {
+      "name": "Fluppit0054",
       "rectangle": {
         "x": 1010,
         "y": 1178,
@@ -770,7 +825,8 @@
         "h": 240
       }
     },
-    "Fluppit0055": {
+    {
+      "name": "Fluppit0055",
       "rectangle": {
         "x": 1210,
         "y": 1178,
@@ -784,7 +840,8 @@
         "h": 240
       }
     },
-    "Fluppit0056": {
+    {
+      "name": "Fluppit0056",
       "rectangle": {
         "x": 1410,
         "y": 1178,
@@ -798,7 +855,8 @@
         "h": 240
       }
     },
-    "Fluppit0057": {
+    {
+      "name": "Fluppit0057",
       "rectangle": {
         "x": 1610,
         "y": 1178,
@@ -812,7 +870,8 @@
         "h": 240
       }
     },
-    "Fluppit0058": {
+    {
+      "name": "Fluppit0058",
       "rectangle": {
         "x": 1810,
         "y": 1178,
@@ -826,7 +885,8 @@
         "h": 240
       }
     },
-    "Fluppit0059": {
+    {
+      "name": "Fluppit0059",
       "rectangle": {
         "x": 10,
         "y": 1417,
@@ -840,7 +900,8 @@
         "h": 240
       }
     },
-    "Fluppit0060": {
+    {
+      "name": "Fluppit0060",
       "rectangle": {
         "x": 210,
         "y": 1417,
@@ -854,7 +915,8 @@
         "h": 240
       }
     },
-    "Fluppit0061": {
+    {
+      "name": "Fluppit0061",
       "rectangle": {
         "x": 410,
         "y": 1417,
@@ -868,7 +930,8 @@
         "h": 240
       }
     },
-    "Fluppit0062": {
+    {
+      "name": "Fluppit0062",
       "rectangle": {
         "x": 610,
         "y": 1417,
@@ -882,7 +945,8 @@
         "h": 240
       }
     },
-    "Fluppit0063": {
+    {
+      "name": "Fluppit0063",
       "rectangle": {
         "x": 810,
         "y": 1417,
@@ -896,7 +960,8 @@
         "h": 240
       }
     },
-    "Fluppit0064": {
+    {
+      "name": "Fluppit0064",
       "rectangle": {
         "x": 1010,
         "y": 1417,
@@ -910,7 +975,8 @@
         "h": 240
       }
     },
-    "Fluppit0065": {
+    {
+      "name": "Fluppit0065",
       "rectangle": {
         "x": 1210,
         "y": 1417,
@@ -924,7 +990,8 @@
         "h": 240
       }
     },
-    "Fluppit0066": {
+    {
+      "name": "Fluppit0066",
       "rectangle": {
         "x": 1410,
         "y": 1417,
@@ -938,7 +1005,8 @@
         "h": 240
       }
     },
-    "Fluppit0067": {
+    {
+      "name": "Fluppit0067",
       "rectangle": {
         "x": 1610,
         "y": 1417,
@@ -952,7 +1020,8 @@
         "h": 240
       }
     },
-    "Fluppit0068": {
+    {
+      "name": "Fluppit0068",
       "rectangle": {
         "x": 1810,
         "y": 1417,
@@ -966,7 +1035,8 @@
         "h": 240
       }
     },
-    "Fluppit0069": {
+    {
+      "name": "Fluppit0069",
       "rectangle": {
         "x": 10,
         "y": 1651,
@@ -980,7 +1050,8 @@
         "h": 240
       }
     },
-    "Fluppit0070": {
+    {
+      "name": "Fluppit0070",
       "rectangle": {
         "x": 210,
         "y": 1651,
@@ -994,7 +1065,8 @@
         "h": 240
       }
     },
-    "Fluppit0071": {
+    {
+      "name": "Fluppit0071",
       "rectangle": {
         "x": 410,
         "y": 1651,
@@ -1008,7 +1080,8 @@
         "h": 240
       }
     },
-    "Fluppit0072": {
+    {
+      "name": "Fluppit0072",
       "rectangle": {
         "x": 610,
         "y": 1651,
@@ -1022,7 +1095,8 @@
         "h": 240
       }
     },
-    "Fluppit0073": {
+    {
+      "name": "Fluppit0073",
       "rectangle": {
         "x": 810,
         "y": 1651,
@@ -1036,7 +1110,8 @@
         "h": 240
       }
     },
-    "Fluppit0074": {
+    {
+      "name": "Fluppit0074",
       "rectangle": {
         "x": 1010,
         "y": 1651,
@@ -1050,7 +1125,8 @@
         "h": 240
       }
     },
-    "Fluppit0075": {
+    {
+      "name": "Fluppit0075",
       "rectangle": {
         "x": 1210,
         "y": 1651,
@@ -1064,7 +1140,8 @@
         "h": 240
       }
     },
-    "Fluppit0076": {
+    {
+      "name": "Fluppit0076",
       "rectangle": {
         "x": 1410,
         "y": 1651,
@@ -1078,7 +1155,8 @@
         "h": 240
       }
     },
-    "Fluppit0077": {
+    {
+      "name": "Fluppit0077",
       "rectangle": {
         "x": 1610,
         "y": 1651,
@@ -1092,7 +1170,8 @@
         "h": 240
       }
     },
-    "Fluppit0078": {
+    {
+      "name": "Fluppit0078",
       "rectangle": {
         "x": 1810,
         "y": 1651,
@@ -1106,7 +1185,8 @@
         "h": 240
       }
     },
-    "Fluppit0079": {
+    {
+      "name": "Fluppit0079",
       "rectangle": {
         "x": 10,
         "y": 1885,
@@ -1120,7 +1200,8 @@
         "h": 240
       }
     },
-    "Fluppit0080": {
+    {
+      "name": "Fluppit0080",
       "rectangle": {
         "x": 210,
         "y": 1885,
@@ -1134,7 +1215,8 @@
         "h": 240
       }
     },
-    "Fluppit0081": {
+    {
+      "name": "Fluppit0081",
       "rectangle": {
         "x": 410,
         "y": 1885,
@@ -1148,7 +1230,8 @@
         "h": 240
       }
     },
-    "Fluppit0082": {
+    {
+      "name": "Fluppit0082",
       "rectangle": {
         "x": 610,
         "y": 1885,
@@ -1162,7 +1245,8 @@
         "h": 240
       }
     },
-    "Fluppit0083": {
+    {
+      "name": "Fluppit0083",
       "rectangle": {
         "x": 810,
         "y": 1885,
@@ -1176,7 +1260,8 @@
         "h": 240
       }
     },
-    "Fluppit0084": {
+    {
+      "name": "Fluppit0084",
       "rectangle": {
         "x": 1010,
         "y": 1885,
@@ -1190,7 +1275,8 @@
         "h": 240
       }
     },
-    "Fluppit0085": {
+    {
+      "name": "Fluppit0085",
       "rectangle": {
         "x": 1210,
         "y": 1885,
@@ -1204,7 +1290,8 @@
         "h": 240
       }
     },
-    "Fluppit0086": {
+    {
+      "name": "Fluppit0086",
       "rectangle": {
         "x": 1410,
         "y": 1885,
@@ -1218,7 +1305,8 @@
         "h": 240
       }
     },
-    "Fluppit0087": {
+    {
+      "name": "Fluppit0087",
       "rectangle": {
         "x": 1610,
         "y": 1885,
@@ -1232,7 +1320,8 @@
         "h": 240
       }
     },
-    "Fluppit0088": {
+    {
+      "name": "Fluppit0088",
       "rectangle": {
         "x": 1810,
         "y": 1885,
@@ -1246,7 +1335,8 @@
         "h": 240
       }
     },
-    "Fluppit0089": {
+    {
+      "name": "Fluppit0089",
       "rectangle": {
         "x": 10,
         "y": 2119,
@@ -1260,7 +1350,8 @@
         "h": 240
       }
     },
-    "Fluppit0090": {
+    {
+      "name": "Fluppit0090",
       "rectangle": {
         "x": 210,
         "y": 2119,
@@ -1274,7 +1365,8 @@
         "h": 240
       }
     },
-    "Fluppit0091": {
+    {
+      "name": "Fluppit0091",
       "rectangle": {
         "x": 410,
         "y": 2119,
@@ -1288,7 +1380,8 @@
         "h": 240
       }
     },
-    "Fluppit0092": {
+    {
+      "name": "Fluppit0092",
       "rectangle": {
         "x": 610,
         "y": 2119,
@@ -1302,7 +1395,8 @@
         "h": 240
       }
     },
-    "Fluppit0093": {
+    {
+      "name": "Fluppit0093",
       "rectangle": {
         "x": 810,
         "y": 2119,
@@ -1316,7 +1410,8 @@
         "h": 240
       }
     },
-    "Fluppit0094": {
+    {
+      "name": "Fluppit0094",
       "rectangle": {
         "x": 1010,
         "y": 2119,
@@ -1330,7 +1425,8 @@
         "h": 240
       }
     },
-    "Fluppit0095": {
+    {
+      "name": "Fluppit0095",
       "rectangle": {
         "x": 1210,
         "y": 10,
@@ -1344,7 +1440,8 @@
         "h": 240
       }
     },
-    "Fluppit0096": {
+    {
+      "name": "Fluppit0096",
       "rectangle": {
         "x": 1410,
         "y": 10,
@@ -1358,7 +1455,8 @@
         "h": 240
       }
     },
-    "Fluppit0097": {
+    {
+      "name": "Fluppit0097",
       "rectangle": {
         "x": 1210,
         "y": 2119,
@@ -1372,7 +1470,8 @@
         "h": 240
       }
     },
-    "Fluppit0098": {
+    {
+      "name": "Fluppit0098",
       "rectangle": {
         "x": 1410,
         "y": 2119,
@@ -1386,7 +1485,8 @@
         "h": 240
       }
     },
-    "Fluppit0099": {
+    {
+      "name": "Fluppit0099",
       "rectangle": {
         "x": 1610,
         "y": 2119,
@@ -1400,7 +1500,8 @@
         "h": 240
       }
     },
-    "Fluppit0100": {
+    {
+      "name": "Fluppit0100",
       "rectangle": {
         "x": 1810,
         "y": 2119,
@@ -1414,7 +1515,8 @@
         "h": 240
       }
     },
-    "Fluppit0101": {
+    {
+      "name": "Fluppit0101",
       "rectangle": {
         "x": 10,
         "y": 2363,
@@ -1428,7 +1530,8 @@
         "h": 240
       }
     },
-    "Fluppit0102": {
+    {
+      "name": "Fluppit0102",
       "rectangle": {
         "x": 210,
         "y": 2363,
@@ -1442,7 +1545,8 @@
         "h": 240
       }
     },
-    "Fluppit0103": {
+    {
+      "name": "Fluppit0103",
       "rectangle": {
         "x": 410,
         "y": 2363,
@@ -1456,7 +1560,8 @@
         "h": 240
       }
     },
-    "Fluppit0104": {
+    {
+      "name": "Fluppit0104",
       "rectangle": {
         "x": 610,
         "y": 2363,
@@ -1470,7 +1575,8 @@
         "h": 240
       }
     },
-    "Fluppit0105": {
+    {
+      "name": "Fluppit0105",
       "rectangle": {
         "x": 816,
         "y": 2363,
@@ -1484,7 +1590,8 @@
         "h": 240
       }
     },
-    "Fluppit0106": {
+    {
+      "name": "Fluppit0106",
       "rectangle": {
         "x": 1028,
         "y": 2363,
@@ -1498,7 +1605,8 @@
         "h": 240
       }
     },
-    "Fluppit0107": {
+    {
+      "name": "Fluppit0107",
       "rectangle": {
         "x": 1242,
         "y": 2363,
@@ -1512,7 +1620,8 @@
         "h": 240
       }
     },
-    "Fluppit0108": {
+    {
+      "name": "Fluppit0108",
       "rectangle": {
         "x": 1459,
         "y": 2363,
@@ -1526,7 +1635,8 @@
         "h": 240
       }
     },
-    "Fluppit0109": {
+    {
+      "name": "Fluppit0109",
       "rectangle": {
         "x": 1685,
         "y": 2363,
@@ -1540,7 +1650,8 @@
         "h": 240
       }
     },
-    "Fluppit0110": {
+    {
+      "name": "Fluppit0110",
       "rectangle": {
         "x": 10,
         "y": 2596,
@@ -1554,7 +1665,8 @@
         "h": 240
       }
     },
-    "Fluppit0111": {
+    {
+      "name": "Fluppit0111",
       "rectangle": {
         "x": 210,
         "y": 2596,
@@ -1568,7 +1680,8 @@
         "h": 240
       }
     },
-    "Fluppit0112": {
+    {
+      "name": "Fluppit0112",
       "rectangle": {
         "x": 410,
         "y": 2596,
@@ -1582,7 +1695,8 @@
         "h": 240
       }
     },
-    "Fluppit0113": {
+    {
+      "name": "Fluppit0113",
       "rectangle": {
         "x": 610,
         "y": 2596,
@@ -1596,7 +1710,8 @@
         "h": 240
       }
     },
-    "Fluppit0114": {
+    {
+      "name": "Fluppit0114",
       "rectangle": {
         "x": 810,
         "y": 2596,
@@ -1610,7 +1725,8 @@
         "h": 240
       }
     },
-    "Fluppit0115": {
+    {
+      "name": "Fluppit0115",
       "rectangle": {
         "x": 1210,
         "y": 10,
@@ -1624,7 +1740,8 @@
         "h": 240
       }
     },
-    "Fluppit0116": {
+    {
+      "name": "Fluppit0116",
       "rectangle": {
         "x": 1010,
         "y": 2596,
@@ -1638,7 +1755,8 @@
         "h": 240
       }
     },
-    "Fluppit0117": {
+    {
+      "name": "Fluppit0117",
       "rectangle": {
         "x": 1210,
         "y": 2119,
@@ -1652,7 +1770,8 @@
         "h": 240
       }
     },
-    "Fluppit0118": {
+    {
+      "name": "Fluppit0118",
       "rectangle": {
         "x": 1210,
         "y": 2596,
@@ -1666,7 +1785,8 @@
         "h": 240
       }
     },
-    "Fluppit0119": {
+    {
+      "name": "Fluppit0119",
       "rectangle": {
         "x": 1410,
         "y": 2596,
@@ -1680,7 +1800,8 @@
         "h": 240
       }
     },
-    "Fluppit0120": {
+    {
+      "name": "Fluppit0120",
       "rectangle": {
         "x": 1610,
         "y": 2596,
@@ -1694,7 +1815,8 @@
         "h": 240
       }
     },
-    "Fluppit0121": {
+    {
+      "name": "Fluppit0121",
       "rectangle": {
         "x": 1810,
         "y": 2596,
@@ -1708,7 +1830,8 @@
         "h": 240
       }
     },
-    "Fluppit0122": {
+    {
+      "name": "Fluppit0122",
       "rectangle": {
         "x": 10,
         "y": 2830,
@@ -1722,7 +1845,8 @@
         "h": 240
       }
     },
-    "Fluppit0123": {
+    {
+      "name": "Fluppit0123",
       "rectangle": {
         "x": 1010,
         "y": 10,
@@ -1736,7 +1860,8 @@
         "h": 240
       }
     },
-    "Fluppit0124": {
+    {
+      "name": "Fluppit0124",
       "rectangle": {
         "x": 1210,
         "y": 10,
@@ -1750,7 +1875,8 @@
         "h": 240
       }
     },
-    "Fluppit0125": {
+    {
+      "name": "Fluppit0125",
       "rectangle": {
         "x": 210,
         "y": 2830,
@@ -1764,7 +1890,8 @@
         "h": 240
       }
     },
-    "Fluppit0126": {
+    {
+      "name": "Fluppit0126",
       "rectangle": {
         "x": 410,
         "y": 2830,
@@ -1778,6 +1905,6 @@
         "h": 240
       }
     }
-  },
+  ],
   "image_name": "Fluppit.png"
 }

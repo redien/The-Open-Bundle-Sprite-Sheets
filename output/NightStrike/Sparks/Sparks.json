@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "hitsparks0000": {
+  "frames": [
+    {
+      "name": "hitsparks0000",
       "rectangle": {
         "x": 10,
         "y": 10,
@@ -14,7 +15,8 @@
         "h": 247
       }
     },
-    "hitsparks0001": {
+    {
+      "name": "hitsparks0001",
       "rectangle": {
         "x": 42,
         "y": 10,
@@ -28,7 +30,8 @@
         "h": 247
       }
     },
-    "hitsparks0002": {
+    {
+      "name": "hitsparks0002",
       "rectangle": {
         "x": 81,
         "y": 10,
@@ -42,7 +45,8 @@
         "h": 247
       }
     },
-    "hitsparks0003": {
+    {
+      "name": "hitsparks0003",
       "rectangle": {
         "x": 137,
         "y": 10,
@@ -56,7 +60,8 @@
         "h": 247
       }
     },
-    "hitsparks0004": {
+    {
+      "name": "hitsparks0004",
       "rectangle": {
         "x": 201,
         "y": 10,
@@ -70,7 +75,8 @@
         "h": 247
       }
     },
-    "hitsparks0005": {
+    {
+      "name": "hitsparks0005",
       "rectangle": {
         "x": 279,
         "y": 10,
@@ -84,7 +90,8 @@
         "h": 247
       }
     },
-    "hitsparks0006": {
+    {
+      "name": "hitsparks0006",
       "rectangle": {
         "x": 362,
         "y": 10,
@@ -98,7 +105,8 @@
         "h": 247
       }
     },
-    "hitsparks0007": {
+    {
+      "name": "hitsparks0007",
       "rectangle": {
         "x": 10,
         "y": 102,
@@ -112,7 +120,8 @@
         "h": 247
       }
     },
-    "hitsparks0008": {
+    {
+      "name": "hitsparks0008",
       "rectangle": {
         "x": 124,
         "y": 102,
@@ -126,7 +135,8 @@
         "h": 247
       }
     },
-    "hitsparks0009": {
+    {
+      "name": "hitsparks0009",
       "rectangle": {
         "x": 253,
         "y": 102,
@@ -140,7 +150,8 @@
         "h": 247
       }
     },
-    "hitsparks0010": {
+    {
+      "name": "hitsparks0010",
       "rectangle": {
         "x": 10,
         "y": 221,
@@ -154,7 +165,8 @@
         "h": 247
       }
     },
-    "hitsparks0011": {
+    {
+      "name": "hitsparks0011",
       "rectangle": {
         "x": 167,
         "y": 221,
@@ -168,7 +180,8 @@
         "h": 247
       }
     },
-    "hitsparks0012": {
+    {
+      "name": "hitsparks0012",
       "rectangle": {
         "x": 10,
         "y": 358,
@@ -182,7 +195,8 @@
         "h": 247
       }
     },
-    "hitsparks0013": {
+    {
+      "name": "hitsparks0013",
       "rectangle": {
         "x": 203,
         "y": 358,
@@ -196,7 +210,8 @@
         "h": 247
       }
     },
-    "hitsparks0014": {
+    {
+      "name": "hitsparks0014",
       "rectangle": {
         "x": 10,
         "y": 535,
@@ -210,7 +225,8 @@
         "h": 247
       }
     },
-    "hitsparks0015": {
+    {
+      "name": "hitsparks0015",
       "rectangle": {
         "x": 245,
         "y": 535,
@@ -224,7 +240,8 @@
         "h": 247
       }
     },
-    "hitsparks0016": {
+    {
+      "name": "hitsparks0016",
       "rectangle": {
         "x": 10,
         "y": 745,
@@ -238,7 +255,8 @@
         "h": 247
       }
     },
-    "hitsparks0017": {
+    {
+      "name": "hitsparks0017",
       "rectangle": {
         "x": 180,
         "y": 745,
@@ -252,6 +270,6 @@
         "h": 247
       }
     }
-  },
+  ],
   "image_name": "Sparks.png"
 }

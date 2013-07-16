@@ -1,6 +1,7 @@
 {
-  "frames": {
-    "sparksB0000": {
+  "frames": [
+    {
+      "name": "sparksB0000",
       "rectangle": {
         "x": 10,
         "y": 10,
@@ -14,7 +15,8 @@
         "h": 100
       }
     },
-    "sparksB0001": {
+    {
+      "name": "sparksB0001",
       "rectangle": {
         "x": 250,
         "y": 10,
@@ -28,7 +30,8 @@
         "h": 100
       }
     },
-    "sparksB0002": {
+    {
+      "name": "sparksB0002",
       "rectangle": {
         "x": 10,
         "y": 120,
@@ -42,7 +45,8 @@
         "h": 100
       }
     },
-    "sparksB0003": {
+    {
+      "name": "sparksB0003",
       "rectangle": {
         "x": 250,
         "y": 120,
@@ -56,7 +60,8 @@
         "h": 100
       }
     },
-    "sparksB0004": {
+    {
+      "name": "sparksB0004",
       "rectangle": {
         "x": 10,
         "y": 230,
@@ -70,7 +75,8 @@
         "h": 100
       }
     },
-    "sparksB0005": {
+    {
+      "name": "sparksB0005",
       "rectangle": {
         "x": 250,
         "y": 230,
@@ -84,7 +90,8 @@
         "h": 100
       }
     },
-    "sparksB0006": {
+    {
+      "name": "sparksB0006",
       "rectangle": {
         "x": 10,
         "y": 340,
@@ -98,7 +105,8 @@
         "h": 100
       }
     },
-    "sparksB0007": {
+    {
+      "name": "sparksB0007",
       "rectangle": {
         "x": 250,
         "y": 340,
@@ -112,7 +120,8 @@
         "h": 100
       }
     },
-    "sparksB0008": {
+    {
+      "name": "sparksB0008",
       "rectangle": {
         "x": 10,
         "y": 450,
@@ -126,7 +135,8 @@
         "h": 100
       }
     },
-    "sparksB0009": {
+    {
+      "name": "sparksB0009",
       "rectangle": {
         "x": 250,
         "y": 450,
@@ -140,7 +150,8 @@
         "h": 100
       }
     },
-    "sparksB0010": {
+    {
+      "name": "sparksB0010",
       "rectangle": {
         "x": 10,
         "y": 560,
@@ -154,7 +165,8 @@
         "h": 100
       }
     },
-    "sparksB0011": {
+    {
+      "name": "sparksB0011",
       "rectangle": {
         "x": 250,
         "y": 560,
@@ -168,6 +180,6 @@
         "h": 100
       }
     }
-  },
+  ],
   "image_name": "Sparks2.png"
 }
