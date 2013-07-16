@@ -203,6 +203,27 @@ sources = [
         :section_prefix => ""
     },
     {
+        :name => "enemy1",
+        :path => "Pixel Tower Defense/PixelTD Assets/Enemies",
+        :type => :grid,
+        :columns => 1,
+        :rows => 1
+    },
+    {
+        :name => "enemy3",
+        :path => "Pixel Tower Defense/PixelTD Assets/Enemies",
+        :type => :grid,
+        :columns => 1,
+        :rows => 1
+    },
+    {
+        :name => "pixelghost",
+        :path => "Pixel Tower Defense/PixelTD Assets/Enemies",
+        :type => :grid,
+        :columns => 1,
+        :rows => 1
+    },
+    {
         :name => "tower1",
         :path => "Pixel Tower Defense/PixelTD Assets/Towers/Tower1",
         :type => :image_sequence,
@@ -303,7 +324,51 @@ sources = [
         :frame_prefix => "",
         :section_prefix => ""
     },
-    
+    {
+        :name => "UI",
+        :path => "Pixel Tower Defense/PixelTD Assets/UI",
+        :type => :directory,
+        :columns => 4
+    },
+    {
+        :image_type => ".gif",
+        :name => "rankings",
+        :path => "Pixel Tower Defense/PixelTD Assets/rankings",
+        :type => :directory,
+        :columns => 4
+    },
+    {
+        :name => "Badlands",
+        :path => "Pixel Tower Defense/PixelTD Assets/Levels/Badlands",
+        :type => :directory,
+        :columns => 4
+    },
+    {
+        :name => "Desert",
+        :path => "Pixel Tower Defense/PixelTD Assets/Levels/Desert",
+        :type => :directory,
+        :columns => 4
+    },
+    {
+        :name => "Grass",
+        :path => "Pixel Tower Defense/PixelTD Assets/Levels/Grass",
+        :type => :directory,
+        :columns => 4
+    },
+    {
+        :name => "Snow",
+        :path => "Pixel Tower Defense/PixelTD Assets/Levels/Snow",
+        :type => :directory,
+        :columns => 4
+    },
+    {
+        :name => "shadow",
+        :path => "Pixel Tower Defense/PixelTD Assets",
+        :type => :grid,
+        :columns => 1,
+        :rows => 1
+    },
+
     # Platformer Pack
     {
         :name => "tiles_spritesheet",
@@ -335,7 +400,13 @@ sources = [
         :path => "Platformer Pack/Player",
         :type => :simple
     },
-    
+    {
+        :name => "Items",
+        :path => "Platformer Pack/Items",
+        :type => :directory,
+        :columns => 8
+    },
+
     # Turn Based Game
     {
         :name => "Cocoon",
@@ -377,11 +448,245 @@ sources = [
         :path => "Turn Based Game/Weapons/Swords",
         :type => :flash_json
     },
+    
+    # Bombermine
+    {
+        :name => "bomb_64x64_2",
+        :path => "Bombermine",
+        :type => :grid,
+        :columns => 2,
+        :rows => 14
+    },
+    {
+        :name => "character",
+        :path => "Bombermine",
+        :type => :grid,
+        :columns => 4,
+        :rows => 4
+    },
+    {
+        :name => "character2",
+        :path => "Bombermine",
+        :type => :grid,
+        :columns => 4,
+        :rows => 4
+    },
+    {
+        :name => "items_mini",
+        :path => "Bombermine",
+        :type => :grid,
+        :columns => 3,
+        :rows => 5
+    },
+    {
+        :name => "items",
+        :path => "Bombermine",
+        :type => :grid,
+        :columns => 3,
+        :rows => 7
+    },
+    {
+        :name => "items",
+        :path => "Bombermine",
+        :type => :grid,
+        :columns => 3,
+        :rows => 7
+    },
+    {
+        :name => "langolier",
+        :path => "Bombermine",
+        :type => :grid,
+        :columns => 4,
+        :rows => 4
+    },
+    {
+        :name => "tileset_02_03",
+        :path => "Bombermine",
+        :type => :grid,
+        :columns => 8,
+        :rows => 9
+    },
+    
+    # Sprite
+    {
+        :name => "effects",
+        :path => "Sprite/DoZ",
+        :type => :grid,
+        :columns => 8,
+        :rows => 53
+    },
+    {
+        :name => "monsters",
+        :path => "Sprite/DoZ",
+        :type => :grid,
+        :columns => 16,
+        :rows => 56
+    },
+    {
+        :name => "Earth",
+        :path => "Sprite/Juice/Spritesheets",
+        :type => :flash_json
+    },
+    {
+        :name => "Fire",
+        :path => "Sprite/Juice/Spritesheets",
+        :type => :flash_json
+    },
+    {
+        :name => "Heart",
+        :path => "Sprite/Juice/Spritesheets",
+        :type => :flash_json
+    },
+    {
+        :name => "Water",
+        :path => "Sprite/Juice/Spritesheets",
+        :type => :flash_json
+    },
+    {
+        :name => "Wind",
+        :path => "Sprite/Juice/Spritesheets",
+        :type => :flash_json
+    },
+    {
+        :name => "bearsprite",
+        :path => "Sprite/Vahiy",
+        :type => :grid,
+        :columns => 2,
+        :rows => 2
+    },
+    {
+        :name => "boo",
+        :path => "Sprite/Vahiy",
+        :type => :grid,
+        :columns => 3,
+        :rows => 1
+    },
+    {
+        :name => "Dashiell",
+        :path => "Sprite/Vahiy",
+        :type => :grid,
+        :columns => 2,
+        :rows => 1
+    },
+    {
+        :name => "feesh",
+        :path => "Sprite/Vahiy",
+        :type => :grid,
+        :columns => 2,
+        :rows => 2
+    },
+    {
+        :name => "fullCharacterSheet",
+        :path => "Sprite/Vahiy",
+        :type => :grid,
+        :columns => 14,
+        :rows => 6
+    },
+    {
+        :name => "gloober",
+        :path => "Sprite/Vahiy",
+        :type => :grid,
+        :columns => 4,
+        :rows => 2
+    },
+    {
+        :name => "graff",
+        :path => "Sprite/Vahiy",
+        :type => :grid,
+        :columns => 14,
+        :rows => 1
+    },
+    {
+        :name => "meaniesprite",
+        :path => "Sprite/Vahiy",
+        :type => :grid,
+        :columns => 4,
+        :rows => 4
+    },
+    {
+        :name => "Remiel",
+        :path => "Sprite/Vahiy",
+        :type => :grid,
+        :columns => 4,
+        :rows => 1
+    },
+    {
+        :name => "Susansprite",
+        :path => "Sprite/Vahiy",
+        :type => :grid,
+        :columns => 2,
+        :rows => 1
+    },
+    {
+        :name => "tien",
+        :path => "Sprite/Vahiy",
+        :type => :grid,
+        :columns => 4,
+        :rows => 1
+    },
+    
+    # IsometricForest
+    {
+        :name => "IsometricForest",
+        :path => "IsometricForest",
+        :type => :directory,
+        :columns => 8
+    },
 ]
 
 require 'JSON'
 require 'FileUtils'
 require 'RMagick'
+
+class SpritePacker
+    def initialize(columns)
+        @columns = columns
+        @sheet_image = Magick::ImageList.new
+        @row_image = Magick::ImageList.new
+        @x = 0
+        @y = 0
+        @next_y = 0
+        @column = 0
+    end
+
+    def add(image)
+        @row_image.push(image)
+        
+        rectangle = {
+            "x" => 0,
+            "y" => 0,
+            "w" => image.columns,
+            "h" => image.rows
+        }
+        
+        source_rectangle = {
+            "x" => @x,
+            "y" => @y,
+            "w" => image.columns,
+            "h" => image.rows
+        }
+
+        @column += 1
+        @x += image.columns
+        
+        if @y + image.rows > @next_y then
+            @next_y = @y + image.rows
+        end
+
+        if @column >= @columns
+            @column = @x = 0
+            @y = @next_y
+            @sheet_image.push(@row_image.append(false))
+            @row_image.clear
+        end
+
+        return rectangle, source_rectangle
+    end
+
+    def write(file)
+        @sheet_image.append(true).write(file)
+    end
+end
 
 for source in sources
     image_type = source[:image_type]
@@ -390,7 +695,7 @@ for source in sources
     end
     filepath = source[:path] + '/'  + source[:name]
     FileUtils.mkpath('output/' + source[:path])
-    puts 'parsing ' + filepath
+    puts 'converting ' + filepath
     frames = {}
     object = {
         "frames" => frames
@@ -485,13 +790,54 @@ for source in sources
             sheet_image.push(section_image.append(false))
         end
         sheet_image.append(true).write('output/' + filepath + '.png')
+
+    elsif source[:type] == :grid
+        frame_image = Magick::Image.read(filepath + image_type).first
+        tile_width = frame_image.columns / source[:columns]
+        tile_height = frame_image.rows / source[:rows]
+            
+        for row in 0..(source[:rows] - 1)
+            for column in 0..(source[:columns] - 1)
+                rectangle = {
+                    "x" => 0,
+                    "y" => 0,
+                    "w" => tile_width,
+                    "h" => tile_height
+                }
+                source_rectangle = {
+                    "x" => column * tile_width,
+                    "y" => row * tile_height,
+                    "w" => tile_width,
+                    "h" => tile_height
+                }
+
+                frames[(row + 1).to_s + "_" + (column + 1).to_s] = {
+                    "rectangle" => rectangle,
+                    "source_rectangle" => source_rectangle
+                }
+            end
+        end
+    elsif source[:type] == :directory
+        packer = SpritePacker.new(source[:columns])
+        Dir.chdir(source[:path]) do
+            files = Dir.glob('*' + image_type)
+            
+            for file in files
+                rectangle, source_rectangle = packer.add(Magick::Image.read(file).first)
+                frames[file.sub(image_type, '')] = {
+                    "rectangle" => rectangle,
+                    "source_rectangle" => source_rectangle
+                }
+            end
+        end
+        packer.write('output/' + filepath + '.png')
     end
 
     object["image_name"] = source[:name] + image_type
 
     IO.write('output/' + filepath + '.json', JSON.pretty_generate(object, :indent => '  '))
 
-    if source[:type] == :flash_json or source[:type] == :simple
+    if source[:type] == :flash_json or source[:type] == :simple or source[:type] == :grid
         FileUtils.cp(filepath + image_type, 'output/' + filepath + image_type)
     end
 end
