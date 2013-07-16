@@ -1,0 +1,131 @@
+{
+  "frames": {
+    "Heart0000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 91,
+        "h": 106
+      },
+      "source_rectangle": {
+        "x": 14,
+        "y": 11,
+        "w": 118,
+        "h": 129
+      }
+    },
+    "Heart0001": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 91,
+        "h": 106
+      },
+      "source_rectangle": {
+        "x": 14,
+        "y": 11,
+        "w": 118,
+        "h": 129
+      }
+    },
+    "Heart0002": {
+      "rectangle": {
+        "x": 111,
+        "y": 10,
+        "w": 109,
+        "h": 122
+      },
+      "source_rectangle": {
+        "x": 5,
+        "y": 5,
+        "w": 118,
+        "h": 129
+      }
+    },
+    "Heart0003": {
+      "rectangle": {
+        "x": 111,
+        "y": 10,
+        "w": 109,
+        "h": 122
+      },
+      "source_rectangle": {
+        "x": 5,
+        "y": 5,
+        "w": 118,
+        "h": 129
+      }
+    },
+    "Heart0004": {
+      "rectangle": {
+        "x": 10,
+        "y": 142,
+        "w": 117,
+        "h": 127
+      },
+      "source_rectangle": {
+        "x": 1,
+        "y": 1,
+        "w": 118,
+        "h": 129
+      }
+    },
+    "Heart0005": {
+      "rectangle": {
+        "x": 10,
+        "y": 142,
+        "w": 117,
+        "h": 127
+      },
+      "source_rectangle": {
+        "x": 1,
+        "y": 1,
+        "w": 118,
+        "h": 129
+      }
+    },
+    "Heart0006": {
+      "rectangle": {
+        "x": 10,
+        "y": 279,
+        "w": 118,
+        "h": 129
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 129
+      }
+    },
+    "Heart0007": {
+      "rectangle": {
+        "x": 10,
+        "y": 279,
+        "w": 118,
+        "h": 129
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 129
+      }
+    },
+    "Heart0008": {
+      "rectangle": {
+        "x": 138,
+        "y": 279,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 59,
+        "y": 65,
+        "w": 118,
+        "h": 129
+      }
+    }
+  },
+  "image_name": "Heart.png"
+}

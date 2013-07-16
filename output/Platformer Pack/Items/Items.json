@@ -1,0 +1,509 @@
+{
+  "frames": {
+    "bush": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "buttonBlue": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 70,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "buttonBlue_pressed": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 140,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "buttonGreen": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 210,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "buttonGreen_pressed": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 280,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "buttonRed": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 350,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "buttonRed_pressed": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 420,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "buttonYellow": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 490,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "buttonYellow_pressed": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 70,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "cactus": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 70,
+        "y": 70,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "chain": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 140,
+        "y": 70,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "cloud1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 71
+      },
+      "source_rectangle": {
+        "x": 210,
+        "y": 70,
+        "w": 128,
+        "h": 71
+      }
+    },
+    "cloud2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 71
+      },
+      "source_rectangle": {
+        "x": 338,
+        "y": 70,
+        "w": 129,
+        "h": 71
+      }
+    },
+    "cloud3": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 71
+      },
+      "source_rectangle": {
+        "x": 467,
+        "y": 70,
+        "w": 129,
+        "h": 71
+      }
+    },
+    "coinBronze": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 596,
+        "y": 70,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "coinGold": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 666,
+        "y": 70,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "coinSilver": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 141,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "fireball": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 70,
+        "y": 141,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "keyBlue": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 140,
+        "y": 141,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "keyGreen": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 210,
+        "y": 141,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "keyRed": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 280,
+        "y": 141,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "keyYellow": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 350,
+        "y": 141,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "mushroomBrown": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 420,
+        "y": 141,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "mushroomRed": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 490,
+        "y": 141,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "particleBrick1a": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 14
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 211,
+        "w": 19,
+        "h": 14
+      }
+    },
+    "particleBrick1b": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 21
+      },
+      "source_rectangle": {
+        "x": 19,
+        "y": 211,
+        "w": 21,
+        "h": 21
+      }
+    },
+    "particleBrick2a": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 14
+      },
+      "source_rectangle": {
+        "x": 40,
+        "y": 211,
+        "w": 19,
+        "h": 14
+      }
+    },
+    "particleBrick2b": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 21
+      },
+      "source_rectangle": {
+        "x": 59,
+        "y": 211,
+        "w": 21,
+        "h": 21
+      }
+    },
+    "plant": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 80,
+        "y": 211,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "plantPurple": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 150,
+        "y": 211,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "rock": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 220,
+        "y": 211,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "snowhill": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 290,
+        "y": 211,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "spikes": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 281,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "star": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 70,
+        "y": 281,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "weight": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 140,
+        "y": 281,
+        "w": 70,
+        "h": 70
+      }
+    },
+    "weightChained": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70
+      },
+      "source_rectangle": {
+        "x": 210,
+        "y": 281,
+        "w": 70,
+        "h": 70
+      }
+    }
+  },
+  "image_name": "Items.png"
+}

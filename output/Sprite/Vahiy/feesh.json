@@ -1,0 +1,61 @@
+{
+  "frames": {
+    "1_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 50
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 50
+      }
+    },
+    "1_2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 50
+      },
+      "source_rectangle": {
+        "x": 75,
+        "y": 0,
+        "w": 75,
+        "h": 50
+      }
+    },
+    "2_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 50
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 50,
+        "w": 75,
+        "h": 50
+      }
+    },
+    "2_2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 50
+      },
+      "source_rectangle": {
+        "x": 75,
+        "y": 50,
+        "w": 75,
+        "h": 50
+      }
+    }
+  },
+  "image_name": "feesh.png"
+}

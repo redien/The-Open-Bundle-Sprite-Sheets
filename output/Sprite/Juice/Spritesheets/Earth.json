@@ -1,0 +1,355 @@
+{
+  "frames": {
+    "Earth0000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 68,
+        "h": 68
+      },
+      "source_rectangle": {
+        "x": 8,
+        "y": 19,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0001": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 68,
+        "h": 68
+      },
+      "source_rectangle": {
+        "x": 8,
+        "y": 19,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0002": {
+      "rectangle": {
+        "x": 88,
+        "y": 10,
+        "w": 78,
+        "h": 77
+      },
+      "source_rectangle": {
+        "x": 5,
+        "y": 12,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0003": {
+      "rectangle": {
+        "x": 88,
+        "y": 10,
+        "w": 78,
+        "h": 77
+      },
+      "source_rectangle": {
+        "x": 5,
+        "y": 12,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0004": {
+      "rectangle": {
+        "x": 10,
+        "y": 97,
+        "w": 86,
+        "h": 86
+      },
+      "source_rectangle": {
+        "x": 2,
+        "y": 6,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0005": {
+      "rectangle": {
+        "x": 10,
+        "y": 97,
+        "w": 86,
+        "h": 86
+      },
+      "source_rectangle": {
+        "x": 2,
+        "y": 6,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0006": {
+      "rectangle": {
+        "x": 106,
+        "y": 97,
+        "w": 89,
+        "h": 88
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 4,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0007": {
+      "rectangle": {
+        "x": 106,
+        "y": 97,
+        "w": 89,
+        "h": 88
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 4,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0008": {
+      "rectangle": {
+        "x": 10,
+        "y": 195,
+        "w": 88,
+        "h": 90
+      },
+      "source_rectangle": {
+        "x": 1,
+        "y": 2,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0009": {
+      "rectangle": {
+        "x": 10,
+        "y": 195,
+        "w": 88,
+        "h": 90
+      },
+      "source_rectangle": {
+        "x": 1,
+        "y": 2,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0010": {
+      "rectangle": {
+        "x": 108,
+        "y": 195,
+        "w": 87,
+        "h": 90
+      },
+      "source_rectangle": {
+        "x": 3,
+        "y": 1,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0011": {
+      "rectangle": {
+        "x": 108,
+        "y": 195,
+        "w": 87,
+        "h": 90
+      },
+      "source_rectangle": {
+        "x": 3,
+        "y": 1,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0012": {
+      "rectangle": {
+        "x": 10,
+        "y": 295,
+        "w": 85,
+        "h": 90
+      },
+      "source_rectangle": {
+        "x": 4,
+        "y": 0,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0013": {
+      "rectangle": {
+        "x": 10,
+        "y": 295,
+        "w": 85,
+        "h": 90
+      },
+      "source_rectangle": {
+        "x": 4,
+        "y": 0,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0014": {
+      "rectangle": {
+        "x": 105,
+        "y": 295,
+        "w": 75,
+        "h": 88
+      },
+      "source_rectangle": {
+        "x": 4,
+        "y": 0,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0015": {
+      "rectangle": {
+        "x": 105,
+        "y": 295,
+        "w": 75,
+        "h": 88
+      },
+      "source_rectangle": {
+        "x": 4,
+        "y": 0,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0016": {
+      "rectangle": {
+        "x": 190,
+        "y": 295,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 53,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0017": {
+      "rectangle": {
+        "x": 190,
+        "y": 295,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 53,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0018": {
+      "rectangle": {
+        "x": 190,
+        "y": 295,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 53,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0019": {
+      "rectangle": {
+        "x": 190,
+        "y": 295,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 53,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0020": {
+      "rectangle": {
+        "x": 190,
+        "y": 295,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 53,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0021": {
+      "rectangle": {
+        "x": 190,
+        "y": 295,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 53,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0022": {
+      "rectangle": {
+        "x": 190,
+        "y": 295,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 53,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0023": {
+      "rectangle": {
+        "x": 190,
+        "y": 295,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 53,
+        "w": 90,
+        "h": 92
+      }
+    },
+    "Earth0024": {
+      "rectangle": {
+        "x": 190,
+        "y": 295,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 53,
+        "w": 90,
+        "h": 92
+      }
+    }
+  },
+  "image_name": "Earth.png"
+}

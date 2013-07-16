@@ -1,0 +1,61 @@
+{
+  "frames": {
+    "1_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 150
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 150
+      }
+    },
+    "1_2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 150
+      },
+      "source_rectangle": {
+        "x": 75,
+        "y": 0,
+        "w": 75,
+        "h": 150
+      }
+    },
+    "2_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 150
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 150,
+        "w": 75,
+        "h": 150
+      }
+    },
+    "2_2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 150
+      },
+      "source_rectangle": {
+        "x": 75,
+        "y": 150,
+        "w": 75,
+        "h": 150
+      }
+    }
+  },
+  "image_name": "bearsprite.png"
+}

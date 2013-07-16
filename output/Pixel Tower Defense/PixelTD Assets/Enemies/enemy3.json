@@ -1,0 +1,19 @@
+{
+  "frames": {
+    "1_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 30
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 30
+      }
+    }
+  },
+  "image_name": "enemy3.png"
+}

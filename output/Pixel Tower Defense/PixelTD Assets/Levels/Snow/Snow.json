@@ -1,0 +1,173 @@
+{
+  "frames": {
+    "grid_snow": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      }
+    },
+    "house": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 52
+      },
+      "source_rectangle": {
+        "x": 100,
+        "y": 0,
+        "w": 67,
+        "h": 52
+      }
+    },
+    "snowhill1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 11
+      },
+      "source_rectangle": {
+        "x": 167,
+        "y": 0,
+        "w": 80,
+        "h": 11
+      }
+    },
+    "snowhill2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 7
+      },
+      "source_rectangle": {
+        "x": 247,
+        "y": 0,
+        "w": 44,
+        "h": 7
+      }
+    },
+    "tileSnow1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 100,
+        "w": 25,
+        "h": 25
+      }
+    },
+    "tileSnow2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "source_rectangle": {
+        "x": 25,
+        "y": 100,
+        "w": 25,
+        "h": 25
+      }
+    },
+    "tileSnow3": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "source_rectangle": {
+        "x": 50,
+        "y": 100,
+        "w": 25,
+        "h": 25
+      }
+    },
+    "tileSnow4": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "source_rectangle": {
+        "x": 75,
+        "y": 100,
+        "w": 25,
+        "h": 25
+      }
+    },
+    "tileSnow5": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 125,
+        "w": 25,
+        "h": 25
+      }
+    },
+    "tileSnow6": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "source_rectangle": {
+        "x": 25,
+        "y": 125,
+        "w": 25,
+        "h": 25
+      }
+    },
+    "tree1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 29
+      },
+      "source_rectangle": {
+        "x": 50,
+        "y": 125,
+        "w": 20,
+        "h": 29
+      }
+    },
+    "tree2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 25
+      },
+      "source_rectangle": {
+        "x": 70,
+        "y": 125,
+        "w": 15,
+        "h": 25
+      }
+    }
+  },
+  "image_name": "Snow.png"
+}

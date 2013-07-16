@@ -1,0 +1,33 @@
+{
+  "frames": {
+    "1_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 100
+      }
+    },
+    "1_2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 50,
+        "y": 0,
+        "w": 50,
+        "h": 100
+      }
+    }
+  },
+  "image_name": "Dashiell.png"
+}

@@ -1,0 +1,509 @@
+{
+  "frames": {
+    "basic1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "bridge_ew": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 64,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "bridge_ns": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 128,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "ground": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 192,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "highlighted": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 256,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "house1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 320,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "house2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 384,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "house3": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 448,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "house4": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 100,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "path_ew": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 64,
+        "y": 100,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "path_ne": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 128,
+        "y": 100,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "path_ns": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 192,
+        "y": 100,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "path_nse": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 256,
+        "y": 100,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "path_nw": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 320,
+        "y": 100,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "path_sew": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 384,
+        "y": 100,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "path_sw": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 448,
+        "y": 100,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "road_nsew": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 200,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "road_se": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 64,
+        "y": 200,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 128,
+        "y": 200,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees10": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 192,
+        "y": 200,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees11": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 256,
+        "y": 200,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees12": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 320,
+        "y": 200,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees13": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 384,
+        "y": 200,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees14": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 448,
+        "y": 200,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees15": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 300,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees16": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 64,
+        "y": 300,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees17": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 128,
+        "y": 300,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees18": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 192,
+        "y": 300,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 256,
+        "y": 300,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees3": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 320,
+        "y": 300,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees4": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 384,
+        "y": 300,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees5": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 448,
+        "y": 300,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees6": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 400,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees7": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 64,
+        "y": 400,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees8": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 128,
+        "y": 400,
+        "w": 64,
+        "h": 100
+      }
+    },
+    "trees9": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 192,
+        "y": 400,
+        "w": 64,
+        "h": 100
+      }
+    }
+  },
+  "image_name": "IsometricForest.png"
+}

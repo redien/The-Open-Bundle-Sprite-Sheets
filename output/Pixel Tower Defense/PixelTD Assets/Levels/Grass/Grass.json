@@ -1,0 +1,159 @@
+{
+  "frames": {
+    "grasshill1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 20
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 20
+      }
+    },
+    "grasshill2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 20
+      },
+      "source_rectangle": {
+        "x": 54,
+        "y": 0,
+        "w": 54,
+        "h": 20
+      }
+    },
+    "grasshill3": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 20
+      },
+      "source_rectangle": {
+        "x": 108,
+        "y": 0,
+        "w": 64,
+        "h": 20
+      }
+    },
+    "grid_grass": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 172,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      }
+    },
+    "houseGrass": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 50
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 100,
+        "w": 62,
+        "h": 50
+      }
+    },
+    "houseGrass2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 50
+      },
+      "source_rectangle": {
+        "x": 62,
+        "y": 100,
+        "w": 62,
+        "h": 50
+      }
+    },
+    "tileGrass1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "source_rectangle": {
+        "x": 124,
+        "y": 100,
+        "w": 25,
+        "h": 25
+      }
+    },
+    "tileGrass2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "source_rectangle": {
+        "x": 149,
+        "y": 100,
+        "w": 25,
+        "h": 25
+      }
+    },
+    "tileGrass3": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 150,
+        "w": 25,
+        "h": 25
+      }
+    },
+    "tree1grass": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 29
+      },
+      "source_rectangle": {
+        "x": 25,
+        "y": 150,
+        "w": 20,
+        "h": 29
+      }
+    },
+    "tree2grass": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 25
+      },
+      "source_rectangle": {
+        "x": 45,
+        "y": 150,
+        "w": 15,
+        "h": 25
+      }
+    }
+  },
+  "image_name": "Grass.png"
+}

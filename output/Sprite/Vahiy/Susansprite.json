@@ -1,0 +1,33 @@
+{
+  "frames": {
+    "1_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 100
+      }
+    },
+    "1_2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 75,
+        "y": 0,
+        "w": 75,
+        "h": 100
+      }
+    }
+  },
+  "image_name": "Susansprite.png"
+}

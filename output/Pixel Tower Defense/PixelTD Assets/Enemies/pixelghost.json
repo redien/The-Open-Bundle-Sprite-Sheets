@@ -1,0 +1,19 @@
+{
+  "frames": {
+    "1_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 27
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 27
+      }
+    }
+  },
+  "image_name": "pixelghost.png"
+}

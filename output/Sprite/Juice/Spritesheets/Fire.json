@@ -1,0 +1,229 @@
+{
+  "frames": {
+    "Fire0000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 81,
+        "h": 131
+      },
+      "source_rectangle": {
+        "x": 6,
+        "y": 35,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0001": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 81,
+        "h": 131
+      },
+      "source_rectangle": {
+        "x": 6,
+        "y": 35,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0002": {
+      "rectangle": {
+        "x": 101,
+        "y": 10,
+        "w": 86,
+        "h": 152
+      },
+      "source_rectangle": {
+        "x": 4,
+        "y": 16,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0003": {
+      "rectangle": {
+        "x": 101,
+        "y": 10,
+        "w": 86,
+        "h": 152
+      },
+      "source_rectangle": {
+        "x": 4,
+        "y": 16,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0004": {
+      "rectangle": {
+        "x": 197,
+        "y": 10,
+        "w": 81,
+        "h": 160
+      },
+      "source_rectangle": {
+        "x": 10,
+        "y": 6,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0005": {
+      "rectangle": {
+        "x": 197,
+        "y": 10,
+        "w": 81,
+        "h": 160
+      },
+      "source_rectangle": {
+        "x": 10,
+        "y": 6,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0006": {
+      "rectangle": {
+        "x": 288,
+        "y": 10,
+        "w": 88,
+        "h": 166
+      },
+      "source_rectangle": {
+        "x": 5,
+        "y": 1,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0007": {
+      "rectangle": {
+        "x": 288,
+        "y": 10,
+        "w": 88,
+        "h": 166
+      },
+      "source_rectangle": {
+        "x": 5,
+        "y": 1,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0008": {
+      "rectangle": {
+        "x": 386,
+        "y": 10,
+        "w": 92,
+        "h": 167
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0009": {
+      "rectangle": {
+        "x": 386,
+        "y": 10,
+        "w": 92,
+        "h": 167
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0010": {
+      "rectangle": {
+        "x": 10,
+        "y": 187,
+        "w": 91,
+        "h": 166
+      },
+      "source_rectangle": {
+        "x": 1,
+        "y": 2,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0011": {
+      "rectangle": {
+        "x": 10,
+        "y": 187,
+        "w": 91,
+        "h": 166
+      },
+      "source_rectangle": {
+        "x": 1,
+        "y": 2,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0012": {
+      "rectangle": {
+        "x": 111,
+        "y": 187,
+        "w": 88,
+        "h": 133
+      },
+      "source_rectangle": {
+        "x": 4,
+        "y": 34,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0013": {
+      "rectangle": {
+        "x": 111,
+        "y": 187,
+        "w": 88,
+        "h": 133
+      },
+      "source_rectangle": {
+        "x": 4,
+        "y": 34,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0014": {
+      "rectangle": {
+        "x": 209,
+        "y": 187,
+        "w": 85,
+        "h": 131
+      },
+      "source_rectangle": {
+        "x": 7,
+        "y": 35,
+        "w": 93,
+        "h": 168
+      }
+    },
+    "Fire0015": {
+      "rectangle": {
+        "x": 209,
+        "y": 187,
+        "w": 85,
+        "h": 131
+      },
+      "source_rectangle": {
+        "x": 7,
+        "y": 35,
+        "w": 93,
+        "h": 168
+      }
+    }
+  },
+  "image_name": "Fire.png"
+}

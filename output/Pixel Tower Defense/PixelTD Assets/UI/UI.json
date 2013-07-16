@@ -1,0 +1,159 @@
+{
+  "frames": {
+    "health": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 8
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 8
+      }
+    },
+    "heart": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 13
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 0,
+        "w": 15,
+        "h": 13
+      }
+    },
+    "hud_menu": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 74,
+        "h": 45
+      },
+      "source_rectangle": {
+        "x": 57,
+        "y": 0,
+        "w": 74,
+        "h": 45
+      }
+    },
+    "hudBtn": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 36
+      },
+      "source_rectangle": {
+        "x": 131,
+        "y": 0,
+        "w": 36,
+        "h": 36
+      }
+    },
+    "hudTowerPopup": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 37
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 45,
+        "w": 50,
+        "h": 37
+      }
+    },
+    "Mute": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 13
+      },
+      "source_rectangle": {
+        "x": 50,
+        "y": 45,
+        "w": 49,
+        "h": 13
+      }
+    },
+    "pause": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 12
+      },
+      "source_rectangle": {
+        "x": 99,
+        "y": 45,
+        "w": 55,
+        "h": 12
+      }
+    },
+    "popupClose": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 24
+      },
+      "source_rectangle": {
+        "x": 154,
+        "y": 45,
+        "w": 24,
+        "h": 24
+      }
+    },
+    "restartLevel": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 13
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 82,
+        "w": 119,
+        "h": 13
+      }
+    },
+    "sell": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 20
+      },
+      "source_rectangle": {
+        "x": 119,
+        "y": 82,
+        "w": 35,
+        "h": 20
+      }
+    },
+    "upgrade": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 20
+      },
+      "source_rectangle": {
+        "x": 154,
+        "y": 82,
+        "w": 100,
+        "h": 20
+      }
+    }
+  },
+  "image_name": "UI.png"
+}

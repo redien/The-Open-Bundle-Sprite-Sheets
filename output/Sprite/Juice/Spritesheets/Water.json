@@ -1,0 +1,327 @@
+{
+  "frames": {
+    "Water0000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 180,
+        "h": 112
+      },
+      "source_rectangle": {
+        "x": 112,
+        "y": 105,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0001": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 180,
+        "h": 112
+      },
+      "source_rectangle": {
+        "x": 112,
+        "y": 105,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0002": {
+      "rectangle": {
+        "x": 200,
+        "y": 10,
+        "w": 246,
+        "h": 171
+      },
+      "source_rectangle": {
+        "x": 69,
+        "y": 47,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0003": {
+      "rectangle": {
+        "x": 200,
+        "y": 10,
+        "w": 246,
+        "h": 171
+      },
+      "source_rectangle": {
+        "x": 69,
+        "y": 47,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0004": {
+      "rectangle": {
+        "x": 456,
+        "y": 10,
+        "w": 286,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 13,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0005": {
+      "rectangle": {
+        "x": 456,
+        "y": 10,
+        "w": 286,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 13,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0006": {
+      "rectangle": {
+        "x": 10,
+        "y": 223,
+        "w": 318,
+        "h": 217
+      },
+      "source_rectangle": {
+        "x": 25,
+        "y": 1,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0007": {
+      "rectangle": {
+        "x": 10,
+        "y": 223,
+        "w": 318,
+        "h": 217
+      },
+      "source_rectangle": {
+        "x": 25,
+        "y": 1,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0008": {
+      "rectangle": {
+        "x": 338,
+        "y": 223,
+        "w": 334,
+        "h": 218
+      },
+      "source_rectangle": {
+        "x": 18,
+        "y": 0,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0009": {
+      "rectangle": {
+        "x": 338,
+        "y": 223,
+        "w": 334,
+        "h": 218
+      },
+      "source_rectangle": {
+        "x": 18,
+        "y": 0,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0010": {
+      "rectangle": {
+        "x": 10,
+        "y": 451,
+        "w": 353,
+        "h": 217
+      },
+      "source_rectangle": {
+        "x": 12,
+        "y": 0,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0011": {
+      "rectangle": {
+        "x": 10,
+        "y": 451,
+        "w": 353,
+        "h": 217
+      },
+      "source_rectangle": {
+        "x": 12,
+        "y": 0,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0012": {
+      "rectangle": {
+        "x": 373,
+        "y": 451,
+        "w": 371,
+        "h": 211
+      },
+      "source_rectangle": {
+        "x": 7,
+        "y": 5,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0013": {
+      "rectangle": {
+        "x": 373,
+        "y": 451,
+        "w": 371,
+        "h": 211
+      },
+      "source_rectangle": {
+        "x": 7,
+        "y": 5,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0014": {
+      "rectangle": {
+        "x": 10,
+        "y": 678,
+        "w": 383,
+        "h": 197
+      },
+      "source_rectangle": {
+        "x": 4,
+        "y": 20,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0015": {
+      "rectangle": {
+        "x": 10,
+        "y": 678,
+        "w": 383,
+        "h": 197
+      },
+      "source_rectangle": {
+        "x": 4,
+        "y": 20,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0016": {
+      "rectangle": {
+        "x": 403,
+        "y": 678,
+        "w": 364,
+        "h": 170
+      },
+      "source_rectangle": {
+        "x": 1,
+        "y": 47,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0017": {
+      "rectangle": {
+        "x": 403,
+        "y": 678,
+        "w": 364,
+        "h": 170
+      },
+      "source_rectangle": {
+        "x": 1,
+        "y": 47,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0018": {
+      "rectangle": {
+        "x": 10,
+        "y": 885,
+        "w": 371,
+        "h": 122
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 89,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0019": {
+      "rectangle": {
+        "x": 10,
+        "y": 885,
+        "w": 371,
+        "h": 122
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 89,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0020": {
+      "rectangle": {
+        "x": 391,
+        "y": 885,
+        "w": 165,
+        "h": 65
+      },
+      "source_rectangle": {
+        "x": 208,
+        "y": 144,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0021": {
+      "rectangle": {
+        "x": 391,
+        "y": 885,
+        "w": 165,
+        "h": 65
+      },
+      "source_rectangle": {
+        "x": 208,
+        "y": 144,
+        "w": 387,
+        "h": 218
+      }
+    },
+    "Water0022": {
+      "rectangle": {
+        "x": 566,
+        "y": 885,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 202,
+        "y": 209,
+        "w": 387,
+        "h": 218
+      }
+    }
+  },
+  "image_name": "Water.png"
+}

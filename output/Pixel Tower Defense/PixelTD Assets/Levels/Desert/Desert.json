@@ -1,0 +1,145 @@
+{
+  "frames": {
+    "desertHouse": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 60
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 60
+      }
+    },
+    "desertHouse2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 60
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 0,
+        "w": 46,
+        "h": 60
+      }
+    },
+    "desertOasis": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 28
+      },
+      "source_rectangle": {
+        "x": 92,
+        "y": 0,
+        "w": 77,
+        "h": 28
+      }
+    },
+    "deserttree": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 35
+      },
+      "source_rectangle": {
+        "x": 169,
+        "y": 0,
+        "w": 29,
+        "h": 35
+      }
+    },
+    "deserttree2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 20
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 60,
+        "w": 15,
+        "h": 20
+      }
+    },
+    "dunes1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 21
+      },
+      "source_rectangle": {
+        "x": 15,
+        "y": 60,
+        "w": 142,
+        "h": 21
+      }
+    },
+    "dunes2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 9
+      },
+      "source_rectangle": {
+        "x": 157,
+        "y": 60,
+        "w": 54,
+        "h": 9
+      }
+    },
+    "grid_desert": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "source_rectangle": {
+        "x": 211,
+        "y": 60,
+        "w": 100,
+        "h": 100
+      }
+    },
+    "tileDesert1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 160,
+        "w": 25,
+        "h": 25
+      }
+    },
+    "tileDesert2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "source_rectangle": {
+        "x": 25,
+        "y": 160,
+        "w": 25,
+        "h": 25
+      }
+    }
+  },
+  "image_name": "Desert.png"
+}
