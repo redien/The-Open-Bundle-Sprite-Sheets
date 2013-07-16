@@ -5,149 +5,169 @@
       "rectangle": {
         "x": 0,
         "y": 0,
-        "w": 46,
-        "h": 60
+        "width": 46,
+        "height": 60
       },
-      "source_rectangle": {
+      "offset": {
         "x": 0,
-        "y": 0,
-        "w": 46,
-        "h": 60
+        "y": 0
+      },
+      "size": {
+        "width": 46,
+        "height": 60
       }
     },
     {
       "name": "desertHouse2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 46,
-        "h": 60
-      },
-      "source_rectangle": {
         "x": 46,
         "y": 0,
-        "w": 46,
-        "h": 60
+        "width": 46,
+        "height": 60
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 46,
+        "height": 60
       }
     },
     {
       "name": "desertOasis",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 77,
-        "h": 28
-      },
-      "source_rectangle": {
         "x": 92,
         "y": 0,
-        "w": 77,
-        "h": 28
+        "width": 77,
+        "height": 28
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 77,
+        "height": 28
       }
     },
     {
       "name": "deserttree",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 29,
-        "h": 35
-      },
-      "source_rectangle": {
         "x": 169,
         "y": 0,
-        "w": 29,
-        "h": 35
+        "width": 29,
+        "height": 35
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 29,
+        "height": 35
       }
     },
     {
       "name": "deserttree2",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 15,
-        "h": 20
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 60,
-        "w": 15,
-        "h": 20
+        "width": 15,
+        "height": 20
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 15,
+        "height": 20
       }
     },
     {
       "name": "dunes1",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 142,
-        "h": 21
-      },
-      "source_rectangle": {
         "x": 15,
         "y": 60,
-        "w": 142,
-        "h": 21
+        "width": 142,
+        "height": 21
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 142,
+        "height": 21
       }
     },
     {
       "name": "dunes2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 54,
-        "h": 9
-      },
-      "source_rectangle": {
         "x": 157,
         "y": 60,
-        "w": 54,
-        "h": 9
+        "width": 54,
+        "height": 9
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 54,
+        "height": 9
       }
     },
     {
       "name": "grid_desert",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 100,
-        "h": 100
-      },
-      "source_rectangle": {
         "x": 211,
         "y": 60,
-        "w": 100,
-        "h": 100
+        "width": 100,
+        "height": 100
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 100,
+        "height": 100
       }
     },
     {
       "name": "tileDesert1",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 25,
-        "h": 25
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 160,
-        "w": 25,
-        "h": 25
+        "width": 25,
+        "height": 25
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 25,
+        "height": 25
       }
     },
     {
       "name": "tileDesert2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 25,
-        "h": 25
-      },
-      "source_rectangle": {
         "x": 25,
         "y": 160,
-        "w": 25,
-        "h": 25
+        "width": 25,
+        "height": 25
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 25,
+        "height": 25
       }
     }
   ],

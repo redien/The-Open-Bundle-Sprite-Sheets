@@ -5,179 +5,203 @@
       "rectangle": {
         "x": 0,
         "y": 0,
-        "w": 50,
-        "h": 50
+        "width": 50,
+        "height": 50
       },
-      "source_rectangle": {
+      "offset": {
         "x": 0,
-        "y": 0,
-        "w": 50,
-        "h": 50
+        "y": 0
+      },
+      "size": {
+        "width": 50,
+        "height": 50
       }
     },
     {
       "name": "BadlandsCrater2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 50,
-        "h": 50
-      },
-      "source_rectangle": {
         "x": 50,
         "y": 0,
-        "w": 50,
-        "h": 50
+        "width": 50,
+        "height": 50
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 50,
+        "height": 50
       }
     },
     {
       "name": "BadlandsPond1",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 57,
-        "h": 16
-      },
-      "source_rectangle": {
         "x": 100,
         "y": 0,
-        "w": 57,
-        "h": 16
+        "width": 57,
+        "height": 16
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 57,
+        "height": 16
       }
     },
     {
       "name": "BadlandsPond2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 43,
-        "h": 18
-      },
-      "source_rectangle": {
         "x": 157,
         "y": 0,
-        "w": 43,
-        "h": 18
+        "width": 43,
+        "height": 18
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 43,
+        "height": 18
       }
     },
     {
       "name": "BadlandsPond3",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 78,
-        "h": 31
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 50,
-        "w": 78,
-        "h": 31
+        "width": 78,
+        "height": 31
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 78,
+        "height": 31
       }
     },
     {
       "name": "BadlandsRocks1",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 81,
-        "h": 53
-      },
-      "source_rectangle": {
         "x": 78,
         "y": 50,
-        "w": 81,
-        "h": 53
+        "width": 81,
+        "height": 53
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 81,
+        "height": 53
       }
     },
     {
       "name": "BadlandsRocks2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 24,
-        "h": 23
-      },
-      "source_rectangle": {
         "x": 159,
         "y": 50,
-        "w": 24,
-        "h": 23
+        "width": 24,
+        "height": 23
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 24,
+        "height": 23
       }
     },
     {
       "name": "BadlandsRocks3",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 24,
-        "h": 23
-      },
-      "source_rectangle": {
         "x": 183,
         "y": 50,
-        "w": 24,
-        "h": 23
+        "width": 24,
+        "height": 23
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 24,
+        "height": 23
       }
     },
     {
       "name": "Badlandstree1",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 76,
-        "h": 74
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 103,
-        "w": 76,
-        "h": 74
+        "width": 76,
+        "height": 74
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 76,
+        "height": 74
       }
     },
     {
       "name": "grid_badlands",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 100,
-        "h": 100
-      },
-      "source_rectangle": {
         "x": 76,
         "y": 103,
-        "w": 100,
-        "h": 100
+        "width": 100,
+        "height": 100
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 100,
+        "height": 100
       }
     },
     {
       "name": "tileBadlands1",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 25,
-        "h": 25
-      },
-      "source_rectangle": {
         "x": 176,
         "y": 103,
-        "w": 25,
-        "h": 25
+        "width": 25,
+        "height": 25
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 25,
+        "height": 25
       }
     },
     {
       "name": "tileBadlands2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 25,
-        "h": 25
-      },
-      "source_rectangle": {
         "x": 201,
         "y": 103,
-        "w": 25,
-        "h": 25
+        "width": 25,
+        "height": 25
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 25,
+        "height": 25
       }
     }
   ],

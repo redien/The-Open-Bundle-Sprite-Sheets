@@ -5,2144 +5,2430 @@
       "rectangle": {
         "x": 0,
         "y": 0,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
       },
-      "source_rectangle": {
+      "offset": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "buttonBlue",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 0,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "buttonBlue_pressed",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 0,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "buttonGreen",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 71,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "buttonGreen_pressed",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 71,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "buttonRed",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 142,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "buttonRed_pressed",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 142,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "buttonYellow",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 71,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "buttonYellow_pressed",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 142,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "cactus",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 0,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "chain",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 71,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "coinBronze",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 0,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "coinGold",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 142,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "coinSilver",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 71,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "fireball",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 0,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "keyBlue",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 426,
         "y": 0,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "keyGreen",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 71,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "keyRed",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 142,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "keyYellow",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 142,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "mushroomBrown",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 426,
         "y": 71,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "mushroomRed",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 426,
         "y": 142,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "particleBrick1a",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 19,
-        "h": 14
-      },
-      "source_rectangle": {
         "x": 590,
         "y": 781,
-        "w": 19,
-        "h": 14
+        "width": 19,
+        "height": 14
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 19,
+        "height": 14
       }
     },
     {
       "name": "particleBrick1b",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 21,
-        "h": 21
-      },
-      "source_rectangle": {
         "x": 568,
         "y": 781,
-        "w": 21,
-        "h": 21
+        "width": 21,
+        "height": 21
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 21,
+        "height": 21
       }
     },
     {
       "name": "particleBrick2a",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 19,
-        "h": 14
-      },
-      "source_rectangle": {
         "x": 590,
         "y": 796,
-        "w": 19,
-        "h": 14
+        "width": 19,
+        "height": 14
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 19,
+        "height": 14
       }
     },
     {
       "name": "particleBrick2b",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 21,
-        "h": 21
-      },
-      "source_rectangle": {
         "x": 568,
         "y": 803,
-        "w": 21,
-        "h": 21
+        "width": 21,
+        "height": 21
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 21,
+        "height": 21
       }
     },
     {
       "name": "plant",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 213,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "plantPurple",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 284,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "rock",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 213,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowhill",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 284,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "spikes",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 355,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "star",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 213,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "weight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 355,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "weightChained",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 426,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "box",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 213,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "boxAlt",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 284,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "boxCoin",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 355,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "boxCoin_disabled",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 213,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "boxCoinAlt",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 426,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "boxCoinAlt_disabled",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 284,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "boxEmpty",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 426,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "boxItem",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 284,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "boxItem_disabled",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 355,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "boxItemAlt",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 213,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "boxItemAlt_disabled",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 355,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "boxWarning",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 426,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "brickWall",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 426,
         "y": 213,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "bridge",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 284,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "bridgeLogs",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 426,
         "y": 284,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "door_closedMid",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 355,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "door_closedTop",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 426,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "door_openMid",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 426,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "door_openTop",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 426,
         "y": 355,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "fence",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 426,
         "y": 426,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "fenceBroken",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 497,
         "y": 0,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grass",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 497,
         "y": 71,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassCenter",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 568,
         "y": 0,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassCenter_rounded",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 568,
         "y": 71,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassCliffLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 497,
         "y": 142,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassCliffLeftAlt",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 639,
         "y": 0,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassCliffRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 639,
         "y": 71,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassCliffRightAlt",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 568,
         "y": 142,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassHalf",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 497,
         "y": 213,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassHalfLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 710,
         "y": 0,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassHalfMid",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 781,
         "y": 0,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassHalfRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 710,
         "y": 71,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassHillLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 639,
         "y": 142,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassHillLeft2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 568,
         "y": 213,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassHillRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 497,
         "y": 284,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassHillRight2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 710,
         "y": 142,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 639,
         "y": 213,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassMid",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 568,
         "y": 284,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "grassRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 497,
         "y": 355,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "hill_large",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 146
-      },
-      "source_rectangle": {
         "x": 710,
         "y": 639,
-        "w": 48,
-        "h": 146
+        "width": 48,
+        "height": 146
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 48,
+        "height": 146
       }
     },
     {
       "name": "hill_largeAlt",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 146
-      },
-      "source_rectangle": {
         "x": 639,
         "y": 710,
-        "w": 48,
-        "h": 146
+        "width": 48,
+        "height": 146
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 48,
+        "height": 146
       }
     },
     {
       "name": "hill_small",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 106
-      },
-      "source_rectangle": {
         "x": 759,
         "y": 639,
-        "w": 48,
-        "h": 106
+        "width": 48,
+        "height": 106
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 48,
+        "height": 106
       }
     },
     {
       "name": "hill_smallAlt",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 106
-      },
-      "source_rectangle": {
         "x": 759,
         "y": 746,
-        "w": 48,
-        "h": 106
+        "width": 48,
+        "height": 106
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 48,
+        "height": 106
       }
     },
     {
       "name": "ladder_mid",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 781,
         "y": 71,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "ladder_top",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 497,
         "y": 426,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "liquidLava",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 781,
         "y": 142,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "liquidLavaTop",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 639,
         "y": 284,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "liquidLavaTop_mid",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 568,
         "y": 355,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "liquidWater",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 710,
         "y": 213,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "liquidWaterTop",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 639,
         "y": 355,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "liquidWaterTop_mid",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 568,
         "y": 426,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "lock_blue",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 781,
         "y": 213,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "lock_green",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 710,
         "y": 284,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "lock_red",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 781,
         "y": 284,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "lock_yellow",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 710,
         "y": 355,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "rockHillLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 639,
         "y": 426,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "rockHillRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 710,
         "y": 426,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sand",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 781,
         "y": 355,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandCenter",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 781,
         "y": 426,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandCenter_rounded",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 497,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandCliffLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 497,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandCliffLeftAlt",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 568,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandCliffRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 568,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandCliffRightAlt",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 639,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandHalf",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 497,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandHalfLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 497,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandHalfMid",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 639,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandHalfRight",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 710,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandHillLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 568,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandHillLeft2",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 781,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandHillRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 639,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandHillRight2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 568,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 497,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandMid",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 710,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "sandRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 710,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snow",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 568,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowCenter",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 639,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowCenter_rounded",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 781,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowCliffLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 497,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowCliffLeftAlt",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 781,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowCliffRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 568,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowCliffRightAlt",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 639,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowHalf",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 710,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowHalfLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 426,
         "y": 497,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowHalfMid",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 497,
         "y": 497,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowHalfRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 426,
         "y": 568,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowHillLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 639,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowHillLeft2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 710,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowHillRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 781,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowHillRight2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 568,
         "y": 497,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 497,
         "y": 568,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowMid",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 426,
         "y": 639,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "snowRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 710,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stone",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 781,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneCenter",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 426,
         "y": 710,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneCenter_rounded",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 781,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneCliffLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 639,
         "y": 497,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneCliffLeftAlt",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 568,
         "y": 568,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneCliffRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 497,
         "y": 639,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneCliffRightAlt",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 710,
         "y": 497,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneHalf",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 639,
         "y": 568,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneHalfLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 568,
         "y": 639,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneHalfMid",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 497,
         "y": 710,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneHalfRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 426,
         "y": 781,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneHillLeft2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 497,
         "y": 781,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneHillRight2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 568,
         "y": 710,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneLeft",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 710,
         "y": 568,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneMid",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 639,
         "y": 639,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneRight",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 781,
         "y": 497,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     },
     {
       "name": "stoneWall",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 70
-      },
-      "source_rectangle": {
         "x": 781,
         "y": 568,
-        "w": 70,
-        "h": 70
+        "width": 70,
+        "height": 70
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 70
       }
     }
   ],

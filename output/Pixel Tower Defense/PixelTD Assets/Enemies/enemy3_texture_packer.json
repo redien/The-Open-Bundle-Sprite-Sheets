@@ -1,0 +1,36 @@
+{
+   "frames":[
+      {
+         "filename":"1_1",
+         "frame":{
+            "x":0,
+            "y":0,
+            "w":17,
+            "h":30
+         },
+         "rotated":false,
+         "trimmed":false,
+         "spriteSourceSize":{
+            "x":0,
+            "y":0,
+            "w":17,
+            "h":30
+         },
+         "sourceSize":{
+            "w":17,
+            "h":30
+         }
+      }
+   ],
+   "meta":{
+      "app":"Adobe Flash CS6",
+      "version":"12.0.0.481",
+      "image":"enemy3.png",
+      "format":"RGBA8888",
+      "size":{
+         "w":17,
+         "h":30
+      },
+      "scale":"1"
+   }
+}

@@ -5,14 +5,16 @@
       "rectangle": {
         "x": 0,
         "y": 0,
-        "w": 15,
-        "h": 5
+        "width": 15,
+        "height": 5
       },
-      "source_rectangle": {
+      "offset": {
         "x": 0,
-        "y": 0,
-        "w": 15,
-        "h": 5
+        "y": 0
+      },
+      "size": {
+        "width": 15,
+        "height": 5
       }
     }
   ],

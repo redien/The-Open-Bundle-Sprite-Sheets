@@ -1,0 +1,36 @@
+{
+   "frames":[
+      {
+         "filename":"1_1",
+         "frame":{
+            "x":0,
+            "y":0,
+            "w":20,
+            "h":27
+         },
+         "rotated":false,
+         "trimmed":false,
+         "spriteSourceSize":{
+            "x":0,
+            "y":0,
+            "w":20,
+            "h":27
+         },
+         "sourceSize":{
+            "w":20,
+            "h":27
+         }
+      }
+   ],
+   "meta":{
+      "app":"Adobe Flash CS6",
+      "version":"12.0.0.481",
+      "image":"pixelghost.png",
+      "format":"RGBA8888",
+      "size":{
+         "w":20,
+         "h":27
+      },
+      "scale":"1"
+   }
+}

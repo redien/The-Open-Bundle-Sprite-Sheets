@@ -5,179 +5,203 @@
       "rectangle": {
         "x": 0,
         "y": 0,
-        "w": 100,
-        "h": 100
+        "width": 100,
+        "height": 100
       },
-      "source_rectangle": {
+      "offset": {
         "x": 0,
-        "y": 0,
-        "w": 100,
-        "h": 100
+        "y": 0
+      },
+      "size": {
+        "width": 100,
+        "height": 100
       }
     },
     {
       "name": "house",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 67,
-        "h": 52
-      },
-      "source_rectangle": {
         "x": 100,
         "y": 0,
-        "w": 67,
-        "h": 52
+        "width": 67,
+        "height": 52
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 67,
+        "height": 52
       }
     },
     {
       "name": "snowhill1",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 80,
-        "h": 11
-      },
-      "source_rectangle": {
         "x": 167,
         "y": 0,
-        "w": 80,
-        "h": 11
+        "width": 80,
+        "height": 11
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 80,
+        "height": 11
       }
     },
     {
       "name": "snowhill2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 44,
-        "h": 7
-      },
-      "source_rectangle": {
         "x": 247,
         "y": 0,
-        "w": 44,
-        "h": 7
+        "width": 44,
+        "height": 7
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 44,
+        "height": 7
       }
     },
     {
       "name": "tileSnow1",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 25,
-        "h": 25
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 100,
-        "w": 25,
-        "h": 25
+        "width": 25,
+        "height": 25
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 25,
+        "height": 25
       }
     },
     {
       "name": "tileSnow2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 25,
-        "h": 25
-      },
-      "source_rectangle": {
         "x": 25,
         "y": 100,
-        "w": 25,
-        "h": 25
+        "width": 25,
+        "height": 25
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 25,
+        "height": 25
       }
     },
     {
       "name": "tileSnow3",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 25,
-        "h": 25
-      },
-      "source_rectangle": {
         "x": 50,
         "y": 100,
-        "w": 25,
-        "h": 25
+        "width": 25,
+        "height": 25
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 25,
+        "height": 25
       }
     },
     {
       "name": "tileSnow4",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 25,
-        "h": 25
-      },
-      "source_rectangle": {
         "x": 75,
         "y": 100,
-        "w": 25,
-        "h": 25
+        "width": 25,
+        "height": 25
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 25,
+        "height": 25
       }
     },
     {
       "name": "tileSnow5",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 25,
-        "h": 25
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 125,
-        "w": 25,
-        "h": 25
+        "width": 25,
+        "height": 25
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 25,
+        "height": 25
       }
     },
     {
       "name": "tileSnow6",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 25,
-        "h": 25
-      },
-      "source_rectangle": {
         "x": 25,
         "y": 125,
-        "w": 25,
-        "h": 25
+        "width": 25,
+        "height": 25
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 25,
+        "height": 25
       }
     },
     {
       "name": "tree1",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 20,
-        "h": 29
-      },
-      "source_rectangle": {
         "x": 50,
         "y": 125,
-        "w": 20,
-        "h": 29
+        "width": 20,
+        "height": 29
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 20,
+        "height": 29
       }
     },
     {
       "name": "tree2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 15,
-        "h": 25
-      },
-      "source_rectangle": {
         "x": 70,
         "y": 125,
-        "w": 15,
-        "h": 25
+        "width": 15,
+        "height": 25
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 15,
+        "height": 25
       }
     }
   ],

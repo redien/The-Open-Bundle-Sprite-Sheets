@@ -653,17 +653,18 @@ class SpritePacker
         @row_image.push(image)
         
         rectangle = {
-            "x" => 0,
-            "y" => 0,
-            "w" => image.columns,
-            "h" => image.rows
-        }
-        
-        source_rectangle = {
             "x" => @x,
             "y" => @y,
-            "w" => image.columns,
-            "h" => image.rows
+            "width" => image.columns,
+            "height" => image.rows
+        }
+        offset = {
+            "x" => 0,
+            "y" => 0
+        }
+        size = {
+            "width" => image.columns,
+            "height" => image.rows
         }
 
         @column += 1
@@ -680,12 +681,65 @@ class SpritePacker
             @row_image.clear
         end
 
-        return rectangle, source_rectangle
+        return rectangle, offset, size
     end
 
     def write(file)
         @sheet_image.append(true).write(file)
     end
+end
+    
+def output_json(filepath, object)
+    IO.write(filepath + '.json', JSON.pretty_generate(object, :indent => '  '))
+end
+
+def output_texture_packer_json(filepath, object)
+    image = Magick::Image.read(filepath + '.png').first
+
+    new_object = {
+        "frames" => [],
+        "meta" => {
+            "app" => "Adobe Flash CS6",
+            "version" => "12.0.0.481",
+            "image" => object["image_name"],
+            "format" => "RGBA8888",
+            "size" => {
+                "w" => image.columns,
+                "h" => image.rows
+            },
+            "scale" => "1"
+        }
+    }
+    
+    def wasTrimmed(frame)
+        not (frame["offset"]["x"] == 0 and frame["offset"]["y"] == 0 and frame["size"]["width"] == frame["rectangle"]["width"] and frame["size"]["height"] == frame["rectangle"]["height"])
+    end
+    
+    for frame in object["frames"]
+        new_object["frames"] << {
+            "filename" => frame["name"],
+            "frame" => {
+                "x" => frame["rectangle"]["x"],
+                "y" => frame["rectangle"]["y"],
+                "w" => frame["rectangle"]["width"],
+                "h" => frame["rectangle"]["height"]
+            },
+            "rotated" => false,
+            "trimmed" => wasTrimmed(frame),
+            "spriteSourceSize" => {
+                "x" => frame["offset"]["x"],
+                "y" => frame["offset"]["y"],
+                "w" => frame["size"]["width"],
+                "h" => frame["size"]["height"]
+            },
+            "sourceSize" => {
+                "w" => frame["size"]["width"],
+                "h" => frame["size"]["height"]
+            }
+        }
+    end
+
+    IO.write(filepath + '_texture_packer.json', JSON.pretty_generate(new_object, {:indent => '   ', :space => ''}))
 end
 
 for source in sources
@@ -709,8 +763,20 @@ for source in sources
             parsed_frames.keys.sort.each do |key|
                 frame = {
                     "name" => key,
-                    "rectangle" => parsed_frames[key]["frame"],
-                    "source_rectangle" => parsed_frames[key]["spriteSourceSize"]
+                    "rectangle" => {
+                        "x" => parsed_frames[key]["frame"]["x"],
+                        "y" => parsed_frames[key]["frame"]["y"],
+                        "width" => parsed_frames[key]["frame"]["w"],
+                        "height" => parsed_frames[key]["frame"]["h"]
+                    },
+                    "offset" => {
+                        "x" => parsed_frames[key]["spriteSourceSize"]["x"],
+                        "y" => parsed_frames[key]["spriteSourceSize"]["y"]
+                    },
+                    "size" => {
+                        "width" => parsed_frames[key]["spriteSourceSize"]["w"],
+                        "height" => parsed_frames[key]["spriteSourceSize"]["h"]
+                    }
                 }
                 
                 frames << frame
@@ -723,22 +789,22 @@ for source in sources
             key = key_value[0]
             values = key_value[1].split(' ')
             
-            rectangle = {
-                "x" => 0,
-                "y" => 0,
-                "w" => values[2].to_i,
-                "h" => values[3].to_i
-            }
-            source_rectangle = {
-                "x" => values[0].to_i,
-                "y" => values[1].to_i,
-                "w" => values[2].to_i,
-                "h" => values[3].to_i
-            }
             frame = {
                 "name" => key,
-                "rectangle" => rectangle,
-                "source_rectangle" => source_rectangle
+                "rectangle" => {
+                    "x" => values[0].to_i,
+                    "y" => values[1].to_i,
+                    "width" => values[2].to_i,
+                    "height" => values[3].to_i
+                },
+                "offset" => {
+                    "x" => 0,
+                    "y" => 0,
+                },
+                "size" => {
+                    "width" => values[2].to_i,
+                    "height" => values[3].to_i
+                }
             }
 
             frames << frame
@@ -764,29 +830,29 @@ for source in sources
                 image_path += image_type
                 frame_image = Magick::Image.read(image_path).first
 
-                rectangle = {
-                    "x" => 0,
-                    "y" => 0,
-                    "w" => frame_image.columns,
-                    "h" => frame_image.rows
+                frames << {
+                    "name" => section.to_s + "_" + frame.to_s,
+                    "rectangle" => {
+                        "x" => x,
+                        "y" => y,
+                        "width" => frame_image.columns,
+                        "height" => frame_image.rows
+                    },
+                    "offset" => {
+                        "x" => 0,
+                        "y" => 0,
+                    },
+                    "size" => {
+                        "width" => frame_image.columns,
+                        "height" => frame_image.rows
+                    }
                 }
-                source_rectangle = {
-                    "x" => x,
-                    "y" => y,
-                    "w" => frame_image.columns,
-                    "h" => frame_image.rows
-                }
+
                 x += frame_image.columns
                 
                 if y + frame_image.rows > max_y then
                     max_y = y + frame_image.rows
                 end
-
-                frames << {
-                    "name" => section.to_s + "_" + frame.to_s,
-                    "rectangle" => rectangle,
-                    "source_rectangle" => source_rectangle
-                }
                 
                 section_image.push(frame_image)
             end
@@ -801,23 +867,22 @@ for source in sources
             
         for row in 0..(source[:rows] - 1)
             for column in 0..(source[:columns] - 1)
-                rectangle = {
-                    "x" => 0,
-                    "y" => 0,
-                    "w" => tile_width,
-                    "h" => tile_height
-                }
-                source_rectangle = {
-                    "x" => column * tile_width,
-                    "y" => row * tile_height,
-                    "w" => tile_width,
-                    "h" => tile_height
-                }
-
                 frames << {
                     "name" => (row + 1).to_s + "_" + (column + 1).to_s,
-                    "rectangle" => rectangle,
-                    "source_rectangle" => source_rectangle
+                    "rectangle" => {
+                        "x" => column * tile_width,
+                        "y" => row * tile_height,
+                        "width" => tile_width,
+                        "height" => tile_height
+                    },
+                    "offset" => {
+                        "x" => 0,
+                        "y" => 0,
+                    },
+                    "size" => {
+                        "width" => tile_width,
+                        "height" => tile_height
+                    }
                 }
             end
         end
@@ -827,11 +892,12 @@ for source in sources
             files = Dir.glob('*' + image_type)
             
             for file in files
-                rectangle, source_rectangle = packer.add(Magick::Image.read(file).first)
+                rectangle, offset, size = packer.add(Magick::Image.read(file).first)
                 frames << {
                     "name" => file.sub(image_type, ''),
                     "rectangle" => rectangle,
-                    "source_rectangle" => source_rectangle
+                    "offset" => offset,
+                    "size" => size
                 }
             end
         end
@@ -840,9 +906,10 @@ for source in sources
 
     object["image_name"] = source[:name] + image_type
 
-    IO.write('output/' + filepath + '.json', JSON.pretty_generate(object, :indent => '  '))
-
     if source[:type] == :flash_json or source[:type] == :simple or source[:type] == :grid
         FileUtils.cp(filepath + image_type, 'output/' + filepath + image_type)
     end
+
+    output_json('output/' + filepath, object)
+    output_texture_packer_json('output/' + filepath, object)
 end

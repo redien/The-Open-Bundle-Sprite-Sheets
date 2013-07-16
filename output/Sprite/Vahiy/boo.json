@@ -5,44 +5,50 @@
       "rectangle": {
         "x": 0,
         "y": 0,
-        "w": 50,
-        "h": 100
+        "width": 50,
+        "height": 100
       },
-      "source_rectangle": {
+      "offset": {
         "x": 0,
-        "y": 0,
-        "w": 50,
-        "h": 100
+        "y": 0
+      },
+      "size": {
+        "width": 50,
+        "height": 100
       }
     },
     {
       "name": "1_2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 50,
-        "h": 100
-      },
-      "source_rectangle": {
         "x": 50,
         "y": 0,
-        "w": 50,
-        "h": 100
+        "width": 50,
+        "height": 100
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 50,
+        "height": 100
       }
     },
     {
       "name": "1_3",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 50,
-        "h": 100
-      },
-      "source_rectangle": {
         "x": 100,
         "y": 0,
-        "w": 50,
-        "h": 100
+        "width": 50,
+        "height": 100
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 50,
+        "height": 100
       }
     }
   ],

@@ -5,59 +5,67 @@
       "rectangle": {
         "x": 0,
         "y": 0,
-        "w": 75,
-        "h": 150
+        "width": 75,
+        "height": 150
       },
-      "source_rectangle": {
+      "offset": {
         "x": 0,
-        "y": 0,
-        "w": 75,
-        "h": 150
+        "y": 0
+      },
+      "size": {
+        "width": 75,
+        "height": 150
       }
     },
     {
       "name": "1_2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 75,
-        "h": 150
-      },
-      "source_rectangle": {
         "x": 75,
         "y": 0,
-        "w": 75,
-        "h": 150
+        "width": 75,
+        "height": 150
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 75,
+        "height": 150
       }
     },
     {
       "name": "2_1",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 75,
-        "h": 150
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 150,
-        "w": 75,
-        "h": 150
+        "width": 75,
+        "height": 150
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 75,
+        "height": 150
       }
     },
     {
       "name": "2_2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 75,
-        "h": 150
-      },
-      "source_rectangle": {
         "x": 75,
         "y": 150,
-        "w": 75,
-        "h": 150
+        "width": 75,
+        "height": 150
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 75,
+        "height": 150
       }
     }
   ],

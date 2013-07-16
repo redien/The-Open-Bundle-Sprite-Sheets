@@ -3,76 +3,86 @@
     {
       "name": "p2_duck",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 67,
-        "h": 72
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 95,
-        "w": 67,
-        "h": 72
+        "width": 67,
+        "height": 72
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 67,
+        "height": 72
       }
     },
     {
       "name": "p2_front",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 66,
-        "h": 92
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 190,
-        "w": 66,
-        "h": 92
+        "width": 66,
+        "height": 92
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 66,
+        "height": 92
       }
     },
     {
       "name": "p2_hurt",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 67,
-        "h": 92
-      },
-      "source_rectangle": {
         "x": 426,
         "y": 0,
-        "w": 67,
-        "h": 92
+        "width": 67,
+        "height": 92
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 67,
+        "height": 92
       }
     },
     {
       "name": "p2_jump",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 66,
-        "h": 94
-      },
-      "source_rectangle": {
         "x": 423,
         "y": 95,
-        "w": 66,
-        "h": 94
+        "width": 66,
+        "height": 94
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 66,
+        "height": 94
       }
     },
     {
       "name": "p2_stand",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 66,
-        "h": 92
-      },
-      "source_rectangle": {
         "x": 67,
         "y": 190,
-        "w": 66,
-        "h": 92
+        "width": 66,
+        "height": 92
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 66,
+        "height": 92
       }
     },
     {
@@ -80,164 +90,186 @@
       "rectangle": {
         "x": 0,
         "y": 0,
-        "w": 70,
-        "h": 94
+        "width": 70,
+        "height": 94
       },
-      "source_rectangle": {
+      "offset": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 94
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 94
       }
     },
     {
       "name": "p2_walk02",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 94
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 0,
-        "w": 70,
-        "h": 94
+        "width": 70,
+        "height": 94
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 94
       }
     },
     {
       "name": "p2_walk03",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 94
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 0,
-        "w": 70,
-        "h": 94
+        "width": 70,
+        "height": 94
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 94
       }
     },
     {
       "name": "p2_walk04",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 94
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 95,
-        "w": 70,
-        "h": 94
+        "width": 70,
+        "height": 94
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 94
       }
     },
     {
       "name": "p2_walk05",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 94
-      },
-      "source_rectangle": {
         "x": 71,
         "y": 95,
-        "w": 70,
-        "h": 94
+        "width": 70,
+        "height": 94
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 94
       }
     },
     {
       "name": "p2_walk06",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 94
-      },
-      "source_rectangle": {
         "x": 142,
         "y": 95,
-        "w": 70,
-        "h": 94
+        "width": 70,
+        "height": 94
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 94
       }
     },
     {
       "name": "p2_walk07",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 94
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 0,
-        "w": 70,
-        "h": 94
+        "width": 70,
+        "height": 94
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 94
       }
     },
     {
       "name": "p2_walk08",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 94
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 0,
-        "w": 70,
-        "h": 94
+        "width": 70,
+        "height": 94
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 94
       }
     },
     {
       "name": "p2_walk09",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 94
-      },
-      "source_rectangle": {
         "x": 213,
         "y": 95,
-        "w": 70,
-        "h": 94
+        "width": 70,
+        "height": 94
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 94
       }
     },
     {
       "name": "p2_walk10",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 94
-      },
-      "source_rectangle": {
         "x": 355,
         "y": 0,
-        "w": 70,
-        "h": 94
+        "width": 70,
+        "height": 94
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 94
       }
     },
     {
       "name": "p2_walk11",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 70,
-        "h": 94
-      },
-      "source_rectangle": {
         "x": 284,
         "y": 95,
-        "w": 70,
-        "h": 94
+        "width": 70,
+        "height": 94
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 70,
+        "height": 94
       }
     }
   ],

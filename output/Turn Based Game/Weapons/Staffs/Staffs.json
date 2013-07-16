@@ -5,14 +5,16 @@
       "rectangle": {
         "x": 10,
         "y": 10,
-        "w": 124,
-        "h": 69
+        "width": 124,
+        "height": 69
       },
-      "source_rectangle": {
+      "offset": {
         "x": 3,
-        "y": 14,
-        "w": 144,
-        "h": 83
+        "y": 14
+      },
+      "size": {
+        "width": 144,
+        "height": 83
       }
     },
     {
@@ -20,14 +22,16 @@
       "rectangle": {
         "x": 10,
         "y": 89,
-        "w": 124,
-        "h": 75
+        "width": 124,
+        "height": 75
       },
-      "source_rectangle": {
+      "offset": {
         "x": 2,
-        "y": 5,
-        "w": 144,
-        "h": 83
+        "y": 5
+      },
+      "size": {
+        "width": 144,
+        "height": 83
       }
     },
     {
@@ -35,14 +39,16 @@
       "rectangle": {
         "x": 10,
         "y": 174,
-        "w": 144,
-        "h": 81
+        "width": 144,
+        "height": 81
       },
-      "source_rectangle": {
+      "offset": {
         "x": 0,
-        "y": 0,
-        "w": 144,
-        "h": 83
+        "y": 0
+      },
+      "size": {
+        "width": 144,
+        "height": 83
       }
     },
     {
@@ -50,14 +56,16 @@
       "rectangle": {
         "x": 10,
         "y": 265,
-        "w": 115,
-        "h": 69
+        "width": 115,
+        "height": 69
       },
-      "source_rectangle": {
+      "offset": {
         "x": 2,
-        "y": 11,
-        "w": 144,
-        "h": 83
+        "y": 11
+      },
+      "size": {
+        "width": 144,
+        "height": 83
       }
     }
   ],

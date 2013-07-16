@@ -1,0 +1,36 @@
+{
+   "frames":[
+      {
+         "filename":"1_1",
+         "frame":{
+            "x":0,
+            "y":0,
+            "w":40,
+            "h":5
+         },
+         "rotated":false,
+         "trimmed":false,
+         "spriteSourceSize":{
+            "x":0,
+            "y":0,
+            "w":40,
+            "h":5
+         },
+         "sourceSize":{
+            "w":40,
+            "h":5
+         }
+      }
+   ],
+   "meta":{
+      "app":"Adobe Flash CS6",
+      "version":"12.0.0.481",
+      "image":"laserBeam.png",
+      "format":"RGBA8888",
+      "size":{
+         "w":40,
+         "h":5
+      },
+      "scale":"1"
+   }
+}

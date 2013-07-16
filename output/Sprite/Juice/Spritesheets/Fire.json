@@ -5,14 +5,16 @@
       "rectangle": {
         "x": 10,
         "y": 10,
-        "w": 81,
-        "h": 131
+        "width": 81,
+        "height": 131
       },
-      "source_rectangle": {
+      "offset": {
         "x": 6,
-        "y": 35,
-        "w": 93,
-        "h": 168
+        "y": 35
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -20,14 +22,16 @@
       "rectangle": {
         "x": 10,
         "y": 10,
-        "w": 81,
-        "h": 131
+        "width": 81,
+        "height": 131
       },
-      "source_rectangle": {
+      "offset": {
         "x": 6,
-        "y": 35,
-        "w": 93,
-        "h": 168
+        "y": 35
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -35,14 +39,16 @@
       "rectangle": {
         "x": 101,
         "y": 10,
-        "w": 86,
-        "h": 152
+        "width": 86,
+        "height": 152
       },
-      "source_rectangle": {
+      "offset": {
         "x": 4,
-        "y": 16,
-        "w": 93,
-        "h": 168
+        "y": 16
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -50,14 +56,16 @@
       "rectangle": {
         "x": 101,
         "y": 10,
-        "w": 86,
-        "h": 152
+        "width": 86,
+        "height": 152
       },
-      "source_rectangle": {
+      "offset": {
         "x": 4,
-        "y": 16,
-        "w": 93,
-        "h": 168
+        "y": 16
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -65,14 +73,16 @@
       "rectangle": {
         "x": 197,
         "y": 10,
-        "w": 81,
-        "h": 160
+        "width": 81,
+        "height": 160
       },
-      "source_rectangle": {
+      "offset": {
         "x": 10,
-        "y": 6,
-        "w": 93,
-        "h": 168
+        "y": 6
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -80,14 +90,16 @@
       "rectangle": {
         "x": 197,
         "y": 10,
-        "w": 81,
-        "h": 160
+        "width": 81,
+        "height": 160
       },
-      "source_rectangle": {
+      "offset": {
         "x": 10,
-        "y": 6,
-        "w": 93,
-        "h": 168
+        "y": 6
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -95,14 +107,16 @@
       "rectangle": {
         "x": 288,
         "y": 10,
-        "w": 88,
-        "h": 166
+        "width": 88,
+        "height": 166
       },
-      "source_rectangle": {
+      "offset": {
         "x": 5,
-        "y": 1,
-        "w": 93,
-        "h": 168
+        "y": 1
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -110,14 +124,16 @@
       "rectangle": {
         "x": 288,
         "y": 10,
-        "w": 88,
-        "h": 166
+        "width": 88,
+        "height": 166
       },
-      "source_rectangle": {
+      "offset": {
         "x": 5,
-        "y": 1,
-        "w": 93,
-        "h": 168
+        "y": 1
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -125,14 +141,16 @@
       "rectangle": {
         "x": 386,
         "y": 10,
-        "w": 92,
-        "h": 167
+        "width": 92,
+        "height": 167
       },
-      "source_rectangle": {
+      "offset": {
         "x": 0,
-        "y": 0,
-        "w": 93,
-        "h": 168
+        "y": 0
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -140,14 +158,16 @@
       "rectangle": {
         "x": 386,
         "y": 10,
-        "w": 92,
-        "h": 167
+        "width": 92,
+        "height": 167
       },
-      "source_rectangle": {
+      "offset": {
         "x": 0,
-        "y": 0,
-        "w": 93,
-        "h": 168
+        "y": 0
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -155,14 +175,16 @@
       "rectangle": {
         "x": 10,
         "y": 187,
-        "w": 91,
-        "h": 166
+        "width": 91,
+        "height": 166
       },
-      "source_rectangle": {
+      "offset": {
         "x": 1,
-        "y": 2,
-        "w": 93,
-        "h": 168
+        "y": 2
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -170,14 +192,16 @@
       "rectangle": {
         "x": 10,
         "y": 187,
-        "w": 91,
-        "h": 166
+        "width": 91,
+        "height": 166
       },
-      "source_rectangle": {
+      "offset": {
         "x": 1,
-        "y": 2,
-        "w": 93,
-        "h": 168
+        "y": 2
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -185,14 +209,16 @@
       "rectangle": {
         "x": 111,
         "y": 187,
-        "w": 88,
-        "h": 133
+        "width": 88,
+        "height": 133
       },
-      "source_rectangle": {
+      "offset": {
         "x": 4,
-        "y": 34,
-        "w": 93,
-        "h": 168
+        "y": 34
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -200,14 +226,16 @@
       "rectangle": {
         "x": 111,
         "y": 187,
-        "w": 88,
-        "h": 133
+        "width": 88,
+        "height": 133
       },
-      "source_rectangle": {
+      "offset": {
         "x": 4,
-        "y": 34,
-        "w": 93,
-        "h": 168
+        "y": 34
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -215,14 +243,16 @@
       "rectangle": {
         "x": 209,
         "y": 187,
-        "w": 85,
-        "h": 131
+        "width": 85,
+        "height": 131
       },
-      "source_rectangle": {
+      "offset": {
         "x": 7,
-        "y": 35,
-        "w": 93,
-        "h": 168
+        "y": 35
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     },
     {
@@ -230,14 +260,16 @@
       "rectangle": {
         "x": 209,
         "y": 187,
-        "w": 85,
-        "h": 131
+        "width": 85,
+        "height": 131
       },
-      "source_rectangle": {
+      "offset": {
         "x": 7,
-        "y": 35,
-        "w": 93,
-        "h": 168
+        "y": 35
+      },
+      "size": {
+        "width": 93,
+        "height": 168
       }
     }
   ],

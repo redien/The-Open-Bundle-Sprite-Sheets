@@ -3,121 +3,137 @@
     {
       "name": "blockerBody",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 51,
-        "h": 51
-      },
-      "source_rectangle": {
         "x": 203,
         "y": 0,
-        "w": 51,
-        "h": 51
+        "width": 51,
+        "height": 51
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 51,
+        "height": 51
       }
     },
     {
       "name": "blockerMad",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 51,
-        "h": 51
-      },
-      "source_rectangle": {
         "x": 136,
         "y": 66,
-        "w": 51,
-        "h": 51
+        "width": 51,
+        "height": 51
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 51,
+        "height": 51
       }
     },
     {
       "name": "blockerSad",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 51,
-        "h": 51
-      },
-      "source_rectangle": {
         "x": 188,
         "y": 66,
-        "w": 51,
-        "h": 51
+        "width": 51,
+        "height": 51
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 51,
+        "height": 51
       }
     },
     {
       "name": "fishDead",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 66,
-        "h": 42
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 69,
-        "w": 66,
-        "h": 42
+        "width": 66,
+        "height": 42
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 66,
+        "height": 42
       }
     },
     {
       "name": "fishSwim1",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 66,
-        "h": 42
-      },
-      "source_rectangle": {
         "x": 76,
         "y": 0,
-        "w": 66,
-        "h": 42
+        "width": 66,
+        "height": 42
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 66,
+        "height": 42
       }
     },
     {
       "name": "fishSwim2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 62,
-        "h": 43
-      },
-      "source_rectangle": {
         "x": 73,
         "y": 43,
-        "w": 62,
-        "h": 43
+        "width": 62,
+        "height": 43
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 62,
+        "height": 43
       }
     },
     {
       "name": "flyDead",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 59,
-        "h": 33
-      },
-      "source_rectangle": {
         "x": 143,
         "y": 0,
-        "w": 59,
-        "h": 33
+        "width": 59,
+        "height": 33
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 59,
+        "height": 33
       }
     },
     {
       "name": "flyFly1",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 72,
-        "h": 36
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 32,
-        "w": 72,
-        "h": 36
+        "width": 72,
+        "height": 36
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 72,
+        "height": 36
       }
     },
     {
@@ -125,149 +141,169 @@
       "rectangle": {
         "x": 0,
         "y": 0,
-        "w": 75,
-        "h": 31
+        "width": 75,
+        "height": 31
       },
-      "source_rectangle": {
+      "offset": {
         "x": 0,
-        "y": 0,
-        "w": 75,
-        "h": 31
+        "y": 0
+      },
+      "size": {
+        "width": 75,
+        "height": 31
       }
     },
     {
       "name": "pokerMad",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 146
-      },
-      "source_rectangle": {
         "x": 255,
         "y": 0,
-        "w": 48,
-        "h": 146
+        "width": 48,
+        "height": 146
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 48,
+        "height": 146
       }
     },
     {
       "name": "pokerSad",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 48,
-        "h": 146
-      },
-      "source_rectangle": {
         "x": 304,
         "y": 0,
-        "w": 48,
-        "h": 146
+        "width": 48,
+        "height": 146
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 48,
+        "height": 146
       }
     },
     {
       "name": "slimeDead",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 59,
-        "h": 12
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 112,
-        "w": 59,
-        "h": 12
+        "width": 59,
+        "height": 12
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 59,
+        "height": 12
       }
     },
     {
       "name": "slimeWalk1",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 50,
-        "h": 28
-      },
-      "source_rectangle": {
         "x": 52,
         "y": 125,
-        "w": 50,
-        "h": 28
+        "width": 50,
+        "height": 28
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 50,
+        "height": 28
       }
     },
     {
       "name": "slimeWalk2",
       "rectangle": {
         "x": 0,
-        "y": 0,
-        "w": 51,
-        "h": 26
-      },
-      "source_rectangle": {
-        "x": 0,
         "y": 125,
-        "w": 51,
-        "h": 26
+        "width": 51,
+        "height": 26
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 51,
+        "height": 26
       }
     },
     {
       "name": "snailShell",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 44,
-        "h": 30
-      },
-      "source_rectangle": {
         "x": 103,
         "y": 119,
-        "w": 44,
-        "h": 30
+        "width": 44,
+        "height": 30
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 44,
+        "height": 30
       }
     },
     {
       "name": "snailShell_upsidedown",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 44,
-        "h": 30
-      },
-      "source_rectangle": {
         "x": 148,
         "y": 118,
-        "w": 44,
-        "h": 30
+        "width": 44,
+        "height": 30
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 44,
+        "height": 30
       }
     },
     {
       "name": "snailWalk1",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 54,
-        "h": 31
-      },
-      "source_rectangle": {
         "x": 143,
         "y": 34,
-        "w": 54,
-        "h": 31
+        "width": 54,
+        "height": 31
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 54,
+        "height": 31
       }
     },
     {
       "name": "snailWalk2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 57,
-        "h": 31
-      },
-      "source_rectangle": {
         "x": 67,
         "y": 87,
-        "w": 57,
-        "h": 31
+        "width": 57,
+        "height": 31
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 57,
+        "height": 31
       }
     }
   ],

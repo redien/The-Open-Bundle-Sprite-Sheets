@@ -5,89 +5,101 @@
       "rectangle": {
         "x": 0,
         "y": 0,
-        "w": 30,
-        "h": 30
+        "width": 30,
+        "height": 30
       },
-      "source_rectangle": {
+      "offset": {
         "x": 0,
-        "y": 0,
-        "w": 30,
-        "h": 30
+        "y": 0
+      },
+      "size": {
+        "width": 30,
+        "height": 30
       }
     },
     {
       "name": "1_2",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 30,
-        "h": 30
-      },
-      "source_rectangle": {
         "x": 30,
         "y": 0,
-        "w": 30,
-        "h": 30
+        "width": 30,
+        "height": 30
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 30,
+        "height": 30
       }
     },
     {
       "name": "1_3",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 30,
-        "h": 30
-      },
-      "source_rectangle": {
         "x": 60,
         "y": 0,
-        "w": 30,
-        "h": 30
+        "width": 30,
+        "height": 30
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 30,
+        "height": 30
       }
     },
     {
       "name": "1_4",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 30,
-        "h": 30
-      },
-      "source_rectangle": {
         "x": 90,
         "y": 0,
-        "w": 30,
-        "h": 30
+        "width": 30,
+        "height": 30
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 30,
+        "height": 30
       }
     },
     {
       "name": "1_5",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 30,
-        "h": 30
-      },
-      "source_rectangle": {
         "x": 120,
         "y": 0,
-        "w": 30,
-        "h": 30
+        "width": 30,
+        "height": 30
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 30,
+        "height": 30
       }
     },
     {
       "name": "1_6",
       "rectangle": {
-        "x": 0,
-        "y": 0,
-        "w": 30,
-        "h": 30
-      },
-      "source_rectangle": {
         "x": 150,
         "y": 0,
-        "w": 30,
-        "h": 30
+        "width": 30,
+        "height": 30
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 30,
+        "height": 30
       }
     }
   ],
