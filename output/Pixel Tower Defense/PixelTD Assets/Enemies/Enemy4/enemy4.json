@@ -1,0 +1,89 @@
+{
+  "frames": {
+    "1_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 17
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 17
+      }
+    },
+    "1_2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 17
+      },
+      "source_rectangle": {
+        "x": 18,
+        "y": 0,
+        "w": 18,
+        "h": 17
+      }
+    },
+    "1_3": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 17
+      },
+      "source_rectangle": {
+        "x": 36,
+        "y": 0,
+        "w": 18,
+        "h": 17
+      }
+    },
+    "1_4": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 17
+      },
+      "source_rectangle": {
+        "x": 54,
+        "y": 0,
+        "w": 18,
+        "h": 17
+      }
+    },
+    "1_5": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 17
+      },
+      "source_rectangle": {
+        "x": 72,
+        "y": 0,
+        "w": 18,
+        "h": 17
+      }
+    },
+    "1_6": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 17
+      },
+      "source_rectangle": {
+        "x": 90,
+        "y": 0,
+        "w": 18,
+        "h": 17
+      }
+    }
+  },
+  "image_name": "enemy4.png"
+}

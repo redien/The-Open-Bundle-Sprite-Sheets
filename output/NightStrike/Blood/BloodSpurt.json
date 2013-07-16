@@ -1,0 +1,285 @@
+{
+  "frames": {
+    "bloodA0000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 152,
+        "h": 101
+      },
+      "source_rectangle": {
+        "x": 6,
+        "y": 180,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0001": {
+      "rectangle": {
+        "x": 172,
+        "y": 10,
+        "w": 147,
+        "h": 136
+      },
+      "source_rectangle": {
+        "x": 7,
+        "y": 176,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0002": {
+      "rectangle": {
+        "x": 329,
+        "y": 10,
+        "w": 218,
+        "h": 199
+      },
+      "source_rectangle": {
+        "x": 6,
+        "y": 152,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0003": {
+      "rectangle": {
+        "x": 557,
+        "y": 10,
+        "w": 283,
+        "h": 259
+      },
+      "source_rectangle": {
+        "x": 14,
+        "y": 114,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0004": {
+      "rectangle": {
+        "x": 850,
+        "y": 10,
+        "w": 333,
+        "h": 316
+      },
+      "source_rectangle": {
+        "x": 27,
+        "y": 91,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0005": {
+      "rectangle": {
+        "x": 1193,
+        "y": 10,
+        "w": 397,
+        "h": 366
+      },
+      "source_rectangle": {
+        "x": 27,
+        "y": 63,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0006": {
+      "rectangle": {
+        "x": 10,
+        "y": 386,
+        "w": 457,
+        "h": 412
+      },
+      "source_rectangle": {
+        "x": 37,
+        "y": 40,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0007": {
+      "rectangle": {
+        "x": 10,
+        "y": 386,
+        "w": 457,
+        "h": 412
+      },
+      "source_rectangle": {
+        "x": 37,
+        "y": 40,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0008": {
+      "rectangle": {
+        "x": 477,
+        "y": 386,
+        "w": 502,
+        "h": 478
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 3,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0009": {
+      "rectangle": {
+        "x": 477,
+        "y": 386,
+        "w": 502,
+        "h": 478
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 3,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0010": {
+      "rectangle": {
+        "x": 989,
+        "y": 386,
+        "w": 550,
+        "h": 498
+      },
+      "source_rectangle": {
+        "x": 31,
+        "y": 0,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0011": {
+      "rectangle": {
+        "x": 989,
+        "y": 386,
+        "w": 550,
+        "h": 498
+      },
+      "source_rectangle": {
+        "x": 31,
+        "y": 0,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0012": {
+      "rectangle": {
+        "x": 1549,
+        "y": 386,
+        "w": 312,
+        "h": 372
+      },
+      "source_rectangle": {
+        "x": 22,
+        "y": 55,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0013": {
+      "rectangle": {
+        "x": 1549,
+        "y": 386,
+        "w": 312,
+        "h": 372
+      },
+      "source_rectangle": {
+        "x": 22,
+        "y": 55,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0014": {
+      "rectangle": {
+        "x": 10,
+        "y": 894,
+        "w": 450,
+        "h": 472
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 5,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0015": {
+      "rectangle": {
+        "x": 10,
+        "y": 894,
+        "w": 450,
+        "h": 472
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 5,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0016": {
+      "rectangle": {
+        "x": 10,
+        "y": 894,
+        "w": 450,
+        "h": 472
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 5,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0017": {
+      "rectangle": {
+        "x": 470,
+        "y": 894,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 28,
+        "y": 236,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0018": {
+      "rectangle": {
+        "x": 470,
+        "y": 894,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 28,
+        "y": 236,
+        "w": 581,
+        "h": 498
+      }
+    },
+    "bloodA0019": {
+      "rectangle": {
+        "x": 470,
+        "y": 894,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 28,
+        "y": 236,
+        "w": 581,
+        "h": 498
+      }
+    }
+  },
+  "image_name": "BloodSpurt.png"
+}

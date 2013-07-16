@@ -1,0 +1,7005 @@
+{
+  "frames": {
+    "BeauBattle0000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0001": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0002": {
+      "rectangle": {
+        "x": 178,
+        "y": 10,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0003": {
+      "rectangle": {
+        "x": 178,
+        "y": 10,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0004": {
+      "rectangle": {
+        "x": 345,
+        "y": 10,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0005": {
+      "rectangle": {
+        "x": 345,
+        "y": 10,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0006": {
+      "rectangle": {
+        "x": 513,
+        "y": 10,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0007": {
+      "rectangle": {
+        "x": 513,
+        "y": 10,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0008": {
+      "rectangle": {
+        "x": 680,
+        "y": 10,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0009": {
+      "rectangle": {
+        "x": 680,
+        "y": 10,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0010": {
+      "rectangle": {
+        "x": 847,
+        "y": 10,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0011": {
+      "rectangle": {
+        "x": 847,
+        "y": 10,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0012": {
+      "rectangle": {
+        "x": 1014,
+        "y": 10,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0013": {
+      "rectangle": {
+        "x": 1014,
+        "y": 10,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0014": {
+      "rectangle": {
+        "x": 1182,
+        "y": 10,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0015": {
+      "rectangle": {
+        "x": 1350,
+        "y": 10,
+        "w": 149,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0016": {
+      "rectangle": {
+        "x": 1509,
+        "y": 10,
+        "w": 142,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0017": {
+      "rectangle": {
+        "x": 1661,
+        "y": 10,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0018": {
+      "rectangle": {
+        "x": 1796,
+        "y": 10,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0019": {
+      "rectangle": {
+        "x": 1931,
+        "y": 10,
+        "w": 126,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 425,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0020": {
+      "rectangle": {
+        "x": 2067,
+        "y": 10,
+        "w": 136,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0021": {
+      "rectangle": {
+        "x": 2213,
+        "y": 10,
+        "w": 138,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0022": {
+      "rectangle": {
+        "x": 2361,
+        "y": 10,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0023": {
+      "rectangle": {
+        "x": 2514,
+        "y": 10,
+        "w": 148,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0024": {
+      "rectangle": {
+        "x": 2672,
+        "y": 10,
+        "w": 145,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0025": {
+      "rectangle": {
+        "x": 2827,
+        "y": 10,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0026": {
+      "rectangle": {
+        "x": 2962,
+        "y": 10,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0027": {
+      "rectangle": {
+        "x": 3097,
+        "y": 10,
+        "w": 148,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0028": {
+      "rectangle": {
+        "x": 3255,
+        "y": 10,
+        "w": 154,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0029": {
+      "rectangle": {
+        "x": 3419,
+        "y": 10,
+        "w": 154,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0030": {
+      "rectangle": {
+        "x": 3583,
+        "y": 10,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0031": {
+      "rectangle": {
+        "x": 3750,
+        "y": 10,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0032": {
+      "rectangle": {
+        "x": 3918,
+        "y": 10,
+        "w": 149,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0033": {
+      "rectangle": {
+        "x": 4077,
+        "y": 10,
+        "w": 142,
+        "h": 206
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0034": {
+      "rectangle": {
+        "x": 4229,
+        "y": 10,
+        "w": 128,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 43,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0035": {
+      "rectangle": {
+        "x": 4367,
+        "y": 10,
+        "w": 125,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0036": {
+      "rectangle": {
+        "x": 4502,
+        "y": 10,
+        "w": 126,
+        "h": 209
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 425,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0037": {
+      "rectangle": {
+        "x": 4638,
+        "y": 10,
+        "w": 136,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0038": {
+      "rectangle": {
+        "x": 4784,
+        "y": 10,
+        "w": 138,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0039": {
+      "rectangle": {
+        "x": 4932,
+        "y": 10,
+        "w": 143,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0040": {
+      "rectangle": {
+        "x": 5085,
+        "y": 10,
+        "w": 149,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 44,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0041": {
+      "rectangle": {
+        "x": 5244,
+        "y": 10,
+        "w": 147,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 44,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0042": {
+      "rectangle": {
+        "x": 5401,
+        "y": 10,
+        "w": 127,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 44,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0043": {
+      "rectangle": {
+        "x": 5538,
+        "y": 10,
+        "w": 127,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 44,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0044": {
+      "rectangle": {
+        "x": 5675,
+        "y": 10,
+        "w": 148,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0045": {
+      "rectangle": {
+        "x": 5833,
+        "y": 10,
+        "w": 154,
+        "h": 206
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0046": {
+      "rectangle": {
+        "x": 5997,
+        "y": 10,
+        "w": 157,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 43,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0047": {
+      "rectangle": {
+        "x": 6164,
+        "y": 10,
+        "w": 157,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0048": {
+      "rectangle": {
+        "x": 6331,
+        "y": 10,
+        "w": 157,
+        "h": 206
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0049": {
+      "rectangle": {
+        "x": 6498,
+        "y": 10,
+        "w": 157,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0050": {
+      "rectangle": {
+        "x": 6665,
+        "y": 10,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0051": {
+      "rectangle": {
+        "x": 1182,
+        "y": 10,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0052": {
+      "rectangle": {
+        "x": 1350,
+        "y": 10,
+        "w": 149,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0053": {
+      "rectangle": {
+        "x": 1509,
+        "y": 10,
+        "w": 142,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0054": {
+      "rectangle": {
+        "x": 1661,
+        "y": 10,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0055": {
+      "rectangle": {
+        "x": 1796,
+        "y": 10,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0056": {
+      "rectangle": {
+        "x": 1931,
+        "y": 10,
+        "w": 126,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 425,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0057": {
+      "rectangle": {
+        "x": 2067,
+        "y": 10,
+        "w": 136,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0058": {
+      "rectangle": {
+        "x": 2213,
+        "y": 10,
+        "w": 138,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0059": {
+      "rectangle": {
+        "x": 2361,
+        "y": 10,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0060": {
+      "rectangle": {
+        "x": 6832,
+        "y": 10,
+        "w": 147,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0061": {
+      "rectangle": {
+        "x": 6989,
+        "y": 10,
+        "w": 148,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0062": {
+      "rectangle": {
+        "x": 7147,
+        "y": 10,
+        "w": 151,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0063": {
+      "rectangle": {
+        "x": 7308,
+        "y": 10,
+        "w": 156,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0064": {
+      "rectangle": {
+        "x": 7474,
+        "y": 10,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0065": {
+      "rectangle": {
+        "x": 7641,
+        "y": 10,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0066": {
+      "rectangle": {
+        "x": 7809,
+        "y": 10,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0067": {
+      "rectangle": {
+        "x": 7976,
+        "y": 10,
+        "w": 156,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0068": {
+      "rectangle": {
+        "x": 10,
+        "y": 229,
+        "w": 176,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0069": {
+      "rectangle": {
+        "x": 196,
+        "y": 229,
+        "w": 193,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0070": {
+      "rectangle": {
+        "x": 399,
+        "y": 229,
+        "w": 194,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0071": {
+      "rectangle": {
+        "x": 603,
+        "y": 229,
+        "w": 198,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0072": {
+      "rectangle": {
+        "x": 811,
+        "y": 229,
+        "w": 200,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0073": {
+      "rectangle": {
+        "x": 1021,
+        "y": 229,
+        "w": 199,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0074": {
+      "rectangle": {
+        "x": 1230,
+        "y": 229,
+        "w": 195,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0075": {
+      "rectangle": {
+        "x": 1435,
+        "y": 229,
+        "w": 199,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0076": {
+      "rectangle": {
+        "x": 1644,
+        "y": 229,
+        "w": 199,
+        "h": 206
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0077": {
+      "rectangle": {
+        "x": 1853,
+        "y": 229,
+        "w": 199,
+        "h": 208
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0078": {
+      "rectangle": {
+        "x": 2062,
+        "y": 229,
+        "w": 199,
+        "h": 216
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0079": {
+      "rectangle": {
+        "x": 2271,
+        "y": 229,
+        "w": 198,
+        "h": 216
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0080": {
+      "rectangle": {
+        "x": 2479,
+        "y": 229,
+        "w": 200,
+        "h": 216
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0081": {
+      "rectangle": {
+        "x": 2479,
+        "y": 229,
+        "w": 200,
+        "h": 216
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0082": {
+      "rectangle": {
+        "x": 2689,
+        "y": 229,
+        "w": 203,
+        "h": 213
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0083": {
+      "rectangle": {
+        "x": 2689,
+        "y": 229,
+        "w": 203,
+        "h": 213
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0084": {
+      "rectangle": {
+        "x": 2902,
+        "y": 229,
+        "w": 205,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0085": {
+      "rectangle": {
+        "x": 2902,
+        "y": 229,
+        "w": 205,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0086": {
+      "rectangle": {
+        "x": 3117,
+        "y": 229,
+        "w": 204,
+        "h": 206
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0087": {
+      "rectangle": {
+        "x": 3117,
+        "y": 229,
+        "w": 204,
+        "h": 206
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0088": {
+      "rectangle": {
+        "x": 3331,
+        "y": 229,
+        "w": 204,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0089": {
+      "rectangle": {
+        "x": 3331,
+        "y": 229,
+        "w": 204,
+        "h": 205
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0090": {
+      "rectangle": {
+        "x": 3545,
+        "y": 229,
+        "w": 201,
+        "h": 204
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0091": {
+      "rectangle": {
+        "x": 3545,
+        "y": 229,
+        "w": 201,
+        "h": 204
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0092": {
+      "rectangle": {
+        "x": 3756,
+        "y": 229,
+        "w": 200,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0093": {
+      "rectangle": {
+        "x": 3756,
+        "y": 229,
+        "w": 200,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0094": {
+      "rectangle": {
+        "x": 3966,
+        "y": 229,
+        "w": 201,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0095": {
+      "rectangle": {
+        "x": 3966,
+        "y": 229,
+        "w": 201,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0096": {
+      "rectangle": {
+        "x": 4177,
+        "y": 229,
+        "w": 200,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0097": {
+      "rectangle": {
+        "x": 4387,
+        "y": 229,
+        "w": 201,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0098": {
+      "rectangle": {
+        "x": 4387,
+        "y": 229,
+        "w": 201,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0099": {
+      "rectangle": {
+        "x": 4598,
+        "y": 229,
+        "w": 187,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0100": {
+      "rectangle": {
+        "x": 4598,
+        "y": 229,
+        "w": 187,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0101": {
+      "rectangle": {
+        "x": 4795,
+        "y": 229,
+        "w": 158,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0102": {
+      "rectangle": {
+        "x": 4795,
+        "y": 229,
+        "w": 158,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0103": {
+      "rectangle": {
+        "x": 4963,
+        "y": 229,
+        "w": 169,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0104": {
+      "rectangle": {
+        "x": 4963,
+        "y": 229,
+        "w": 169,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0105": {
+      "rectangle": {
+        "x": 5142,
+        "y": 229,
+        "w": 197,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0106": {
+      "rectangle": {
+        "x": 5142,
+        "y": 229,
+        "w": 197,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0107": {
+      "rectangle": {
+        "x": 5349,
+        "y": 229,
+        "w": 187,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0108": {
+      "rectangle": {
+        "x": 5349,
+        "y": 229,
+        "w": 187,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0109": {
+      "rectangle": {
+        "x": 5546,
+        "y": 229,
+        "w": 168,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0110": {
+      "rectangle": {
+        "x": 5546,
+        "y": 229,
+        "w": 168,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0111": {
+      "rectangle": {
+        "x": 5724,
+        "y": 229,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0112": {
+      "rectangle": {
+        "x": 5892,
+        "y": 229,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0113": {
+      "rectangle": {
+        "x": 6060,
+        "y": 229,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0114": {
+      "rectangle": {
+        "x": 6227,
+        "y": 229,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0115": {
+      "rectangle": {
+        "x": 6394,
+        "y": 229,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0116": {
+      "rectangle": {
+        "x": 6562,
+        "y": 229,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0117": {
+      "rectangle": {
+        "x": 6730,
+        "y": 229,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0118": {
+      "rectangle": {
+        "x": 6897,
+        "y": 229,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0119": {
+      "rectangle": {
+        "x": 7064,
+        "y": 229,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0120": {
+      "rectangle": {
+        "x": 7231,
+        "y": 229,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0121": {
+      "rectangle": {
+        "x": 7398,
+        "y": 229,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0122": {
+      "rectangle": {
+        "x": 7565,
+        "y": 229,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0123": {
+      "rectangle": {
+        "x": 7732,
+        "y": 229,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0124": {
+      "rectangle": {
+        "x": 7900,
+        "y": 229,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0125": {
+      "rectangle": {
+        "x": 10,
+        "y": 455,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0126": {
+      "rectangle": {
+        "x": 178,
+        "y": 455,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0127": {
+      "rectangle": {
+        "x": 346,
+        "y": 455,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0128": {
+      "rectangle": {
+        "x": 514,
+        "y": 455,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0129": {
+      "rectangle": {
+        "x": 681,
+        "y": 455,
+        "w": 155,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0130": {
+      "rectangle": {
+        "x": 846,
+        "y": 455,
+        "w": 152,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0131": {
+      "rectangle": {
+        "x": 1008,
+        "y": 455,
+        "w": 148,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0132": {
+      "rectangle": {
+        "x": 1166,
+        "y": 455,
+        "w": 145,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0133": {
+      "rectangle": {
+        "x": 1321,
+        "y": 455,
+        "w": 142,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0134": {
+      "rectangle": {
+        "x": 1473,
+        "y": 455,
+        "w": 139,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0135": {
+      "rectangle": {
+        "x": 1622,
+        "y": 455,
+        "w": 137,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0136": {
+      "rectangle": {
+        "x": 1769,
+        "y": 455,
+        "w": 136,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0137": {
+      "rectangle": {
+        "x": 1915,
+        "y": 455,
+        "w": 136,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0138": {
+      "rectangle": {
+        "x": 2061,
+        "y": 455,
+        "w": 136,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0139": {
+      "rectangle": {
+        "x": 2207,
+        "y": 455,
+        "w": 140,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0140": {
+      "rectangle": {
+        "x": 2357,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0141": {
+      "rectangle": {
+        "x": 2510,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0142": {
+      "rectangle": {
+        "x": 2663,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0143": {
+      "rectangle": {
+        "x": 2816,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0144": {
+      "rectangle": {
+        "x": 2816,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0145": {
+      "rectangle": {
+        "x": 2816,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0146": {
+      "rectangle": {
+        "x": 2969,
+        "y": 455,
+        "w": 137,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0147": {
+      "rectangle": {
+        "x": 3116,
+        "y": 455,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0148": {
+      "rectangle": {
+        "x": 3251,
+        "y": 455,
+        "w": 433,
+        "h": 464
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 166,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0149": {
+      "rectangle": {
+        "x": 3694,
+        "y": 455,
+        "w": 451,
+        "h": 548
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 82,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0150": {
+      "rectangle": {
+        "x": 4155,
+        "y": 455,
+        "w": 469,
+        "h": 477
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 153,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0151": {
+      "rectangle": {
+        "x": 4634,
+        "y": 455,
+        "w": 487,
+        "h": 575
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 55,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0152": {
+      "rectangle": {
+        "x": 5131,
+        "y": 455,
+        "w": 505,
+        "h": 534
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 128,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0153": {
+      "rectangle": {
+        "x": 5646,
+        "y": 455,
+        "w": 543,
+        "h": 535
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 201,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0154": {
+      "rectangle": {
+        "x": 6199,
+        "y": 455,
+        "w": 543,
+        "h": 463
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 273,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0155": {
+      "rectangle": {
+        "x": 6752,
+        "y": 455,
+        "w": 553,
+        "h": 390
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 346,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0156": {
+      "rectangle": {
+        "x": 7315,
+        "y": 455,
+        "w": 553,
+        "h": 317
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0157": {
+      "rectangle": {
+        "x": 10,
+        "y": 1040,
+        "w": 559,
+        "h": 317
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0158": {
+      "rectangle": {
+        "x": 579,
+        "y": 1040,
+        "w": 559,
+        "h": 317
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0159": {
+      "rectangle": {
+        "x": 1148,
+        "y": 1040,
+        "w": 567,
+        "h": 317
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0160": {
+      "rectangle": {
+        "x": 1725,
+        "y": 1040,
+        "w": 567,
+        "h": 317
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0161": {
+      "rectangle": {
+        "x": 2302,
+        "y": 1040,
+        "w": 573,
+        "h": 318
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0162": {
+      "rectangle": {
+        "x": 2885,
+        "y": 1040,
+        "w": 573,
+        "h": 318
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0163": {
+      "rectangle": {
+        "x": 3468,
+        "y": 1040,
+        "w": 583,
+        "h": 323
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0164": {
+      "rectangle": {
+        "x": 4061,
+        "y": 1040,
+        "w": 583,
+        "h": 323
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0165": {
+      "rectangle": {
+        "x": 4654,
+        "y": 1040,
+        "w": 589,
+        "h": 332
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0166": {
+      "rectangle": {
+        "x": 5253,
+        "y": 1040,
+        "w": 589,
+        "h": 332
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0167": {
+      "rectangle": {
+        "x": 5852,
+        "y": 1040,
+        "w": 591,
+        "h": 332
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0168": {
+      "rectangle": {
+        "x": 6453,
+        "y": 1040,
+        "w": 591,
+        "h": 332
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0169": {
+      "rectangle": {
+        "x": 7054,
+        "y": 1040,
+        "w": 584,
+        "h": 327
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0170": {
+      "rectangle": {
+        "x": 10,
+        "y": 1382,
+        "w": 584,
+        "h": 327
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0171": {
+      "rectangle": {
+        "x": 604,
+        "y": 1382,
+        "w": 581,
+        "h": 328
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0172": {
+      "rectangle": {
+        "x": 1195,
+        "y": 1382,
+        "w": 581,
+        "h": 328
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0173": {
+      "rectangle": {
+        "x": 1786,
+        "y": 1382,
+        "w": 586,
+        "h": 319
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0174": {
+      "rectangle": {
+        "x": 2382,
+        "y": 1382,
+        "w": 587,
+        "h": 319
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0175": {
+      "rectangle": {
+        "x": 2979,
+        "y": 1382,
+        "w": 588,
+        "h": 317
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0176": {
+      "rectangle": {
+        "x": 3577,
+        "y": 1382,
+        "w": 588,
+        "h": 317
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0177": {
+      "rectangle": {
+        "x": 4175,
+        "y": 1382,
+        "w": 524,
+        "h": 317
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0178": {
+      "rectangle": {
+        "x": 4709,
+        "y": 1382,
+        "w": 524,
+        "h": 317
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0179": {
+      "rectangle": {
+        "x": 5243,
+        "y": 1382,
+        "w": 524,
+        "h": 317
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0180": {
+      "rectangle": {
+        "x": 5777,
+        "y": 1382,
+        "w": 524,
+        "h": 317
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0181": {
+      "rectangle": {
+        "x": 10,
+        "y": 455,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0182": {
+      "rectangle": {
+        "x": 178,
+        "y": 455,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0183": {
+      "rectangle": {
+        "x": 346,
+        "y": 455,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0184": {
+      "rectangle": {
+        "x": 514,
+        "y": 455,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0185": {
+      "rectangle": {
+        "x": 681,
+        "y": 455,
+        "w": 155,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0186": {
+      "rectangle": {
+        "x": 846,
+        "y": 455,
+        "w": 152,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0187": {
+      "rectangle": {
+        "x": 1008,
+        "y": 455,
+        "w": 148,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0188": {
+      "rectangle": {
+        "x": 1166,
+        "y": 455,
+        "w": 145,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0189": {
+      "rectangle": {
+        "x": 1321,
+        "y": 455,
+        "w": 142,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0190": {
+      "rectangle": {
+        "x": 1473,
+        "y": 455,
+        "w": 139,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0191": {
+      "rectangle": {
+        "x": 1622,
+        "y": 455,
+        "w": 137,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0192": {
+      "rectangle": {
+        "x": 1769,
+        "y": 455,
+        "w": 136,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0193": {
+      "rectangle": {
+        "x": 1915,
+        "y": 455,
+        "w": 136,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0194": {
+      "rectangle": {
+        "x": 2061,
+        "y": 455,
+        "w": 136,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0195": {
+      "rectangle": {
+        "x": 2207,
+        "y": 455,
+        "w": 140,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0196": {
+      "rectangle": {
+        "x": 2357,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0197": {
+      "rectangle": {
+        "x": 2510,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0198": {
+      "rectangle": {
+        "x": 2663,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0199": {
+      "rectangle": {
+        "x": 2816,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0200": {
+      "rectangle": {
+        "x": 2816,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0201": {
+      "rectangle": {
+        "x": 2816,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0202": {
+      "rectangle": {
+        "x": 2969,
+        "y": 455,
+        "w": 137,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0203": {
+      "rectangle": {
+        "x": 3116,
+        "y": 455,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0204": {
+      "rectangle": {
+        "x": 6311,
+        "y": 1382,
+        "w": 423,
+        "h": 474
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 156,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0205": {
+      "rectangle": {
+        "x": 6744,
+        "y": 1382,
+        "w": 530,
+        "h": 518
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 112,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0206": {
+      "rectangle": {
+        "x": 7284,
+        "y": 1382,
+        "w": 543,
+        "h": 630
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 0,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0207": {
+      "rectangle": {
+        "x": 10,
+        "y": 2022,
+        "w": 556,
+        "h": 628
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 2,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0208": {
+      "rectangle": {
+        "x": 576,
+        "y": 2022,
+        "w": 569,
+        "h": 578
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 73,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0209": {
+      "rectangle": {
+        "x": 1155,
+        "y": 2022,
+        "w": 581,
+        "h": 582
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 144,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0210": {
+      "rectangle": {
+        "x": 1746,
+        "y": 2022,
+        "w": 605,
+        "h": 510
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 216,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0211": {
+      "rectangle": {
+        "x": 2361,
+        "y": 2022,
+        "w": 605,
+        "h": 439
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 287,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0212": {
+      "rectangle": {
+        "x": 2976,
+        "y": 2022,
+        "w": 611,
+        "h": 368
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0213": {
+      "rectangle": {
+        "x": 3597,
+        "y": 2022,
+        "w": 611,
+        "h": 368
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0214": {
+      "rectangle": {
+        "x": 4218,
+        "y": 2022,
+        "w": 619,
+        "h": 368
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0215": {
+      "rectangle": {
+        "x": 4847,
+        "y": 2022,
+        "w": 619,
+        "h": 368
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0216": {
+      "rectangle": {
+        "x": 5476,
+        "y": 2022,
+        "w": 627,
+        "h": 368
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0217": {
+      "rectangle": {
+        "x": 6113,
+        "y": 2022,
+        "w": 627,
+        "h": 369
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0218": {
+      "rectangle": {
+        "x": 6750,
+        "y": 2022,
+        "w": 635,
+        "h": 369
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0219": {
+      "rectangle": {
+        "x": 7395,
+        "y": 2022,
+        "w": 635,
+        "h": 374
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0220": {
+      "rectangle": {
+        "x": 10,
+        "y": 2660,
+        "w": 643,
+        "h": 374
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0221": {
+      "rectangle": {
+        "x": 663,
+        "y": 2660,
+        "w": 643,
+        "h": 383
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0222": {
+      "rectangle": {
+        "x": 1316,
+        "y": 2660,
+        "w": 648,
+        "h": 383
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0223": {
+      "rectangle": {
+        "x": 1974,
+        "y": 2660,
+        "w": 648,
+        "h": 383
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0224": {
+      "rectangle": {
+        "x": 2632,
+        "y": 2660,
+        "w": 653,
+        "h": 383
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0225": {
+      "rectangle": {
+        "x": 3295,
+        "y": 2660,
+        "w": 653,
+        "h": 378
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0226": {
+      "rectangle": {
+        "x": 3958,
+        "y": 2660,
+        "w": 662,
+        "h": 378
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0227": {
+      "rectangle": {
+        "x": 4630,
+        "y": 2660,
+        "w": 662,
+        "h": 379
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0228": {
+      "rectangle": {
+        "x": 5302,
+        "y": 2660,
+        "w": 670,
+        "h": 379
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0229": {
+      "rectangle": {
+        "x": 5982,
+        "y": 2660,
+        "w": 670,
+        "h": 370
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0230": {
+      "rectangle": {
+        "x": 6662,
+        "y": 2660,
+        "w": 677,
+        "h": 370
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0231": {
+      "rectangle": {
+        "x": 7349,
+        "y": 2660,
+        "w": 677,
+        "h": 368
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0232": {
+      "rectangle": {
+        "x": 10,
+        "y": 3053,
+        "w": 627,
+        "h": 368
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0233": {
+      "rectangle": {
+        "x": 647,
+        "y": 3053,
+        "w": 627,
+        "h": 368
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0234": {
+      "rectangle": {
+        "x": 1284,
+        "y": 3053,
+        "w": 594,
+        "h": 368
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0235": {
+      "rectangle": {
+        "x": 1888,
+        "y": 3053,
+        "w": 594,
+        "h": 368
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0236": {
+      "rectangle": {
+        "x": 2492,
+        "y": 3053,
+        "w": 594,
+        "h": 368
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 358,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0237": {
+      "rectangle": {
+        "x": 3096,
+        "y": 3053,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0238": {
+      "rectangle": {
+        "x": 3264,
+        "y": 3053,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0239": {
+      "rectangle": {
+        "x": 3431,
+        "y": 3053,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0240": {
+      "rectangle": {
+        "x": 3599,
+        "y": 3053,
+        "w": 159,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0241": {
+      "rectangle": {
+        "x": 3768,
+        "y": 3053,
+        "w": 160,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0242": {
+      "rectangle": {
+        "x": 3938,
+        "y": 3053,
+        "w": 160,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0243": {
+      "rectangle": {
+        "x": 4108,
+        "y": 3053,
+        "w": 159,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0244": {
+      "rectangle": {
+        "x": 4277,
+        "y": 3053,
+        "w": 161,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0245": {
+      "rectangle": {
+        "x": 4448,
+        "y": 3053,
+        "w": 164,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0246": {
+      "rectangle": {
+        "x": 4622,
+        "y": 3053,
+        "w": 164,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0247": {
+      "rectangle": {
+        "x": 4796,
+        "y": 3053,
+        "w": 166,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0248": {
+      "rectangle": {
+        "x": 4972,
+        "y": 3053,
+        "w": 165,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0249": {
+      "rectangle": {
+        "x": 5147,
+        "y": 3053,
+        "w": 170,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0250": {
+      "rectangle": {
+        "x": 5327,
+        "y": 3053,
+        "w": 174,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0251": {
+      "rectangle": {
+        "x": 5511,
+        "y": 3053,
+        "w": 174,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0252": {
+      "rectangle": {
+        "x": 5695,
+        "y": 3053,
+        "w": 171,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0253": {
+      "rectangle": {
+        "x": 5876,
+        "y": 3053,
+        "w": 171,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0254": {
+      "rectangle": {
+        "x": 6057,
+        "y": 3053,
+        "w": 168,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0255": {
+      "rectangle": {
+        "x": 6235,
+        "y": 3053,
+        "w": 162,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0256": {
+      "rectangle": {
+        "x": 6407,
+        "y": 3053,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0257": {
+      "rectangle": {
+        "x": 6575,
+        "y": 3053,
+        "w": 162,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0258": {
+      "rectangle": {
+        "x": 6747,
+        "y": 3053,
+        "w": 162,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0259": {
+      "rectangle": {
+        "x": 6919,
+        "y": 3053,
+        "w": 162,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0260": {
+      "rectangle": {
+        "x": 7091,
+        "y": 3053,
+        "w": 152,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0261": {
+      "rectangle": {
+        "x": 7253,
+        "y": 3053,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0262": {
+      "rectangle": {
+        "x": 7388,
+        "y": 3053,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0263": {
+      "rectangle": {
+        "x": 7523,
+        "y": 3053,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0264": {
+      "rectangle": {
+        "x": 7658,
+        "y": 3053,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0265": {
+      "rectangle": {
+        "x": 7793,
+        "y": 3053,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0266": {
+      "rectangle": {
+        "x": 7793,
+        "y": 3053,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0267": {
+      "rectangle": {
+        "x": 7928,
+        "y": 3053,
+        "w": 159,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0268": {
+      "rectangle": {
+        "x": 10,
+        "y": 3431,
+        "w": 205,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0269": {
+      "rectangle": {
+        "x": 225,
+        "y": 3431,
+        "w": 213,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0270": {
+      "rectangle": {
+        "x": 448,
+        "y": 3431,
+        "w": 147,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 24,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0271": {
+      "rectangle": {
+        "x": 605,
+        "y": 3431,
+        "w": 169,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 2,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0272": {
+      "rectangle": {
+        "x": 784,
+        "y": 3431,
+        "w": 140,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 31,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0273": {
+      "rectangle": {
+        "x": 934,
+        "y": 3431,
+        "w": 129,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 42,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0274": {
+      "rectangle": {
+        "x": 1073,
+        "y": 3431,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0275": {
+      "rectangle": {
+        "x": 1208,
+        "y": 3431,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0276": {
+      "rectangle": {
+        "x": 1343,
+        "y": 3431,
+        "w": 177,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0277": {
+      "rectangle": {
+        "x": 1530,
+        "y": 3431,
+        "w": 194,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0278": {
+      "rectangle": {
+        "x": 1734,
+        "y": 3431,
+        "w": 199,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0279": {
+      "rectangle": {
+        "x": 1943,
+        "y": 3431,
+        "w": 204,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0280": {
+      "rectangle": {
+        "x": 2157,
+        "y": 3431,
+        "w": 209,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0281": {
+      "rectangle": {
+        "x": 2376,
+        "y": 3431,
+        "w": 193,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0282": {
+      "rectangle": {
+        "x": 2579,
+        "y": 3431,
+        "w": 184,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0283": {
+      "rectangle": {
+        "x": 2773,
+        "y": 3431,
+        "w": 182,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0284": {
+      "rectangle": {
+        "x": 2965,
+        "y": 3431,
+        "w": 178,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0285": {
+      "rectangle": {
+        "x": 3153,
+        "y": 3431,
+        "w": 178,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0286": {
+      "rectangle": {
+        "x": 3341,
+        "y": 3431,
+        "w": 180,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0287": {
+      "rectangle": {
+        "x": 3341,
+        "y": 3431,
+        "w": 180,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0288": {
+      "rectangle": {
+        "x": 3531,
+        "y": 3431,
+        "w": 180,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0289": {
+      "rectangle": {
+        "x": 3721,
+        "y": 3431,
+        "w": 178,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0290": {
+      "rectangle": {
+        "x": 3909,
+        "y": 3431,
+        "w": 177,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0291": {
+      "rectangle": {
+        "x": 4096,
+        "y": 3431,
+        "w": 176,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0292": {
+      "rectangle": {
+        "x": 4282,
+        "y": 3431,
+        "w": 174,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0293": {
+      "rectangle": {
+        "x": 4466,
+        "y": 3431,
+        "w": 172,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0294": {
+      "rectangle": {
+        "x": 4648,
+        "y": 3431,
+        "w": 173,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0295": {
+      "rectangle": {
+        "x": 4831,
+        "y": 3431,
+        "w": 172,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0296": {
+      "rectangle": {
+        "x": 5013,
+        "y": 3431,
+        "w": 171,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0297": {
+      "rectangle": {
+        "x": 5013,
+        "y": 3431,
+        "w": 171,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0298": {
+      "rectangle": {
+        "x": 5194,
+        "y": 3431,
+        "w": 170,
+        "h": 213
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 417,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0299": {
+      "rectangle": {
+        "x": 5374,
+        "y": 3431,
+        "w": 190,
+        "h": 214
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 416,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0300": {
+      "rectangle": {
+        "x": 5574,
+        "y": 3431,
+        "w": 154,
+        "h": 218
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 412,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0301": {
+      "rectangle": {
+        "x": 5738,
+        "y": 3431,
+        "w": 152,
+        "h": 219
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 411,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0302": {
+      "rectangle": {
+        "x": 5900,
+        "y": 3431,
+        "w": 149,
+        "h": 221
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 409,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0303": {
+      "rectangle": {
+        "x": 6059,
+        "y": 3431,
+        "w": 147,
+        "h": 222
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 408,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0304": {
+      "rectangle": {
+        "x": 6216,
+        "y": 3431,
+        "w": 144,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 407,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0305": {
+      "rectangle": {
+        "x": 6370,
+        "y": 3431,
+        "w": 142,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 407,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0306": {
+      "rectangle": {
+        "x": 6522,
+        "y": 3431,
+        "w": 139,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 406,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0307": {
+      "rectangle": {
+        "x": 6671,
+        "y": 3431,
+        "w": 135,
+        "h": 222
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 408,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0308": {
+      "rectangle": {
+        "x": 6816,
+        "y": 3431,
+        "w": 133,
+        "h": 206
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 424,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0309": {
+      "rectangle": {
+        "x": 6959,
+        "y": 3431,
+        "w": 135,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0310": {
+      "rectangle": {
+        "x": 7104,
+        "y": 3431,
+        "w": 136,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0311": {
+      "rectangle": {
+        "x": 7250,
+        "y": 3431,
+        "w": 152,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0312": {
+      "rectangle": {
+        "x": 7412,
+        "y": 3431,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0313": {
+      "rectangle": {
+        "x": 7579,
+        "y": 3431,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0314": {
+      "rectangle": {
+        "x": 7747,
+        "y": 3431,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0315": {
+      "rectangle": {
+        "x": 7914,
+        "y": 3431,
+        "w": 154,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0316": {
+      "rectangle": {
+        "x": 10,
+        "y": 3665,
+        "w": 159,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0317": {
+      "rectangle": {
+        "x": 179,
+        "y": 3665,
+        "w": 163,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0318": {
+      "rectangle": {
+        "x": 352,
+        "y": 3665,
+        "w": 164,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0319": {
+      "rectangle": {
+        "x": 526,
+        "y": 3665,
+        "w": 162,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0320": {
+      "rectangle": {
+        "x": 698,
+        "y": 3665,
+        "w": 161,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0321": {
+      "rectangle": {
+        "x": 869,
+        "y": 3665,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0322": {
+      "rectangle": {
+        "x": 10,
+        "y": 455,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0323": {
+      "rectangle": {
+        "x": 178,
+        "y": 455,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0324": {
+      "rectangle": {
+        "x": 346,
+        "y": 455,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0325": {
+      "rectangle": {
+        "x": 514,
+        "y": 455,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0326": {
+      "rectangle": {
+        "x": 1037,
+        "y": 3665,
+        "w": 804,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0327": {
+      "rectangle": {
+        "x": 1851,
+        "y": 3665,
+        "w": 802,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0328": {
+      "rectangle": {
+        "x": 2663,
+        "y": 3665,
+        "w": 798,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0329": {
+      "rectangle": {
+        "x": 3471,
+        "y": 3665,
+        "w": 792,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0330": {
+      "rectangle": {
+        "x": 4273,
+        "y": 3665,
+        "w": 787,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0331": {
+      "rectangle": {
+        "x": 5070,
+        "y": 3665,
+        "w": 780,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0332": {
+      "rectangle": {
+        "x": 5860,
+        "y": 3665,
+        "w": 772,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0333": {
+      "rectangle": {
+        "x": 6642,
+        "y": 3665,
+        "w": 763,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0334": {
+      "rectangle": {
+        "x": 7415,
+        "y": 3665,
+        "w": 753,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0335": {
+      "rectangle": {
+        "x": 10,
+        "y": 4070,
+        "w": 744,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0336": {
+      "rectangle": {
+        "x": 764,
+        "y": 4070,
+        "w": 736,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0337": {
+      "rectangle": {
+        "x": 1510,
+        "y": 4070,
+        "w": 730,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0338": {
+      "rectangle": {
+        "x": 2250,
+        "y": 4070,
+        "w": 725,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0339": {
+      "rectangle": {
+        "x": 2985,
+        "y": 4070,
+        "w": 722,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0340": {
+      "rectangle": {
+        "x": 3717,
+        "y": 4070,
+        "w": 719,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0341": {
+      "rectangle": {
+        "x": 4446,
+        "y": 4070,
+        "w": 717,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0342": {
+      "rectangle": {
+        "x": 5173,
+        "y": 4070,
+        "w": 716,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0343": {
+      "rectangle": {
+        "x": 5899,
+        "y": 4070,
+        "w": 715,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0344": {
+      "rectangle": {
+        "x": 6624,
+        "y": 4070,
+        "w": 715,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0345": {
+      "rectangle": {
+        "x": 7349,
+        "y": 4070,
+        "w": 715,
+        "h": 418
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0346": {
+      "rectangle": {
+        "x": 10,
+        "y": 4498,
+        "w": 715,
+        "h": 418
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0347": {
+      "rectangle": {
+        "x": 735,
+        "y": 4498,
+        "w": 715,
+        "h": 418
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0348": {
+      "rectangle": {
+        "x": 1460,
+        "y": 4498,
+        "w": 715,
+        "h": 418
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0349": {
+      "rectangle": {
+        "x": 2185,
+        "y": 4498,
+        "w": 715,
+        "h": 418
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0350": {
+      "rectangle": {
+        "x": 2910,
+        "y": 4498,
+        "w": 715,
+        "h": 418
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0351": {
+      "rectangle": {
+        "x": 3635,
+        "y": 4498,
+        "w": 715,
+        "h": 418
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0352": {
+      "rectangle": {
+        "x": 4360,
+        "y": 4498,
+        "w": 715,
+        "h": 418
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0353": {
+      "rectangle": {
+        "x": 5085,
+        "y": 4498,
+        "w": 715,
+        "h": 418
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0354": {
+      "rectangle": {
+        "x": 5810,
+        "y": 4498,
+        "w": 715,
+        "h": 418
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0355": {
+      "rectangle": {
+        "x": 6535,
+        "y": 4498,
+        "w": 715,
+        "h": 418
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0356": {
+      "rectangle": {
+        "x": 7260,
+        "y": 4498,
+        "w": 715,
+        "h": 418
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0357": {
+      "rectangle": {
+        "x": 10,
+        "y": 4926,
+        "w": 715,
+        "h": 418
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0358": {
+      "rectangle": {
+        "x": 735,
+        "y": 4926,
+        "w": 715,
+        "h": 410
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0359": {
+      "rectangle": {
+        "x": 1460,
+        "y": 4926,
+        "w": 715,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0360": {
+      "rectangle": {
+        "x": 1460,
+        "y": 4926,
+        "w": 715,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0361": {
+      "rectangle": {
+        "x": 2185,
+        "y": 4926,
+        "w": 718,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0362": {
+      "rectangle": {
+        "x": 2913,
+        "y": 4926,
+        "w": 725,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0363": {
+      "rectangle": {
+        "x": 3648,
+        "y": 4926,
+        "w": 738,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0364": {
+      "rectangle": {
+        "x": 4396,
+        "y": 4926,
+        "w": 755,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0365": {
+      "rectangle": {
+        "x": 5161,
+        "y": 4926,
+        "w": 778,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0366": {
+      "rectangle": {
+        "x": 5949,
+        "y": 4926,
+        "w": 805,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0367": {
+      "rectangle": {
+        "x": 6764,
+        "y": 4926,
+        "w": 805,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0368": {
+      "rectangle": {
+        "x": 6764,
+        "y": 4926,
+        "w": 805,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0369": {
+      "rectangle": {
+        "x": 10,
+        "y": 5354,
+        "w": 805,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0370": {
+      "rectangle": {
+        "x": 10,
+        "y": 5354,
+        "w": 805,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0371": {
+      "rectangle": {
+        "x": 825,
+        "y": 5354,
+        "w": 805,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0372": {
+      "rectangle": {
+        "x": 825,
+        "y": 5354,
+        "w": 805,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0373": {
+      "rectangle": {
+        "x": 1640,
+        "y": 5354,
+        "w": 805,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0374": {
+      "rectangle": {
+        "x": 1640,
+        "y": 5354,
+        "w": 805,
+        "h": 395
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 235,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0375": {
+      "rectangle": {
+        "x": 6575,
+        "y": 3053,
+        "w": 162,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0376": {
+      "rectangle": {
+        "x": 6747,
+        "y": 3053,
+        "w": 162,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0377": {
+      "rectangle": {
+        "x": 6919,
+        "y": 3053,
+        "w": 162,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0378": {
+      "rectangle": {
+        "x": 7091,
+        "y": 3053,
+        "w": 152,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0379": {
+      "rectangle": {
+        "x": 7253,
+        "y": 3053,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0380": {
+      "rectangle": {
+        "x": 7388,
+        "y": 3053,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0381": {
+      "rectangle": {
+        "x": 7523,
+        "y": 3053,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0382": {
+      "rectangle": {
+        "x": 2455,
+        "y": 5354,
+        "w": 162,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0383": {
+      "rectangle": {
+        "x": 2627,
+        "y": 5354,
+        "w": 209,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0384": {
+      "rectangle": {
+        "x": 2846,
+        "y": 5354,
+        "w": 233,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0385": {
+      "rectangle": {
+        "x": 3089,
+        "y": 5354,
+        "w": 252,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 19,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0386": {
+      "rectangle": {
+        "x": 3351,
+        "y": 5354,
+        "w": 268,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0387": {
+      "rectangle": {
+        "x": 3629,
+        "y": 5354,
+        "w": 248,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 18,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0388": {
+      "rectangle": {
+        "x": 3887,
+        "y": 5354,
+        "w": 240,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 26,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0389": {
+      "rectangle": {
+        "x": 4137,
+        "y": 5354,
+        "w": 220,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0390": {
+      "rectangle": {
+        "x": 4367,
+        "y": 5354,
+        "w": 221,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0391": {
+      "rectangle": {
+        "x": 4598,
+        "y": 5354,
+        "w": 224,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0392": {
+      "rectangle": {
+        "x": 4832,
+        "y": 5354,
+        "w": 232,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0393": {
+      "rectangle": {
+        "x": 5074,
+        "y": 5354,
+        "w": 234,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0394": {
+      "rectangle": {
+        "x": 5318,
+        "y": 5354,
+        "w": 237,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0395": {
+      "rectangle": {
+        "x": 5565,
+        "y": 5354,
+        "w": 239,
+        "h": 204
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 426,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0396": {
+      "rectangle": {
+        "x": 5814,
+        "y": 5354,
+        "w": 242,
+        "h": 206
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0397": {
+      "rectangle": {
+        "x": 6066,
+        "y": 5354,
+        "w": 249,
+        "h": 209
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0398": {
+      "rectangle": {
+        "x": 6325,
+        "y": 5354,
+        "w": 253,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0399": {
+      "rectangle": {
+        "x": 6588,
+        "y": 5354,
+        "w": 257,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0400": {
+      "rectangle": {
+        "x": 6855,
+        "y": 5354,
+        "w": 259,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0401": {
+      "rectangle": {
+        "x": 7124,
+        "y": 5354,
+        "w": 263,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0402": {
+      "rectangle": {
+        "x": 7397,
+        "y": 5354,
+        "w": 265,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0403": {
+      "rectangle": {
+        "x": 7672,
+        "y": 5354,
+        "w": 267,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0404": {
+      "rectangle": {
+        "x": 7949,
+        "y": 5354,
+        "w": 178,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0405": {
+      "rectangle": {
+        "x": 10,
+        "y": 5759,
+        "w": 177,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0406": {
+      "rectangle": {
+        "x": 197,
+        "y": 5759,
+        "w": 176,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0407": {
+      "rectangle": {
+        "x": 383,
+        "y": 5759,
+        "w": 174,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0408": {
+      "rectangle": {
+        "x": 567,
+        "y": 5759,
+        "w": 172,
+        "h": 203
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0409": {
+      "rectangle": {
+        "x": 749,
+        "y": 5759,
+        "w": 173,
+        "h": 204
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0410": {
+      "rectangle": {
+        "x": 932,
+        "y": 5759,
+        "w": 172,
+        "h": 204
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0411": {
+      "rectangle": {
+        "x": 1114,
+        "y": 5759,
+        "w": 171,
+        "h": 206
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0412": {
+      "rectangle": {
+        "x": 1295,
+        "y": 5759,
+        "w": 171,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0413": {
+      "rectangle": {
+        "x": 5013,
+        "y": 3431,
+        "w": 171,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0414": {
+      "rectangle": {
+        "x": 5013,
+        "y": 3431,
+        "w": 171,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0415": {
+      "rectangle": {
+        "x": 5013,
+        "y": 3431,
+        "w": 171,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0416": {
+      "rectangle": {
+        "x": 1476,
+        "y": 5759,
+        "w": 162,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0417": {
+      "rectangle": {
+        "x": 1648,
+        "y": 5759,
+        "w": 162,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0418": {
+      "rectangle": {
+        "x": 1820,
+        "y": 5759,
+        "w": 162,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0419": {
+      "rectangle": {
+        "x": 1992,
+        "y": 5759,
+        "w": 152,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0420": {
+      "rectangle": {
+        "x": 2154,
+        "y": 5759,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0421": {
+      "rectangle": {
+        "x": 2289,
+        "y": 5759,
+        "w": 182,
+        "h": 253
+      },
+      "source_rectangle": {
+        "x": 34,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0422": {
+      "rectangle": {
+        "x": 2481,
+        "y": 5759,
+        "w": 197,
+        "h": 256
+      },
+      "source_rectangle": {
+        "x": 19,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0423": {
+      "rectangle": {
+        "x": 2688,
+        "y": 5759,
+        "w": 236,
+        "h": 260
+      },
+      "source_rectangle": {
+        "x": 15,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0424": {
+      "rectangle": {
+        "x": 2934,
+        "y": 5759,
+        "w": 219,
+        "h": 257
+      },
+      "source_rectangle": {
+        "x": 40,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0425": {
+      "rectangle": {
+        "x": 3163,
+        "y": 5759,
+        "w": 214,
+        "h": 260
+      },
+      "source_rectangle": {
+        "x": 24,
+        "y": 371,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0426": {
+      "rectangle": {
+        "x": 3387,
+        "y": 5759,
+        "w": 229,
+        "h": 254
+      },
+      "source_rectangle": {
+        "x": 2,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0427": {
+      "rectangle": {
+        "x": 3626,
+        "y": 5759,
+        "w": 185,
+        "h": 253
+      },
+      "source_rectangle": {
+        "x": 31,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0428": {
+      "rectangle": {
+        "x": 3821,
+        "y": 5759,
+        "w": 197,
+        "h": 256
+      },
+      "source_rectangle": {
+        "x": 19,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0429": {
+      "rectangle": {
+        "x": 4028,
+        "y": 5759,
+        "w": 208,
+        "h": 260
+      },
+      "source_rectangle": {
+        "x": 15,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0430": {
+      "rectangle": {
+        "x": 4246,
+        "y": 5759,
+        "w": 225,
+        "h": 257
+      },
+      "source_rectangle": {
+        "x": 20,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0431": {
+      "rectangle": {
+        "x": 4481,
+        "y": 5759,
+        "w": 234,
+        "h": 254
+      },
+      "source_rectangle": {
+        "x": 25,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0432": {
+      "rectangle": {
+        "x": 4725,
+        "y": 5759,
+        "w": 208,
+        "h": 257
+      },
+      "source_rectangle": {
+        "x": 24,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0433": {
+      "rectangle": {
+        "x": 4943,
+        "y": 5759,
+        "w": 236,
+        "h": 260
+      },
+      "source_rectangle": {
+        "x": 2,
+        "y": 371,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0434": {
+      "rectangle": {
+        "x": 5189,
+        "y": 5759,
+        "w": 206,
+        "h": 254
+      },
+      "source_rectangle": {
+        "x": 25,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0435": {
+      "rectangle": {
+        "x": 5405,
+        "y": 5759,
+        "w": 182,
+        "h": 253
+      },
+      "source_rectangle": {
+        "x": 34,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0436": {
+      "rectangle": {
+        "x": 5597,
+        "y": 5759,
+        "w": 204,
+        "h": 256
+      },
+      "source_rectangle": {
+        "x": 19,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0437": {
+      "rectangle": {
+        "x": 5811,
+        "y": 5759,
+        "w": 230,
+        "h": 260
+      },
+      "source_rectangle": {
+        "x": 15,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0438": {
+      "rectangle": {
+        "x": 6051,
+        "y": 5759,
+        "w": 239,
+        "h": 257
+      },
+      "source_rectangle": {
+        "x": 20,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0439": {
+      "rectangle": {
+        "x": 6300,
+        "y": 5759,
+        "w": 207,
+        "h": 254
+      },
+      "source_rectangle": {
+        "x": 24,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0440": {
+      "rectangle": {
+        "x": 6517,
+        "y": 5759,
+        "w": 214,
+        "h": 253
+      },
+      "source_rectangle": {
+        "x": 2,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0441": {
+      "rectangle": {
+        "x": 6741,
+        "y": 5759,
+        "w": 197,
+        "h": 256
+      },
+      "source_rectangle": {
+        "x": 19,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0442": {
+      "rectangle": {
+        "x": 6948,
+        "y": 5759,
+        "w": 201,
+        "h": 260
+      },
+      "source_rectangle": {
+        "x": 15,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0443": {
+      "rectangle": {
+        "x": 7159,
+        "y": 5759,
+        "w": 207,
+        "h": 257
+      },
+      "source_rectangle": {
+        "x": 20,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0444": {
+      "rectangle": {
+        "x": 7376,
+        "y": 5759,
+        "w": 220,
+        "h": 254
+      },
+      "source_rectangle": {
+        "x": 25,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0445": {
+      "rectangle": {
+        "x": 7606,
+        "y": 5759,
+        "w": 199,
+        "h": 257
+      },
+      "source_rectangle": {
+        "x": 40,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0446": {
+      "rectangle": {
+        "x": 7815,
+        "y": 5759,
+        "w": 195,
+        "h": 260
+      },
+      "source_rectangle": {
+        "x": 43,
+        "y": 371,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0447": {
+      "rectangle": {
+        "x": 10,
+        "y": 6029,
+        "w": 206,
+        "h": 254
+      },
+      "source_rectangle": {
+        "x": 25,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0448": {
+      "rectangle": {
+        "x": 226,
+        "y": 6029,
+        "w": 190,
+        "h": 253
+      },
+      "source_rectangle": {
+        "x": 34,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0449": {
+      "rectangle": {
+        "x": 426,
+        "y": 6029,
+        "w": 205,
+        "h": 256
+      },
+      "source_rectangle": {
+        "x": 19,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0450": {
+      "rectangle": {
+        "x": 641,
+        "y": 6029,
+        "w": 211,
+        "h": 260
+      },
+      "source_rectangle": {
+        "x": 15,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0451": {
+      "rectangle": {
+        "x": 641,
+        "y": 6029,
+        "w": 211,
+        "h": 260
+      },
+      "source_rectangle": {
+        "x": 20,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0452": {
+      "rectangle": {
+        "x": 862,
+        "y": 6029,
+        "w": 206,
+        "h": 254
+      },
+      "source_rectangle": {
+        "x": 25,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0453": {
+      "rectangle": {
+        "x": 1078,
+        "y": 6029,
+        "w": 192,
+        "h": 257
+      },
+      "source_rectangle": {
+        "x": 40,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0454": {
+      "rectangle": {
+        "x": 1280,
+        "y": 6029,
+        "w": 195,
+        "h": 260
+      },
+      "source_rectangle": {
+        "x": 43,
+        "y": 371,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0455": {
+      "rectangle": {
+        "x": 1485,
+        "y": 6029,
+        "w": 206,
+        "h": 254
+      },
+      "source_rectangle": {
+        "x": 25,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0456": {
+      "rectangle": {
+        "x": 1701,
+        "y": 6029,
+        "w": 186,
+        "h": 253
+      },
+      "source_rectangle": {
+        "x": 34,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0457": {
+      "rectangle": {
+        "x": 1897,
+        "y": 6029,
+        "w": 199,
+        "h": 256
+      },
+      "source_rectangle": {
+        "x": 19,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0458": {
+      "rectangle": {
+        "x": 2106,
+        "y": 6029,
+        "w": 204,
+        "h": 260
+      },
+      "source_rectangle": {
+        "x": 15,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0459": {
+      "rectangle": {
+        "x": 2320,
+        "y": 6029,
+        "w": 207,
+        "h": 257
+      },
+      "source_rectangle": {
+        "x": 20,
+        "y": 381,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0460": {
+      "rectangle": {
+        "x": 2537,
+        "y": 6029,
+        "w": 206,
+        "h": 254
+      },
+      "source_rectangle": {
+        "x": 25,
+        "y": 382,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0461": {
+      "rectangle": {
+        "x": 10,
+        "y": 455,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0462": {
+      "rectangle": {
+        "x": 178,
+        "y": 455,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0463": {
+      "rectangle": {
+        "x": 346,
+        "y": 455,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0464": {
+      "rectangle": {
+        "x": 514,
+        "y": 455,
+        "w": 157,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0465": {
+      "rectangle": {
+        "x": 681,
+        "y": 455,
+        "w": 155,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0466": {
+      "rectangle": {
+        "x": 846,
+        "y": 455,
+        "w": 152,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0467": {
+      "rectangle": {
+        "x": 1008,
+        "y": 455,
+        "w": 148,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0468": {
+      "rectangle": {
+        "x": 1166,
+        "y": 455,
+        "w": 145,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0469": {
+      "rectangle": {
+        "x": 1321,
+        "y": 455,
+        "w": 142,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0470": {
+      "rectangle": {
+        "x": 1473,
+        "y": 455,
+        "w": 139,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0471": {
+      "rectangle": {
+        "x": 1622,
+        "y": 455,
+        "w": 137,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0472": {
+      "rectangle": {
+        "x": 1769,
+        "y": 455,
+        "w": 136,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0473": {
+      "rectangle": {
+        "x": 1915,
+        "y": 455,
+        "w": 136,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0474": {
+      "rectangle": {
+        "x": 2061,
+        "y": 455,
+        "w": 136,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0475": {
+      "rectangle": {
+        "x": 2207,
+        "y": 455,
+        "w": 140,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0476": {
+      "rectangle": {
+        "x": 2357,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0477": {
+      "rectangle": {
+        "x": 2510,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0478": {
+      "rectangle": {
+        "x": 2663,
+        "y": 455,
+        "w": 143,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0479": {
+      "rectangle": {
+        "x": 2753,
+        "y": 6029,
+        "w": 143,
+        "h": 229
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 401,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0480": {
+      "rectangle": {
+        "x": 2906,
+        "y": 6029,
+        "w": 143,
+        "h": 239
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 391,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0481": {
+      "rectangle": {
+        "x": 3059,
+        "y": 6029,
+        "w": 143,
+        "h": 242
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 388,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0482": {
+      "rectangle": {
+        "x": 3212,
+        "y": 6029,
+        "w": 145,
+        "h": 243
+      },
+      "source_rectangle": {
+        "x": 38,
+        "y": 387,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0483": {
+      "rectangle": {
+        "x": 3367,
+        "y": 6029,
+        "w": 148,
+        "h": 241
+      },
+      "source_rectangle": {
+        "x": 37,
+        "y": 389,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0484": {
+      "rectangle": {
+        "x": 3525,
+        "y": 6029,
+        "w": 148,
+        "h": 239
+      },
+      "source_rectangle": {
+        "x": 38,
+        "y": 391,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0485": {
+      "rectangle": {
+        "x": 3683,
+        "y": 6029,
+        "w": 145,
+        "h": 226
+      },
+      "source_rectangle": {
+        "x": 38,
+        "y": 404,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0486": {
+      "rectangle": {
+        "x": 3838,
+        "y": 6029,
+        "w": 133,
+        "h": 211
+      },
+      "source_rectangle": {
+        "x": 40,
+        "y": 419,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0487": {
+      "rectangle": {
+        "x": 3981,
+        "y": 6029,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0488": {
+      "rectangle": {
+        "x": 4116,
+        "y": 6029,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0489": {
+      "rectangle": {
+        "x": 4251,
+        "y": 6029,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0490": {
+      "rectangle": {
+        "x": 4386,
+        "y": 6029,
+        "w": 125,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0491": {
+      "rectangle": {
+        "x": 4521,
+        "y": 6029,
+        "w": 126,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0492": {
+      "rectangle": {
+        "x": 4657,
+        "y": 6029,
+        "w": 135,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0493": {
+      "rectangle": {
+        "x": 4802,
+        "y": 6029,
+        "w": 139,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0494": {
+      "rectangle": {
+        "x": 4951,
+        "y": 6029,
+        "w": 145,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0495": {
+      "rectangle": {
+        "x": 5106,
+        "y": 6029,
+        "w": 154,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0496": {
+      "rectangle": {
+        "x": 5270,
+        "y": 6029,
+        "w": 162,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0497": {
+      "rectangle": {
+        "x": 5442,
+        "y": 6029,
+        "w": 159,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0498": {
+      "rectangle": {
+        "x": 5611,
+        "y": 6029,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    },
+    "BeauBattle0499": {
+      "rectangle": {
+        "x": 5611,
+        "y": 6029,
+        "w": 158,
+        "h": 202
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 428,
+        "w": 851,
+        "h": 751
+      }
+    }
+  },
+  "image_name": "Player.png"
+}

@@ -1,0 +1,61 @@
+{
+  "frames": {
+    "1_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 20
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 20
+      }
+    },
+    "1_2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 20
+      },
+      "source_rectangle": {
+        "x": 20,
+        "y": 0,
+        "w": 20,
+        "h": 20
+      }
+    },
+    "1_3": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 20
+      },
+      "source_rectangle": {
+        "x": 40,
+        "y": 0,
+        "w": 20,
+        "h": 20
+      }
+    },
+    "1_4": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 20
+      },
+      "source_rectangle": {
+        "x": 60,
+        "y": 0,
+        "w": 20,
+        "h": 20
+      }
+    }
+  },
+  "image_name": "tower1_bullet.png"
+}

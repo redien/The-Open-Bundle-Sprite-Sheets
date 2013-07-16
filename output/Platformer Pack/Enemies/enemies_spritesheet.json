@@ -1,0 +1,257 @@
+{
+  "frames": {
+    "blockerBody": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 51
+      },
+      "source_rectangle": {
+        "x": 203,
+        "y": 0,
+        "w": 51,
+        "h": 51
+      }
+    },
+    "blockerMad": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 51
+      },
+      "source_rectangle": {
+        "x": 136,
+        "y": 66,
+        "w": 51,
+        "h": 51
+      }
+    },
+    "blockerSad": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 51
+      },
+      "source_rectangle": {
+        "x": 188,
+        "y": 66,
+        "w": 51,
+        "h": 51
+      }
+    },
+    "fishDead": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 42
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 69,
+        "w": 66,
+        "h": 42
+      }
+    },
+    "fishSwim1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 42
+      },
+      "source_rectangle": {
+        "x": 76,
+        "y": 0,
+        "w": 66,
+        "h": 42
+      }
+    },
+    "fishSwim2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 43
+      },
+      "source_rectangle": {
+        "x": 73,
+        "y": 43,
+        "w": 62,
+        "h": 43
+      }
+    },
+    "flyDead": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 33
+      },
+      "source_rectangle": {
+        "x": 143,
+        "y": 0,
+        "w": 59,
+        "h": 33
+      }
+    },
+    "flyFly1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 36
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 32,
+        "w": 72,
+        "h": 36
+      }
+    },
+    "flyFly2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 31
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 31
+      }
+    },
+    "pokerMad": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 146
+      },
+      "source_rectangle": {
+        "x": 255,
+        "y": 0,
+        "w": 48,
+        "h": 146
+      }
+    },
+    "pokerSad": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 146
+      },
+      "source_rectangle": {
+        "x": 304,
+        "y": 0,
+        "w": 48,
+        "h": 146
+      }
+    },
+    "slimeDead": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 12
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 112,
+        "w": 59,
+        "h": 12
+      }
+    },
+    "slimeWalk1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 28
+      },
+      "source_rectangle": {
+        "x": 52,
+        "y": 125,
+        "w": 50,
+        "h": 28
+      }
+    },
+    "slimeWalk2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 26
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 125,
+        "w": 51,
+        "h": 26
+      }
+    },
+    "snailShell": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 30
+      },
+      "source_rectangle": {
+        "x": 103,
+        "y": 119,
+        "w": 44,
+        "h": 30
+      }
+    },
+    "snailShell_upsidedown": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 30
+      },
+      "source_rectangle": {
+        "x": 148,
+        "y": 118,
+        "w": 44,
+        "h": 30
+      }
+    },
+    "snailWalk1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 31
+      },
+      "source_rectangle": {
+        "x": 143,
+        "y": 34,
+        "w": 54,
+        "h": 31
+      }
+    },
+    "snailWalk2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 31
+      },
+      "source_rectangle": {
+        "x": 67,
+        "y": 87,
+        "w": 57,
+        "h": 31
+      }
+    }
+  },
+  "image_name": "enemies_spritesheet.png"
+}

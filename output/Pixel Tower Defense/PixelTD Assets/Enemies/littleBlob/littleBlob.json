@@ -1,0 +1,61 @@
+{
+  "frames": {
+    "1_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      }
+    },
+    "1_2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "source_rectangle": {
+        "x": 15,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      }
+    },
+    "1_3": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "source_rectangle": {
+        "x": 30,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      }
+    },
+    "1_4": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "source_rectangle": {
+        "x": 45,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      }
+    }
+  },
+  "image_name": "littleBlob.png"
+}

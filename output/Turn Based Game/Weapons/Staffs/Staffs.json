@@ -1,0 +1,61 @@
+{
+  "frames": {
+    "staff0000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 124,
+        "h": 69
+      },
+      "source_rectangle": {
+        "x": 3,
+        "y": 14,
+        "w": 144,
+        "h": 83
+      }
+    },
+    "staff0001": {
+      "rectangle": {
+        "x": 10,
+        "y": 89,
+        "w": 124,
+        "h": 75
+      },
+      "source_rectangle": {
+        "x": 2,
+        "y": 5,
+        "w": 144,
+        "h": 83
+      }
+    },
+    "staff0002": {
+      "rectangle": {
+        "x": 10,
+        "y": 174,
+        "w": 144,
+        "h": 81
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 83
+      }
+    },
+    "staff0003": {
+      "rectangle": {
+        "x": 10,
+        "y": 265,
+        "w": 115,
+        "h": 69
+      },
+      "source_rectangle": {
+        "x": 2,
+        "y": 11,
+        "w": 144,
+        "h": 83
+      }
+    }
+  },
+  "image_name": "Staffs.png"
+}

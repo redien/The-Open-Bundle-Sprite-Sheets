@@ -1,0 +1,75 @@
+{
+  "frames": {
+    "1_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 24
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 24
+      }
+    },
+    "1_2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 24
+      },
+      "source_rectangle": {
+        "x": 32,
+        "y": 0,
+        "w": 32,
+        "h": 24
+      }
+    },
+    "1_3": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 24
+      },
+      "source_rectangle": {
+        "x": 64,
+        "y": 0,
+        "w": 32,
+        "h": 24
+      }
+    },
+    "1_4": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 24
+      },
+      "source_rectangle": {
+        "x": 96,
+        "y": 0,
+        "w": 32,
+        "h": 24
+      }
+    },
+    "1_5": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 24
+      },
+      "source_rectangle": {
+        "x": 128,
+        "y": 0,
+        "w": 32,
+        "h": 24
+      }
+    }
+  },
+  "image_name": "bigBlob.png"
+}

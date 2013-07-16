@@ -1,0 +1,1783 @@
+{
+  "frames": {
+    "Floppit0000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0001": {
+      "rectangle": {
+        "x": 210,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0002": {
+      "rectangle": {
+        "x": 410,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0003": {
+      "rectangle": {
+        "x": 610,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0004": {
+      "rectangle": {
+        "x": 810,
+        "y": 10,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0005": {
+      "rectangle": {
+        "x": 1010,
+        "y": 10,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0006": {
+      "rectangle": {
+        "x": 1210,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0007": {
+      "rectangle": {
+        "x": 1410,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0008": {
+      "rectangle": {
+        "x": 1610,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0009": {
+      "rectangle": {
+        "x": 1810,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0010": {
+      "rectangle": {
+        "x": 10,
+        "y": 244,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0011": {
+      "rectangle": {
+        "x": 210,
+        "y": 244,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0012": {
+      "rectangle": {
+        "x": 410,
+        "y": 244,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0013": {
+      "rectangle": {
+        "x": 610,
+        "y": 244,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0014": {
+      "rectangle": {
+        "x": 810,
+        "y": 244,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0015": {
+      "rectangle": {
+        "x": 1010,
+        "y": 244,
+        "w": 196,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0016": {
+      "rectangle": {
+        "x": 1216,
+        "y": 244,
+        "w": 202,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0017": {
+      "rectangle": {
+        "x": 1428,
+        "y": 244,
+        "w": 204,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0018": {
+      "rectangle": {
+        "x": 1642,
+        "y": 244,
+        "w": 207,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0019": {
+      "rectangle": {
+        "x": 10,
+        "y": 477,
+        "w": 216,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0020": {
+      "rectangle": {
+        "x": 236,
+        "y": 477,
+        "w": 216,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0021": {
+      "rectangle": {
+        "x": 462,
+        "y": 477,
+        "w": 216,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0022": {
+      "rectangle": {
+        "x": 688,
+        "y": 477,
+        "w": 216,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0023": {
+      "rectangle": {
+        "x": 914,
+        "y": 477,
+        "w": 216,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0024": {
+      "rectangle": {
+        "x": 1140,
+        "y": 477,
+        "w": 209,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0025": {
+      "rectangle": {
+        "x": 1359,
+        "y": 477,
+        "w": 203,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0026": {
+      "rectangle": {
+        "x": 1572,
+        "y": 477,
+        "w": 199,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0027": {
+      "rectangle": {
+        "x": 1781,
+        "y": 477,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0028": {
+      "rectangle": {
+        "x": 10,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0029": {
+      "rectangle": {
+        "x": 210,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0030": {
+      "rectangle": {
+        "x": 410,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0031": {
+      "rectangle": {
+        "x": 610,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0032": {
+      "rectangle": {
+        "x": 810,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0033": {
+      "rectangle": {
+        "x": 1010,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0034": {
+      "rectangle": {
+        "x": 1210,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0035": {
+      "rectangle": {
+        "x": 1410,
+        "y": 710,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0036": {
+      "rectangle": {
+        "x": 1610,
+        "y": 710,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0037": {
+      "rectangle": {
+        "x": 1810,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0038": {
+      "rectangle": {
+        "x": 10,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0039": {
+      "rectangle": {
+        "x": 210,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0040": {
+      "rectangle": {
+        "x": 410,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0041": {
+      "rectangle": {
+        "x": 610,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0042": {
+      "rectangle": {
+        "x": 810,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0043": {
+      "rectangle": {
+        "x": 1010,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0044": {
+      "rectangle": {
+        "x": 1210,
+        "y": 944,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0045": {
+      "rectangle": {
+        "x": 1410,
+        "y": 944,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0046": {
+      "rectangle": {
+        "x": 1610,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0047": {
+      "rectangle": {
+        "x": 1810,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0048": {
+      "rectangle": {
+        "x": 10,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0049": {
+      "rectangle": {
+        "x": 210,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0050": {
+      "rectangle": {
+        "x": 410,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0051": {
+      "rectangle": {
+        "x": 610,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0052": {
+      "rectangle": {
+        "x": 810,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0053": {
+      "rectangle": {
+        "x": 1010,
+        "y": 1178,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0054": {
+      "rectangle": {
+        "x": 1210,
+        "y": 1178,
+        "w": 190,
+        "h": 228
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0055": {
+      "rectangle": {
+        "x": 1410,
+        "y": 1178,
+        "w": 190,
+        "h": 229
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0056": {
+      "rectangle": {
+        "x": 1610,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0057": {
+      "rectangle": {
+        "x": 1810,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0058": {
+      "rectangle": {
+        "x": 10,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0059": {
+      "rectangle": {
+        "x": 210,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0060": {
+      "rectangle": {
+        "x": 410,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0061": {
+      "rectangle": {
+        "x": 610,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0062": {
+      "rectangle": {
+        "x": 810,
+        "y": 1417,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0063": {
+      "rectangle": {
+        "x": 1010,
+        "y": 1417,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0064": {
+      "rectangle": {
+        "x": 1210,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0065": {
+      "rectangle": {
+        "x": 1410,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0066": {
+      "rectangle": {
+        "x": 1610,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0067": {
+      "rectangle": {
+        "x": 1810,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0068": {
+      "rectangle": {
+        "x": 10,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0069": {
+      "rectangle": {
+        "x": 210,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0070": {
+      "rectangle": {
+        "x": 410,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0071": {
+      "rectangle": {
+        "x": 610,
+        "y": 1651,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0072": {
+      "rectangle": {
+        "x": 810,
+        "y": 1651,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0073": {
+      "rectangle": {
+        "x": 1010,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0074": {
+      "rectangle": {
+        "x": 1210,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0075": {
+      "rectangle": {
+        "x": 1410,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0076": {
+      "rectangle": {
+        "x": 1610,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0077": {
+      "rectangle": {
+        "x": 1810,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0078": {
+      "rectangle": {
+        "x": 10,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0079": {
+      "rectangle": {
+        "x": 210,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0080": {
+      "rectangle": {
+        "x": 410,
+        "y": 1885,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0081": {
+      "rectangle": {
+        "x": 610,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0082": {
+      "rectangle": {
+        "x": 810,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0083": {
+      "rectangle": {
+        "x": 1010,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0084": {
+      "rectangle": {
+        "x": 1210,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0085": {
+      "rectangle": {
+        "x": 1410,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0086": {
+      "rectangle": {
+        "x": 1610,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0087": {
+      "rectangle": {
+        "x": 1810,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0088": {
+      "rectangle": {
+        "x": 10,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0089": {
+      "rectangle": {
+        "x": 210,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0090": {
+      "rectangle": {
+        "x": 410,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0091": {
+      "rectangle": {
+        "x": 610,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0092": {
+      "rectangle": {
+        "x": 810,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0093": {
+      "rectangle": {
+        "x": 1010,
+        "y": 2119,
+        "w": 190,
+        "h": 234
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0094": {
+      "rectangle": {
+        "x": 1210,
+        "y": 2119,
+        "w": 190,
+        "h": 232
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 2,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0095": {
+      "rectangle": {
+        "x": 1410,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0096": {
+      "rectangle": {
+        "x": 1610,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0097": {
+      "rectangle": {
+        "x": 1810,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0098": {
+      "rectangle": {
+        "x": 10,
+        "y": 2363,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0099": {
+      "rectangle": {
+        "x": 10,
+        "y": 244,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0100": {
+      "rectangle": {
+        "x": 210,
+        "y": 2363,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0101": {
+      "rectangle": {
+        "x": 410,
+        "y": 2363,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0102": {
+      "rectangle": {
+        "x": 610,
+        "y": 2363,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0103": {
+      "rectangle": {
+        "x": 810,
+        "y": 2363,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0104": {
+      "rectangle": {
+        "x": 1010,
+        "y": 2363,
+        "w": 196,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0105": {
+      "rectangle": {
+        "x": 1216,
+        "y": 2363,
+        "w": 202,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0106": {
+      "rectangle": {
+        "x": 1428,
+        "y": 2363,
+        "w": 204,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0107": {
+      "rectangle": {
+        "x": 1642,
+        "y": 2363,
+        "w": 207,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0108": {
+      "rectangle": {
+        "x": 10,
+        "y": 2596,
+        "w": 216,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0109": {
+      "rectangle": {
+        "x": 236,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0110": {
+      "rectangle": {
+        "x": 436,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0111": {
+      "rectangle": {
+        "x": 636,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0112": {
+      "rectangle": {
+        "x": 836,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0113": {
+      "rectangle": {
+        "x": 1036,
+        "y": 2596,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0114": {
+      "rectangle": {
+        "x": 1236,
+        "y": 2596,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0115": {
+      "rectangle": {
+        "x": 1210,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0116": {
+      "rectangle": {
+        "x": 1436,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0117": {
+      "rectangle": {
+        "x": 1636,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0118": {
+      "rectangle": {
+        "x": 1836,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0119": {
+      "rectangle": {
+        "x": 10,
+        "y": 2830,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0120": {
+      "rectangle": {
+        "x": 636,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0121": {
+      "rectangle": {
+        "x": 210,
+        "y": 2830,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0122": {
+      "rectangle": {
+        "x": 410,
+        "y": 2830,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0123": {
+      "rectangle": {
+        "x": 1010,
+        "y": 10,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0124": {
+      "rectangle": {
+        "x": 1210,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0125": {
+      "rectangle": {
+        "x": 1436,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Floppit0126": {
+      "rectangle": {
+        "x": 1610,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    }
+  },
+  "image_name": "Floppit.png"
+}

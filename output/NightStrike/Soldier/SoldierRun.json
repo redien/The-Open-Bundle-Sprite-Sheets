@@ -1,0 +1,257 @@
+{
+  "frames": {
+    "soldier_run0000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 119,
+        "h": 127
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0001": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 119,
+        "h": 127
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0002": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 119,
+        "h": 127
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0003": {
+      "rectangle": {
+        "x": 139,
+        "y": 10,
+        "w": 109,
+        "h": 134
+      },
+      "source_rectangle": {
+        "x": 8,
+        "y": 1,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0004": {
+      "rectangle": {
+        "x": 139,
+        "y": 10,
+        "w": 109,
+        "h": 134
+      },
+      "source_rectangle": {
+        "x": 8,
+        "y": 1,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0005": {
+      "rectangle": {
+        "x": 258,
+        "y": 10,
+        "w": 102,
+        "h": 136
+      },
+      "source_rectangle": {
+        "x": 5,
+        "y": 5,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0006": {
+      "rectangle": {
+        "x": 258,
+        "y": 10,
+        "w": 102,
+        "h": 136
+      },
+      "source_rectangle": {
+        "x": 5,
+        "y": 5,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0007": {
+      "rectangle": {
+        "x": 370,
+        "y": 10,
+        "w": 83,
+        "h": 131
+      },
+      "source_rectangle": {
+        "x": 9,
+        "y": 12,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0008": {
+      "rectangle": {
+        "x": 370,
+        "y": 10,
+        "w": 83,
+        "h": 131
+      },
+      "source_rectangle": {
+        "x": 9,
+        "y": 12,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0009": {
+      "rectangle": {
+        "x": 10,
+        "y": 156,
+        "w": 120,
+        "h": 120
+      },
+      "source_rectangle": {
+        "x": 3,
+        "y": 7,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0010": {
+      "rectangle": {
+        "x": 10,
+        "y": 156,
+        "w": 120,
+        "h": 120
+      },
+      "source_rectangle": {
+        "x": 3,
+        "y": 7,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0011": {
+      "rectangle": {
+        "x": 10,
+        "y": 156,
+        "w": 120,
+        "h": 120
+      },
+      "source_rectangle": {
+        "x": 3,
+        "y": 7,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0012": {
+      "rectangle": {
+        "x": 140,
+        "y": 156,
+        "w": 114,
+        "h": 127
+      },
+      "source_rectangle": {
+        "x": 6,
+        "y": 7,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0013": {
+      "rectangle": {
+        "x": 140,
+        "y": 156,
+        "w": 114,
+        "h": 127
+      },
+      "source_rectangle": {
+        "x": 6,
+        "y": 7,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0014": {
+      "rectangle": {
+        "x": 264,
+        "y": 156,
+        "w": 96,
+        "h": 135
+      },
+      "source_rectangle": {
+        "x": 5,
+        "y": 9,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0015": {
+      "rectangle": {
+        "x": 264,
+        "y": 156,
+        "w": 96,
+        "h": 135
+      },
+      "source_rectangle": {
+        "x": 5,
+        "y": 9,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0016": {
+      "rectangle": {
+        "x": 370,
+        "y": 156,
+        "w": 80,
+        "h": 132
+      },
+      "source_rectangle": {
+        "x": 8,
+        "y": 11,
+        "w": 123,
+        "h": 144
+      }
+    },
+    "soldier_run0017": {
+      "rectangle": {
+        "x": 370,
+        "y": 156,
+        "w": 80,
+        "h": 132
+      },
+      "source_rectangle": {
+        "x": 8,
+        "y": 11,
+        "w": 123,
+        "h": 144
+      }
+    }
+  },
+  "image_name": "SoldierRun.png"
+}

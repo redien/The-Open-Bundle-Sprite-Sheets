@@ -1,0 +1,327 @@
+{
+  "frames": {
+    "bloodsplat30000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 31,
+        "h": 36
+      },
+      "source_rectangle": {
+        "x": 119,
+        "y": 87,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30001": {
+      "rectangle": {
+        "x": 51,
+        "y": 10,
+        "w": 95,
+        "h": 96
+      },
+      "source_rectangle": {
+        "x": 84,
+        "y": 61,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30002": {
+      "rectangle": {
+        "x": 156,
+        "y": 10,
+        "w": 160,
+        "h": 154
+      },
+      "source_rectangle": {
+        "x": 47,
+        "y": 23,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30003": {
+      "rectangle": {
+        "x": 326,
+        "y": 10,
+        "w": 215,
+        "h": 178
+      },
+      "source_rectangle": {
+        "x": 18,
+        "y": 7,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30004": {
+      "rectangle": {
+        "x": 326,
+        "y": 10,
+        "w": 215,
+        "h": 178
+      },
+      "source_rectangle": {
+        "x": 18,
+        "y": 7,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30005": {
+      "rectangle": {
+        "x": 551,
+        "y": 10,
+        "w": 240,
+        "h": 184
+      },
+      "source_rectangle": {
+        "x": 3,
+        "y": 6,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30006": {
+      "rectangle": {
+        "x": 10,
+        "y": 204,
+        "w": 240,
+        "h": 184
+      },
+      "source_rectangle": {
+        "x": 3,
+        "y": 6,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30007": {
+      "rectangle": {
+        "x": 260,
+        "y": 204,
+        "w": 247,
+        "h": 193
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30008": {
+      "rectangle": {
+        "x": 260,
+        "y": 204,
+        "w": 247,
+        "h": 193
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30009": {
+      "rectangle": {
+        "x": 517,
+        "y": 204,
+        "w": 247,
+        "h": 194
+      },
+      "source_rectangle": {
+        "x": 4,
+        "y": 9,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30010": {
+      "rectangle": {
+        "x": 517,
+        "y": 204,
+        "w": 247,
+        "h": 194
+      },
+      "source_rectangle": {
+        "x": 4,
+        "y": 9,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30011": {
+      "rectangle": {
+        "x": 774,
+        "y": 204,
+        "w": 228,
+        "h": 195
+      },
+      "source_rectangle": {
+        "x": 11,
+        "y": 14,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30012": {
+      "rectangle": {
+        "x": 774,
+        "y": 204,
+        "w": 228,
+        "h": 195
+      },
+      "source_rectangle": {
+        "x": 11,
+        "y": 14,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30013": {
+      "rectangle": {
+        "x": 10,
+        "y": 409,
+        "w": 228,
+        "h": 195
+      },
+      "source_rectangle": {
+        "x": 11,
+        "y": 17,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30014": {
+      "rectangle": {
+        "x": 248,
+        "y": 409,
+        "w": 211,
+        "h": 186
+      },
+      "source_rectangle": {
+        "x": 23,
+        "y": 29,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30015": {
+      "rectangle": {
+        "x": 248,
+        "y": 409,
+        "w": 211,
+        "h": 186
+      },
+      "source_rectangle": {
+        "x": 23,
+        "y": 29,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30016": {
+      "rectangle": {
+        "x": 469,
+        "y": 409,
+        "w": 211,
+        "h": 186
+      },
+      "source_rectangle": {
+        "x": 23,
+        "y": 33,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30017": {
+      "rectangle": {
+        "x": 690,
+        "y": 409,
+        "w": 154,
+        "h": 118
+      },
+      "source_rectangle": {
+        "x": 49,
+        "y": 110,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30018": {
+      "rectangle": {
+        "x": 690,
+        "y": 409,
+        "w": 154,
+        "h": 118
+      },
+      "source_rectangle": {
+        "x": 49,
+        "y": 110,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30019": {
+      "rectangle": {
+        "x": 854,
+        "y": 409,
+        "w": 154,
+        "h": 118
+      },
+      "source_rectangle": {
+        "x": 49,
+        "y": 118,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30020": {
+      "rectangle": {
+        "x": 10,
+        "y": 614,
+        "w": 141,
+        "h": 123
+      },
+      "source_rectangle": {
+        "x": 48,
+        "y": 123,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30021": {
+      "rectangle": {
+        "x": 10,
+        "y": 614,
+        "w": 141,
+        "h": 123
+      },
+      "source_rectangle": {
+        "x": 48,
+        "y": 123,
+        "w": 251,
+        "h": 246
+      }
+    },
+    "bloodsplat30022": {
+      "rectangle": {
+        "x": 10,
+        "y": 614,
+        "w": 141,
+        "h": 123
+      },
+      "source_rectangle": {
+        "x": 48,
+        "y": 123,
+        "w": 251,
+        "h": 246
+      }
+    }
+  },
+  "image_name": "Blood.png"
+}

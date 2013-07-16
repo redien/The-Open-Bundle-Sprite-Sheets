@@ -1,0 +1,75 @@
+{
+  "frames": {
+    "sword10000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 147,
+        "h": 54
+      },
+      "source_rectangle": {
+        "x": 24,
+        "y": 0,
+        "w": 174,
+        "h": 62
+      }
+    },
+    "sword10001": {
+      "rectangle": {
+        "x": 10,
+        "y": 74,
+        "w": 151,
+        "h": 56
+      },
+      "source_rectangle": {
+        "x": 22,
+        "y": 1,
+        "w": 174,
+        "h": 62
+      }
+    },
+    "sword10002": {
+      "rectangle": {
+        "x": 10,
+        "y": 140,
+        "w": 140,
+        "h": 59
+      },
+      "source_rectangle": {
+        "x": 34,
+        "y": 3,
+        "w": 174,
+        "h": 62
+      }
+    },
+    "sword10003": {
+      "rectangle": {
+        "x": 10,
+        "y": 209,
+        "w": 136,
+        "h": 43
+      },
+      "source_rectangle": {
+        "x": 35,
+        "y": 9,
+        "w": 174,
+        "h": 62
+      }
+    },
+    "sword10004": {
+      "rectangle": {
+        "x": 10,
+        "y": 262,
+        "w": 166,
+        "h": 49
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 1,
+        "w": 174,
+        "h": 62
+      }
+    }
+  },
+  "image_name": "Swords.png"
+}

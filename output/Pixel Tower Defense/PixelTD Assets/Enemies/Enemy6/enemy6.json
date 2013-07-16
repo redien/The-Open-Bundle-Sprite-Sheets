@@ -1,0 +1,75 @@
+{
+  "frames": {
+    "1_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 24
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 24
+      }
+    },
+    "1_2": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 24
+      },
+      "source_rectangle": {
+        "x": 40,
+        "y": 0,
+        "w": 40,
+        "h": 24
+      }
+    },
+    "1_3": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 24
+      },
+      "source_rectangle": {
+        "x": 80,
+        "y": 0,
+        "w": 40,
+        "h": 24
+      }
+    },
+    "1_4": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 24
+      },
+      "source_rectangle": {
+        "x": 120,
+        "y": 0,
+        "w": 40,
+        "h": 24
+      }
+    },
+    "1_5": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 24
+      },
+      "source_rectangle": {
+        "x": 160,
+        "y": 0,
+        "w": 40,
+        "h": 24
+      }
+    }
+  },
+  "image_name": "enemy6.png"
+}

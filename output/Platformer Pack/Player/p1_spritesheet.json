@@ -1,0 +1,229 @@
+{
+  "frames": {
+    "p1_duck": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 71
+      },
+      "source_rectangle": {
+        "x": 365,
+        "y": 98,
+        "w": 69,
+        "h": 71
+      }
+    },
+    "p1_front": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 92
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 196,
+        "w": 66,
+        "h": 92
+      }
+    },
+    "p1_hurt": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 92
+      },
+      "source_rectangle": {
+        "x": 438,
+        "y": 0,
+        "w": 69,
+        "h": 92
+      }
+    },
+    "p1_jump": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 94
+      },
+      "source_rectangle": {
+        "x": 438,
+        "y": 93,
+        "w": 67,
+        "h": 94
+      }
+    },
+    "p1_stand": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 92
+      },
+      "source_rectangle": {
+        "x": 67,
+        "y": 196,
+        "w": 66,
+        "h": 92
+      }
+    },
+    "p1_walk01": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      }
+    },
+    "p1_walk02": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      },
+      "source_rectangle": {
+        "x": 73,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      }
+    },
+    "p1_walk03": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      },
+      "source_rectangle": {
+        "x": 146,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      }
+    },
+    "p1_walk04": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 98,
+        "w": 72,
+        "h": 97
+      }
+    },
+    "p1_walk05": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      },
+      "source_rectangle": {
+        "x": 73,
+        "y": 98,
+        "w": 72,
+        "h": 97
+      }
+    },
+    "p1_walk06": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      },
+      "source_rectangle": {
+        "x": 146,
+        "y": 98,
+        "w": 72,
+        "h": 97
+      }
+    },
+    "p1_walk07": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      },
+      "source_rectangle": {
+        "x": 219,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      }
+    },
+    "p1_walk08": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      },
+      "source_rectangle": {
+        "x": 292,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      }
+    },
+    "p1_walk09": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      },
+      "source_rectangle": {
+        "x": 219,
+        "y": 98,
+        "w": 72,
+        "h": 97
+      }
+    },
+    "p1_walk10": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      },
+      "source_rectangle": {
+        "x": 365,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      }
+    },
+    "p1_walk11": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 97
+      },
+      "source_rectangle": {
+        "x": 292,
+        "y": 98,
+        "w": 72,
+        "h": 97
+      }
+    }
+  },
+  "image_name": "p1_spritesheet.png"
+}

@@ -1,0 +1,19 @@
+{
+  "frames": {
+    "1_1": {
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 7,
+        "h": 7
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 7,
+        "h": 7
+      }
+    }
+  },
+  "image_name": "tower2_bullet.png"
+}

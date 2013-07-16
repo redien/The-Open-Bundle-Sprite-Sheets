@@ -1,0 +1,481 @@
+{
+  "frames": {
+    "sparkA0000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0001": {
+      "rectangle": {
+        "x": 195,
+        "y": 10,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0002": {
+      "rectangle": {
+        "x": 380,
+        "y": 10,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0003": {
+      "rectangle": {
+        "x": 565,
+        "y": 10,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0004": {
+      "rectangle": {
+        "x": 750,
+        "y": 10,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0005": {
+      "rectangle": {
+        "x": 10,
+        "y": 208,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0006": {
+      "rectangle": {
+        "x": 195,
+        "y": 208,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0007": {
+      "rectangle": {
+        "x": 380,
+        "y": 208,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0008": {
+      "rectangle": {
+        "x": 565,
+        "y": 208,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0009": {
+      "rectangle": {
+        "x": 750,
+        "y": 208,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0010": {
+      "rectangle": {
+        "x": 10,
+        "y": 406,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0011": {
+      "rectangle": {
+        "x": 195,
+        "y": 406,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0012": {
+      "rectangle": {
+        "x": 380,
+        "y": 406,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0013": {
+      "rectangle": {
+        "x": 565,
+        "y": 406,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0014": {
+      "rectangle": {
+        "x": 750,
+        "y": 406,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0015": {
+      "rectangle": {
+        "x": 10,
+        "y": 604,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0016": {
+      "rectangle": {
+        "x": 195,
+        "y": 604,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0017": {
+      "rectangle": {
+        "x": 195,
+        "y": 604,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0018": {
+      "rectangle": {
+        "x": 380,
+        "y": 604,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0019": {
+      "rectangle": {
+        "x": 380,
+        "y": 604,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0020": {
+      "rectangle": {
+        "x": 565,
+        "y": 604,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0021": {
+      "rectangle": {
+        "x": 565,
+        "y": 604,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0022": {
+      "rectangle": {
+        "x": 750,
+        "y": 604,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0023": {
+      "rectangle": {
+        "x": 750,
+        "y": 604,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0024": {
+      "rectangle": {
+        "x": 10,
+        "y": 802,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0025": {
+      "rectangle": {
+        "x": 10,
+        "y": 802,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0026": {
+      "rectangle": {
+        "x": 195,
+        "y": 802,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0027": {
+      "rectangle": {
+        "x": 195,
+        "y": 802,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0028": {
+      "rectangle": {
+        "x": 380,
+        "y": 802,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0029": {
+      "rectangle": {
+        "x": 380,
+        "y": 802,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0030": {
+      "rectangle": {
+        "x": 565,
+        "y": 802,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0031": {
+      "rectangle": {
+        "x": 750,
+        "y": 802,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0032": {
+      "rectangle": {
+        "x": 750,
+        "y": 802,
+        "w": 175,
+        "h": 188
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    },
+    "sparkA0033": {
+      "rectangle": {
+        "x": 935,
+        "y": 802,
+        "w": 0,
+        "h": 0
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 188
+      }
+    }
+  },
+  "image_name": "Sparks1.png"
+}

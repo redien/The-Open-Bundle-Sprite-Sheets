@@ -1,0 +1,285 @@
+{
+  "frames": {
+    "soldier_shootA0000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 95,
+        "h": 116
+      },
+      "source_rectangle": {
+        "x": 101,
+        "y": 51,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0001": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 95,
+        "h": 116
+      },
+      "source_rectangle": {
+        "x": 101,
+        "y": 51,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0002": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 95,
+        "h": 116
+      },
+      "source_rectangle": {
+        "x": 101,
+        "y": 51,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0003": {
+      "rectangle": {
+        "x": 115,
+        "y": 10,
+        "w": 160,
+        "h": 114
+      },
+      "source_rectangle": {
+        "x": 66,
+        "y": 53,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0004": {
+      "rectangle": {
+        "x": 285,
+        "y": 10,
+        "w": 174,
+        "h": 123
+      },
+      "source_rectangle": {
+        "x": 59,
+        "y": 44,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0005": {
+      "rectangle": {
+        "x": 469,
+        "y": 10,
+        "w": 199,
+        "h": 136
+      },
+      "source_rectangle": {
+        "x": 46,
+        "y": 31,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0006": {
+      "rectangle": {
+        "x": 678,
+        "y": 10,
+        "w": 259,
+        "h": 153
+      },
+      "source_rectangle": {
+        "x": 16,
+        "y": 16,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0007": {
+      "rectangle": {
+        "x": 10,
+        "y": 173,
+        "w": 291,
+        "h": 176
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 4,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0008": {
+      "rectangle": {
+        "x": 311,
+        "y": 173,
+        "w": 281,
+        "h": 180
+      },
+      "source_rectangle": {
+        "x": 5,
+        "y": 2,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0009": {
+      "rectangle": {
+        "x": 311,
+        "y": 173,
+        "w": 281,
+        "h": 180
+      },
+      "source_rectangle": {
+        "x": 5,
+        "y": 2,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0010": {
+      "rectangle": {
+        "x": 602,
+        "y": 173,
+        "w": 278,
+        "h": 185
+      },
+      "source_rectangle": {
+        "x": 7,
+        "y": 0,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0011": {
+      "rectangle": {
+        "x": 602,
+        "y": 173,
+        "w": 278,
+        "h": 185
+      },
+      "source_rectangle": {
+        "x": 7,
+        "y": 0,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0012": {
+      "rectangle": {
+        "x": 10,
+        "y": 368,
+        "w": 272,
+        "h": 177
+      },
+      "source_rectangle": {
+        "x": 10,
+        "y": 4,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0013": {
+      "rectangle": {
+        "x": 10,
+        "y": 368,
+        "w": 272,
+        "h": 177
+      },
+      "source_rectangle": {
+        "x": 10,
+        "y": 4,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0014": {
+      "rectangle": {
+        "x": 292,
+        "y": 368,
+        "w": 238,
+        "h": 179
+      },
+      "source_rectangle": {
+        "x": 27,
+        "y": 3,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0015": {
+      "rectangle": {
+        "x": 292,
+        "y": 368,
+        "w": 238,
+        "h": 179
+      },
+      "source_rectangle": {
+        "x": 27,
+        "y": 3,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0016": {
+      "rectangle": {
+        "x": 540,
+        "y": 368,
+        "w": 220,
+        "h": 167
+      },
+      "source_rectangle": {
+        "x": 36,
+        "y": 9,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0017": {
+      "rectangle": {
+        "x": 540,
+        "y": 368,
+        "w": 220,
+        "h": 167
+      },
+      "source_rectangle": {
+        "x": 36,
+        "y": 9,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0018": {
+      "rectangle": {
+        "x": 770,
+        "y": 368,
+        "w": 232,
+        "h": 144
+      },
+      "source_rectangle": {
+        "x": 30,
+        "y": 23,
+        "w": 291,
+        "h": 185
+      }
+    },
+    "soldier_shootA0019": {
+      "rectangle": {
+        "x": 10,
+        "y": 557,
+        "w": 232,
+        "h": 139
+      },
+      "source_rectangle": {
+        "x": 30,
+        "y": 23,
+        "w": 291,
+        "h": 185
+      }
+    }
+  },
+  "image_name": "SoldierShoot.png"
+}

@@ -1,0 +1,1783 @@
+{
+  "frames": {
+    "Fluppit0000": {
+      "rectangle": {
+        "x": 10,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0001": {
+      "rectangle": {
+        "x": 210,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0002": {
+      "rectangle": {
+        "x": 410,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0003": {
+      "rectangle": {
+        "x": 610,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0004": {
+      "rectangle": {
+        "x": 810,
+        "y": 10,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0005": {
+      "rectangle": {
+        "x": 1010,
+        "y": 10,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0006": {
+      "rectangle": {
+        "x": 1210,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0007": {
+      "rectangle": {
+        "x": 1410,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0008": {
+      "rectangle": {
+        "x": 1610,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0009": {
+      "rectangle": {
+        "x": 1810,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0010": {
+      "rectangle": {
+        "x": 10,
+        "y": 244,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0011": {
+      "rectangle": {
+        "x": 210,
+        "y": 244,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0012": {
+      "rectangle": {
+        "x": 410,
+        "y": 244,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0013": {
+      "rectangle": {
+        "x": 610,
+        "y": 244,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0014": {
+      "rectangle": {
+        "x": 810,
+        "y": 244,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0015": {
+      "rectangle": {
+        "x": 1010,
+        "y": 244,
+        "w": 196,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0016": {
+      "rectangle": {
+        "x": 1216,
+        "y": 244,
+        "w": 202,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0017": {
+      "rectangle": {
+        "x": 1428,
+        "y": 244,
+        "w": 204,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0018": {
+      "rectangle": {
+        "x": 1642,
+        "y": 244,
+        "w": 207,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0019": {
+      "rectangle": {
+        "x": 10,
+        "y": 477,
+        "w": 216,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0020": {
+      "rectangle": {
+        "x": 236,
+        "y": 477,
+        "w": 216,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0021": {
+      "rectangle": {
+        "x": 462,
+        "y": 477,
+        "w": 216,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0022": {
+      "rectangle": {
+        "x": 688,
+        "y": 477,
+        "w": 216,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0023": {
+      "rectangle": {
+        "x": 914,
+        "y": 477,
+        "w": 216,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0024": {
+      "rectangle": {
+        "x": 1140,
+        "y": 477,
+        "w": 209,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0025": {
+      "rectangle": {
+        "x": 1359,
+        "y": 477,
+        "w": 203,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0026": {
+      "rectangle": {
+        "x": 1572,
+        "y": 477,
+        "w": 199,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0027": {
+      "rectangle": {
+        "x": 1781,
+        "y": 477,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0028": {
+      "rectangle": {
+        "x": 10,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0029": {
+      "rectangle": {
+        "x": 210,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0030": {
+      "rectangle": {
+        "x": 410,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0031": {
+      "rectangle": {
+        "x": 610,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0032": {
+      "rectangle": {
+        "x": 810,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0033": {
+      "rectangle": {
+        "x": 1010,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0034": {
+      "rectangle": {
+        "x": 1210,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0035": {
+      "rectangle": {
+        "x": 1410,
+        "y": 710,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0036": {
+      "rectangle": {
+        "x": 1610,
+        "y": 710,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0037": {
+      "rectangle": {
+        "x": 1210,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0038": {
+      "rectangle": {
+        "x": 1810,
+        "y": 710,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0039": {
+      "rectangle": {
+        "x": 10,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0040": {
+      "rectangle": {
+        "x": 210,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0041": {
+      "rectangle": {
+        "x": 410,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0042": {
+      "rectangle": {
+        "x": 610,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0043": {
+      "rectangle": {
+        "x": 810,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0044": {
+      "rectangle": {
+        "x": 1010,
+        "y": 944,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0045": {
+      "rectangle": {
+        "x": 1210,
+        "y": 944,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0046": {
+      "rectangle": {
+        "x": 1410,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0047": {
+      "rectangle": {
+        "x": 1610,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0048": {
+      "rectangle": {
+        "x": 1810,
+        "y": 944,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0049": {
+      "rectangle": {
+        "x": 10,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0050": {
+      "rectangle": {
+        "x": 210,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0051": {
+      "rectangle": {
+        "x": 410,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0052": {
+      "rectangle": {
+        "x": 610,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0053": {
+      "rectangle": {
+        "x": 810,
+        "y": 1178,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0054": {
+      "rectangle": {
+        "x": 1010,
+        "y": 1178,
+        "w": 190,
+        "h": 228
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0055": {
+      "rectangle": {
+        "x": 1210,
+        "y": 1178,
+        "w": 190,
+        "h": 229
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0056": {
+      "rectangle": {
+        "x": 1410,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0057": {
+      "rectangle": {
+        "x": 1610,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0058": {
+      "rectangle": {
+        "x": 1810,
+        "y": 1178,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0059": {
+      "rectangle": {
+        "x": 10,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0060": {
+      "rectangle": {
+        "x": 210,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0061": {
+      "rectangle": {
+        "x": 410,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0062": {
+      "rectangle": {
+        "x": 610,
+        "y": 1417,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0063": {
+      "rectangle": {
+        "x": 810,
+        "y": 1417,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0064": {
+      "rectangle": {
+        "x": 1010,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0065": {
+      "rectangle": {
+        "x": 1210,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0066": {
+      "rectangle": {
+        "x": 1410,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0067": {
+      "rectangle": {
+        "x": 1610,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0068": {
+      "rectangle": {
+        "x": 1810,
+        "y": 1417,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0069": {
+      "rectangle": {
+        "x": 10,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0070": {
+      "rectangle": {
+        "x": 210,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0071": {
+      "rectangle": {
+        "x": 410,
+        "y": 1651,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0072": {
+      "rectangle": {
+        "x": 610,
+        "y": 1651,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0073": {
+      "rectangle": {
+        "x": 810,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0074": {
+      "rectangle": {
+        "x": 1010,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0075": {
+      "rectangle": {
+        "x": 1210,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0076": {
+      "rectangle": {
+        "x": 1410,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0077": {
+      "rectangle": {
+        "x": 1610,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0078": {
+      "rectangle": {
+        "x": 1810,
+        "y": 1651,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0079": {
+      "rectangle": {
+        "x": 10,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0080": {
+      "rectangle": {
+        "x": 210,
+        "y": 1885,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0081": {
+      "rectangle": {
+        "x": 410,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0082": {
+      "rectangle": {
+        "x": 610,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0083": {
+      "rectangle": {
+        "x": 810,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0084": {
+      "rectangle": {
+        "x": 1010,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0085": {
+      "rectangle": {
+        "x": 1210,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0086": {
+      "rectangle": {
+        "x": 1410,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0087": {
+      "rectangle": {
+        "x": 1610,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0088": {
+      "rectangle": {
+        "x": 1810,
+        "y": 1885,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0089": {
+      "rectangle": {
+        "x": 10,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0090": {
+      "rectangle": {
+        "x": 210,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0091": {
+      "rectangle": {
+        "x": 410,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0092": {
+      "rectangle": {
+        "x": 610,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0093": {
+      "rectangle": {
+        "x": 810,
+        "y": 2119,
+        "w": 190,
+        "h": 234
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0094": {
+      "rectangle": {
+        "x": 1010,
+        "y": 2119,
+        "w": 190,
+        "h": 232
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 2,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0095": {
+      "rectangle": {
+        "x": 1210,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0096": {
+      "rectangle": {
+        "x": 1410,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0097": {
+      "rectangle": {
+        "x": 1210,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0098": {
+      "rectangle": {
+        "x": 1410,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0099": {
+      "rectangle": {
+        "x": 1610,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0100": {
+      "rectangle": {
+        "x": 1810,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0101": {
+      "rectangle": {
+        "x": 10,
+        "y": 2363,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0102": {
+      "rectangle": {
+        "x": 210,
+        "y": 2363,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0103": {
+      "rectangle": {
+        "x": 410,
+        "y": 2363,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0104": {
+      "rectangle": {
+        "x": 610,
+        "y": 2363,
+        "w": 196,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0105": {
+      "rectangle": {
+        "x": 816,
+        "y": 2363,
+        "w": 202,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0106": {
+      "rectangle": {
+        "x": 1028,
+        "y": 2363,
+        "w": 204,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0107": {
+      "rectangle": {
+        "x": 1242,
+        "y": 2363,
+        "w": 207,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0108": {
+      "rectangle": {
+        "x": 1459,
+        "y": 2363,
+        "w": 216,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0109": {
+      "rectangle": {
+        "x": 1685,
+        "y": 2363,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0110": {
+      "rectangle": {
+        "x": 10,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0111": {
+      "rectangle": {
+        "x": 210,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0112": {
+      "rectangle": {
+        "x": 410,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0113": {
+      "rectangle": {
+        "x": 610,
+        "y": 2596,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0114": {
+      "rectangle": {
+        "x": 810,
+        "y": 2596,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0115": {
+      "rectangle": {
+        "x": 1210,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0116": {
+      "rectangle": {
+        "x": 1010,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0117": {
+      "rectangle": {
+        "x": 1210,
+        "y": 2119,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0118": {
+      "rectangle": {
+        "x": 1210,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0119": {
+      "rectangle": {
+        "x": 1410,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0120": {
+      "rectangle": {
+        "x": 1610,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0121": {
+      "rectangle": {
+        "x": 1810,
+        "y": 2596,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0122": {
+      "rectangle": {
+        "x": 10,
+        "y": 2830,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0123": {
+      "rectangle": {
+        "x": 1010,
+        "y": 10,
+        "w": 190,
+        "h": 224
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 10,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0124": {
+      "rectangle": {
+        "x": 1210,
+        "y": 10,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0125": {
+      "rectangle": {
+        "x": 210,
+        "y": 2830,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    },
+    "Fluppit0126": {
+      "rectangle": {
+        "x": 410,
+        "y": 2830,
+        "w": 190,
+        "h": 223
+      },
+      "source_rectangle": {
+        "x": 0,
+        "y": 11,
+        "w": 216,
+        "h": 240
+      }
+    }
+  },
+  "image_name": "Fluppit.png"
+}
