@@ -742,6 +742,24 @@ def output_texture_packer_json(filepath, object)
     IO.write(filepath + '_texture_packer.json', JSON.pretty_generate(new_object, {:indent => '   ', :space => ''}))
 end
 
+def output_simple(filepath, object)
+    simple = ""
+    for frame in object["frames"]
+        simple << frame["name"] << ' ='
+        simple << ' ' << frame["rectangle"]["x"].to_s
+        simple << ' ' << frame["rectangle"]["y"].to_s
+        simple << ' ' << frame["rectangle"]["width"].to_s
+        simple << ' ' << frame["rectangle"]["height"].to_s
+        simple << ' ' << frame["offset"]["x"].to_s
+        simple << ' ' << frame["offset"]["y"].to_s
+        simple << ' ' << frame["size"]["width"].to_s
+        simple << ' ' << frame["size"]["height"].to_s
+        simple << "\n"
+    end
+
+    IO.write(filepath + '.txt', simple)
+end
+
 for source in sources
     image_type = source[:image_type]
     if not image_type
@@ -912,4 +930,5 @@ for source in sources
 
     output_json('output/' + filepath, object)
     output_texture_packer_json('output/' + filepath, object)
+    output_simple('output/' + filepath, object)
 end

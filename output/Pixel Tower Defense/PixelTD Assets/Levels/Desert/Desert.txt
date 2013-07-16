@@ -1,0 +1,10 @@
+desertHouse = 0 0 46 60 0 0 46 60
+desertHouse2 = 46 0 46 60 0 0 46 60
+desertOasis = 92 0 77 28 0 0 77 28
+deserttree = 169 0 29 35 0 0 29 35
+deserttree2 = 0 60 15 20 0 0 15 20
+dunes1 = 15 60 142 21 0 0 142 21
+dunes2 = 157 60 54 9 0 0 54 9
+grid_desert = 211 60 100 100 0 0 100 100
+tileDesert1 = 0 160 25 25 0 0 25 25
+tileDesert2 = 25 160 25 25 0 0 25 25

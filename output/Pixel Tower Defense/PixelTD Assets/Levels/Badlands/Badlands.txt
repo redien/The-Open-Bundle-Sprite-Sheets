@@ -1,0 +1,12 @@
+BadlandsCrater1 = 0 0 50 50 0 0 50 50
+BadlandsCrater2 = 50 0 50 50 0 0 50 50
+BadlandsPond1 = 100 0 57 16 0 0 57 16
+BadlandsPond2 = 157 0 43 18 0 0 43 18
+BadlandsPond3 = 0 50 78 31 0 0 78 31
+BadlandsRocks1 = 78 50 81 53 0 0 81 53
+BadlandsRocks2 = 159 50 24 23 0 0 24 23
+BadlandsRocks3 = 183 50 24 23 0 0 24 23
+Badlandstree1 = 0 103 76 74 0 0 76 74
+grid_badlands = 76 103 100 100 0 0 100 100
+tileBadlands1 = 176 103 25 25 0 0 25 25
+tileBadlands2 = 201 103 25 25 0 0 25 25

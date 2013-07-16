@@ -1,0 +1,11 @@
+grasshill1 = 0 0 54 20 0 0 54 20
+grasshill2 = 54 0 54 20 0 0 54 20
+grasshill3 = 108 0 64 20 0 0 64 20
+grid_grass = 172 0 100 100 0 0 100 100
+houseGrass = 0 100 62 50 0 0 62 50
+houseGrass2 = 62 100 62 50 0 0 62 50
+tileGrass1 = 124 100 25 25 0 0 25 25
+tileGrass2 = 149 100 25 25 0 0 25 25
+tileGrass3 = 0 150 25 25 0 0 25 25
+tree1grass = 25 150 20 29 0 0 20 29
+tree2grass = 45 150 15 25 0 0 15 25
