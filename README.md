@@ -7,6 +7,7 @@ Export formats
 -------------
 - Simple JSON format
 - TexturePacker JSON-array
+- Simple text format
 
 Original Assets
 -------------
