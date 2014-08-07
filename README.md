@@ -1,7 +1,7 @@
 The-Open-Bundle-Sprite-Sheets
 =============================
 
-All the Open Bundle and Gamedev Garage Sale sprite sheets converted into a common JSON format using an accompanying Ruby script.
+All the Open Bundle and Gamedev Garage Sale sprite sheets converted into some common formats using an accompanying Ruby script.
 
 These game assets were all dedicated to the public domain with the Creative Commons CC0 Public Domain Dedication.
 
